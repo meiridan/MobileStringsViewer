@@ -1,9 +1,16 @@
 {
-  "name": "starter-node-angular",
+  "name": "mobile-strings-viewer",
   "main": "server.js",
   "dependencies": {
   "express" : "~4.5.1",
   "body-parser" : "~1.4.2",
-  "method-override" : "~2.0.2"
+  "method-override" : "~2.0.2",
+  "async" : "latest",
+  "fs" : "latest",
+  "iconv-lite" : "latest",
+  "line-reader" : "latest",
+  "sys" : "latest",
+  "xml2js" : "latest"
   }
+
 }

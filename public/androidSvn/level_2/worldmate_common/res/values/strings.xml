@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="settings_edit_phone">Travel counselor phone</string>
+    <string name="text_travel_counselor_title">Travel counselor: </string>
+    <string name="service_user_interaction">Feedback</string>
+    <string name="service_equipment_rental">Telecom Square</string>
+    <string name="service_travel_insurance">Travel Insurance</string>
+    <string name="wm_start_page_1_title">Booking &amp; Planning</string>
+    <string name="wm_start_page_2_title">Services</string>
+    <string name="wm_start_page_3_title">Information &amp; Settings</string>
+    <string name="general_footer_text_title">Add flights, hotels, car rentals and more \n by forwarding your travel confirmation emails to</string>
+    <string name="empty_upcoming_trips_title">No Trips.</string>
+    <string name="widget_screen_item3">Gold user? Get flight status changes and updates</string>
+    <string name="flight_reminder_dismiss">Dismiss</string>
+    <string name="time">Time</string>
+    <string name="please_updtae_your_google_play_services_at_the_google_play_store">Please updtae your \'Google play services\' at the google play store</string>
+    <string name="please_sign_in_with_a_valid_google_account_in_order_to_show_and_use_google_maps">Please sign in with a valid google account in order to show and use google maps</string>
+    <string name="google_play_services_are_not_available_for_this_devices">Google play services are not available for this devices</string>
+    <string name="service_flight_search_name">Flight Search</string>
+    <string name="service_flight_search_description">(Schedules only)</string>
+    <string name="g_plus_sign_in">Sign in with Google</string>
+
+
+    <!-- Copied Strings from CWTTG -->
+    <!-- DrawerLayout Related -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Card related strings -->
+
+    <!-- home tutorial -->
+    <string name="_tutorial_header_1">My Trips:</string>
+    <string name="_tutorial_header_2">Travel Tools:</string>
+    <string name="_tutorial_header_3">And More:</string>
+    <string name="_tutorial_sub_header_1">All your travel plans summarized in one place for easy access.</string>
+    <string name="_tutorial_sub_header_2">Easy to use tools to find an alternate flight, decide what to pack and much more – right at the palm of your hand.</string>
+    <string name="_tutorial_sub_header_3">Get notified about trip disruptions. Better off - add a widget to your home screen for an even easier access to upcoming trip information.</string>
+
+    <!-- worldmate wellcome screen -->
+
+    <string name="worldmate_main_title1">All Your Travel Plans in One Place</string>
+    <string name="worldmate_main_title2">When Timing is Critical...</string>
+    <string name="worldmate_sub_title2">Receive real-time flight alerts for delays, gate assignments or cancellations and easily review alternative flights.</string>
+    <string name="worldmate_main_title3">Save Time, Save Money</string>
+    <string name="worldmate_sub_title3">Book the best deals from more than 100,000 hotels worldwide. Get great rates on car rentals too.</string>
+    <string name="worldmate_main_title4">What You Need to Know</string>
+
+    <string name="travel_counselor_number_unavailable_text">Number is currently unavailable.\nPlease try again later</string>
+
+</resources>

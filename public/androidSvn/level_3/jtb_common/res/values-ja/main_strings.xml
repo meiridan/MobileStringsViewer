@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="booking_reservation_please_select_state">州を選択してください</string>
+    <string name="general_not_available_abv">該当なし</string>
+    <string name="car_booking_confirmation_general_currency_format_1f_2s">%1$.2f %2$s</string>
+    <string name="filters_price_format_low_1s_2f_hi_any">予算</string>
+    <string name="filters_price_format_low_1s_2f_hi_3s_4f">%1$s%2$.0f - %3$s%4$.0f</string>
+    <string name="hotel_booking_reservation_format_rate_for_1s_date">%1$sの料金</string>
+    <string name="hotel_results_format_1s_checkin_date_to_2s_checkout_date">%1$s - %2$s</string>
+    <string name="hotel_search_format_1f_miles_from_2s_landmark_name">%2$sから%1$.2fマイル</string>
+    <string name="hotel_search_format_1f_km_from_2s_landmark_name">%2$sから%1$.2f km</string>
+    <string name="hotel_search_format_1f_miles">%1$.2f マイル.</string>
+    <string name="hotel_search_format_1f_km">%1$.2f km.</string>
+    <string name="flight_card">モニター中</string>
+    <string name="ui_details_flight_is_monitored">モニター中</string>
+    <string name="ui_details_flight_not_monitored">運航状況がモニターされていません</string>
+    <string name="ui_details_updated_marker">更新済み</string>
+    <string name="ui_details_prev_time_format_1s_time_2s_ampm">(予定時刻:%1$s%2$s)</string>
+    <string name="daily_plan_trip_not_monitored">旅程はモニターされていません</string>
+    <string name="general_flight_format_1s_origin_city_to_2s_destination_city">%1$sから%2$s</string>
+    <string name="general_format_1s_origin_location_code_to_2s_destination_location_code">@string/general_flight_format_1s_origin_city_to_2s_destination_city</string>
+    <string name="yelp_search_format_1d_index_2s_business_name_3s_stars">%1$d。%2$s (%3$s星)</string>
+    <string name="billing_form_book_a_hotel_and_get_it_for_free">ホテル予約で無料</string>
+    <string name="billing_form_buy_it_now">今すぐご購入下さい</string>
+    <string name="booking_promo_book_now">今すぐご予約下さい</string>
+    <string name="booking_reservation_total_cost">合計料金:</string>
+    <string name="booking_reservation_edit">編集</string>
+    <string name="booking_reservation_month_hint">月月</string>
+     <string name="booking_reservation_year_hint">年年</string>
+    <string name="booking_reservation_security_number">セキュリティ番号</string>
+    <string name="booking_reservation_see_back_of_card">カードの裏面を確認</string>
+    <string name="booking_reservation_credit_card_security_number_hint">コード</string>
+    <string name="booking_reservation_room_rate_title">ルームレート</string>
+    <string name="details_button_strip_book_hotel">ホテルを予約</string>
+    <string name="flight_status_airline_title">航空会社:</string>
+    <string name="general_flight_status_terminal_title_with_space">"ターミナル: "</string>
+    <string name="general_flight_status_gate_title_with_space">"ゲート: "</string>
+    <string name="general_flight_status_terminal_title">ターミナル:</string>
+    <string name="general_flight_status_gate_title">ゲート:</string>
+    <string name="hotel_filters_all">全て</string>
+    <string name="services_my_itineraries">旅程</string>
+    <string name="sign_in_sign_in">サインイン</string>
+    <string name="sign_up_sign_up">新規登録</string>
+    <string name="sign_up_complete_please_complete_your_setup_title">設定を完了させてください</string>
+    <string name="widget_no_items">アイテムなし</string>
+    <string name="widget_general_pickup_date_title">借出日</string>
+    <string name="widget_general_dropoff_date_title">返却日</string>
+
+</resources>

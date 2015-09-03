@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="settings_calendar_sync_url">http://www.worldmate.com/trips/common/ical/intro.jhtml</string>
+    <string name="settings_manage_creditcards_url">https://www.worldmatelive.com/trips/profile/mobile/manageCreditCards.mhtml</string>
+    <string name="signin_forgot_password">パスワードをお忘れですか?<a href="https://www.worldmatelive.com/trips/common/lostPassword.mhtml?/">パスワードを忘れました</a></string>
+    <!-- Morning assistant -->
+    <string name="marketing_message_text">弊社からのマーケティング情報の受信をご承認ください。\n製品リリースや新サービス、お得なキャンペーンなどの情報をお届けします。</string>
+
+    <string name="settings_edit_phone">トラベルカウンセラーの電話</string>
+    <string name="text_travel_counselor_title">トラベルカウンセラー：</string>
+    <string name="service_user_interaction">フィードバック</string>
+    <string name="wm_start_page_1_title">予約 &amp; 計画</string>
+    <string name="wm_start_page_2_title">サービス</string>
+    <string name="wm_start_page_3_title">情報 &amp; 設定</string>
+    <string name="general_footer_text_title">次のアドレスに確認メールを転送すれば、フライト、\nホテル、レンタカーなどを追加できます：</string>
+    <string name="empty_upcoming_trips_title">旅行はありません</string>
+    <string name="widget_screen_item3">GOLD版の方は、フライトステータスやアップデートをご利用可能</string>
+    <string name="flight_reminder_dismiss">破棄</string>
+    <string name="time">時間</string>
+    <string name="please_updtae_your_google_play_services_at_the_google_play_store">Google Playストアで\'Google Playサービス\'をアップデートしてください</string>
+    <string name="please_sign_in_with_a_valid_google_account_in_order_to_show_and_use_google_maps">Googleマップの表示と利用のために、有効なGoogleアカウントでサインインしてください</string>
+    <string name="google_play_services_are_not_available_for_this_devices">Google Playサービスはこのデバイスでご利用できません</string>
+    <string name="service_flight_search_name">スケジュール検索</string>
+    <string name="service_flight_search_description"></string>
+
+
+    <!-- Copied Strings from CWTTG -->
+    <!-- DrawerLayout Related -->
+    <string name="drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="drawer_close">ナビゲーションドロワーを閉じる</string>
+
+    <!-- home tutorial -->
+    <string name="_tutorial_header_1">旅程:</string>
+    <string name="_tutorial_header_2">旅行ツール:</string>
+    <string name="_tutorial_header_3">その他：</string>
+    <string name="_tutorial_sub_header_1"></string>
+    <string name="_tutorial_sub_header_2">代わりのフライトの検索、荷物の内容決定などができ、簡単に使えるツール ‐ 皆様の手中に。</string>
+    <string name="_tutorial_sub_header_3">旅行中の思わぬ変更に関する通知を受信。近日予定の旅行情報へのアクセスがさらに簡単になるウィジェットをホーム画面に追加 ‐ 便利になります。</string>
+
+</resources>

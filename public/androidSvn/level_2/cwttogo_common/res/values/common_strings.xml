@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="time">Time</string>
+
+
+    <string name="billing_road_warrior_second_text">If your flight is delayed, canceled or diverted, Worldmate will push an alert directly to your Android.</string>
+
+    <string name="signup_complete_title_txt">Welcome to WorldMate</string>
+
+    <string name="non_active_one_day_scheduled_message_type_a">Forward your travel confirmation emails to <u>trips@worldmate.com</u> and we’ll take care of the rest.</string>
+    <string name="non_active_one_day_scheduled_title_type_a">New to WorldMate?</string>
+    <string name="non_active_one_week_scheduled_title_type_a">Give WorldMate a try!</string>
+    <string name="non_active_one_month_scheduled_title_type_a">Give WorldMate a try!</string>
+    <string name="non_active_one_month_scheduled_message_type_a">Managing your trips has never been easier – simply forward your travel confirmation emails to <u>trips@worldmate.com</u> and we’ll take care of the rest.</string>
+    <string name="non_active_one_day_scheduled_title_type_b">WorldMate Wants You Back!</string>
+    <string name="non_active_one_week_scheduled_message_type_b">The all new WorldMate helps you plan, book, and manage your trips better than ever.</string>
+    <string name="non_active_one_month_scheduled_message_type_b">Simply forward your confirmation emails to <U>trips@worldmate.com</U>.</string>
+
+</resources>

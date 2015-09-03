@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="text_signin">Trip To Goアカウントを既にお持ちの方はサインイン：</string>
+    <string name="button_join">Trip To Goに参加</string>
+    <string name="about_credits_html"><a href="http://worldmate.com/">開発者情報</a></string>
+    <string name="morning_assistant_activity_name">Trip To Goモーニングアシスタント</string>
+    <string name="morning_assistant_upcoming_trips_none_address">trips@triptogo.jp</string>
+    <string name="email_title">Trip To Goの旅行</string>
+    <string name="billing_hotel_promo_text1">全ての予約で3ヶ月間Trip To Go Goldへのアップグレード</string>
+    <string name="feedback_email_title">フィードバック：Android向けのTrip To Goバージョン</string>
+    <string name="itinerary_change_notification_ticker_text">Trip To Go：旅程がアップデートされました</string>
+    <string name="notification_common_title_with_prefix_format">Trip To Go: %1$s</string>
+    <string name="flight_alert_notification_ticker">Trip To Go：フライトアラート</string>
+    <string name="flight_alert_notification_audio_prefix">Trip To Go：</string>
+    <string name="itinerary_change_notification_audio_prefix">Trip To Go：</string>
+    <string name="gold_notification_title">Trip To Go Gold</string>
+    <string name="gold_subscription_activated_successful">Trip To Go Goldのサブスクリプションがアクティブ化されました</string>
+    <string name="gold_subscription_is_not_activated">Trip To Go Goldのサブスクリプションがアクティブ化されていません：%1$s</string>
+    <string name="gold_subscription_activation_error">Trip To Go Goldのサブクスリプションのアクティブ化エラー</string>
+    <string name="text_to_speech_missing_notification_ticker">Trip To Go：オーディオフライトアラートを有効化</string>
+    <string name="empty_trip_line1">このアドレスに確認メールを転送すれば、フライト、ホテル、レンタカーなどを追加できます：trips@triptogo.jp</string>
+    <string name="empty_upcoming_trips_line1">旅程を追加する場合は、予約確認メールをこちらに転送して下さい。 trips@triptogo.jp</string>
+    <string name="empty_upcoming_trips_line2">予約確認メールの予約内容に合わせ、自動的にTrip To Goがあなたの旅程プランをアップデートします。</string>
+    <string name="empty_upcoming_trips_line3">また、コンピュータを使ってwww.worldmate.comで旅程へのアクセスと管理も可能です。</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_prefix">Trip To Go：</string>
+    <string name="invalid_credentials_notification_ticker">Trip To Go：資格情報が変更されました</string>
+    <string name="invalid_credentials_message_text">Trip To Goのユーザー情報が更新されました</string>
+    <string name="friends_worldmate_user">Trip To Goユーザー</string>
+    <string name="rate_us_dialog_message_format">Trip To Goはいかがですか？\n%1$sで評価を\nお願いします!</string>
+    <string name="rate_us_dialog_button_rate">Trip To Goを評価</string>
+    <string name="marketing_message_title">Trip To Goにようこそ</string>
+    <string name="widget_description_long">既に予約済みですか? 確認メールをこちらに転送してください：<b>trips@triptogo.jp</b></string>
+    <string name="sign_up_btn_txt_start">Trip To Goの利用を開始</string>
+    <string name="no_upcoming_trips_add_contact">Trip To Goをアドレスブックに追加</string>
+    <string name="flight_reminder_buttons_details">Trip To Goを開く</string>
+    <string name="general_footer_text_email_link">trips@triptogo.jp</string>
+    <string name="tnx_for_booking">Trip To Goでご予約いただきありがとうございます</string>
+    <string name="flight_reminder_open_worldmate">Trip To Goを開く</string>
+    <string name="forward_email_address">trips@triptogo.jp</string>
+    <string name="facebook_token_expiration_error_message">Trip To Goをフル活用するには、全てのリクエスト許可が必要です。\n\nもう一度サインアップしてください。</string>
+
+    <string name="signup_complete_title_txt">Trip To Goにようこそ</string>
+    <string name="worldmate_sub_title1">フライトやホテルなどの予約確認メールをtrips@triptogo.jpへ転送すれば、予定がまとめて表示されます。</string>
+    <string name="worldmate_sub_title4">Trip To Goから直接オンラインチェックインができます。旅行プランをカレンダーに同期することも可能です。他にもいろいろな機能があります。\n（カレンダー同期はGOLD版のみ）</string>
+
+    <string name="menu_about">Trip To Go について</string>
+
+    <string name="sign_in_sign_in_underlined"><u>サインイン</u></string>
+
+    <string name="non_active_one_day_scheduled_title_type_a">Trip To Goを使い始めたばかりですか？</string>
+    <string name="non_active_one_day_scheduled_message_type_a">旅程確認メール（フライト、ホテル、レンタカー予約など）を下記アドレスに転送するだけで、アプリがあなたの旅行を簡単一元管理します。 trips@triptogo.jp</string>
+    <string name="non_active_one_week_scheduled_title_type_a">Trip To Goを使ってみよう！</string>
+    <string name="non_active_one_month_scheduled_title_type_a">Trip To Goを使ってみよう！</string>
+    <string name="non_active_one_month_scheduled_message_type_a">こんな万能アプリが欲しかった！旅程確認メール（フライト、ホテル、レンタカー予約など）を下記アドレスに転送するだけで、アプリがあなたの旅行を簡単一元管理します。trips@triptogo.jp</string>
+    <string name="non_active_one_day_scheduled_title_type_b">もう一度Trip To Goを使ってみませんか？</string>
+    <string name="non_active_one_week_scheduled_message_type_b">Trip To Goアプリがあなたの旅行予約や旅行プランをより簡単に！すべての旅程管理でアシストします。</string>
+    <string name="non_active_one_month_scheduled_message_type_b">予約確認メールを転送trips@triptogo.jp</string>
+
+    <string name="billing_road_warrior_second_text">ご利用のフライトが遅れたり、キャンセルになったり、到着地の変更があった場合、Trip To GoからユーザーのAndroidに直接アラートをプッシュ送信します。</string>
+
+    <string name="limo_call_number"> +1 855-660-4978</string>
+	
+	<string name="hotel_confirmation_title">Expediaと提携会社であるTrip To Goにてご予約いただきありがとうごいます。</string>
+
+    <string name="facebook_publish_wall_post_description_format"><![CDATA[%1$sはあなたの旅行をシンプルにまとめてくれる無料アプリです。Android, iPhone及びiPad用にてご利用いただけます]]></string>
+    <string name="facebook_publish_wall_post_action_name_format">Get %1$s</string>
+
+</resources>

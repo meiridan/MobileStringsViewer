@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_pack">com.mobimate.cwttogo</string>
+    <string name="text_signin">If you already have a CWT To Go account, Sign In:</string>
+    <string name="button_join">Join CWT To Go</string>
+    <string name="settings_change_password_url">https://www.worldmatelive.com/trips/common/lostPassword.mhtml</string>
+    <string name="settings_manage_creditcards_url">https://www.worldmatelive.com/trips/profile/mobile/manageCreditCards.mhtml</string>
+    <string name="about_copyright">© 2014 WorldMate Inc.</string>
+    <string name="about_visit_link">www.worldmate.com</string>
+    <string name="about_credits_html"><a href="">Credits</a></string>
+    <string name="about_learnmore_html"><a href="">Learn more about CWT To Go</a></string>
+    <string name="signin_forgot_password_text">Forgot password</string>
+    <!-- Morning assistant -->
+    <string name="morning_assistant_activity_name">CWT To Go Morning Assistant</string>
+    <string name="email_title">Worldmate trips</string>
+    <string name="billing_hotel_promo_text1">Free 3 month upgrade to CWT To Go for every booking</string>
+    <string name="feedback_email_title">Feedback for CWT To Go for Android, ver </string>
+    <string name="flight_alert_notification_audio_prefix">CWT To Go:</string>
+    <string name="itinerary_change_notification_audio_prefix">CWT To Go:</string>
+    <string name="gold_notification_title">CWT To Go</string>
+    <string name="gold_subscription_activated_successful">Your CWT To Go subscription has been activated</string>
+    <string name="gold_subscription_is_not_activated">Your CWT To Go subscription is not activated: %1$s</string>
+    <string name="gold_subscription_activation_error">CWT To Go Subscription activation error</string>
+    <string name="text_to_speech_missing_notification_ticker">CWT To Go: Enable audio flight alert</string>
+    <string name="empty_upcoming_trips_line3"></string>
+    <string name="invalid_credentials_notification_ticker">CWT To Go: Credentials changed</string>
+    <string name="invalid_credentials_message_text">Your CWT To Go credentials have changed</string>
+    <string name="friends_worldmate_user">CWT To Go User</string>
+    <string name="marketing_message_title">Welcome to CWT To Go</string>
+    <string name="marketing_message_text">Please approve opting in to marketing communications from us, so we will be able to occasionally send you relevant updates covering product releases, new features, tips and tricks, hotels deals and other useful information.
+\n\nYou can fine tune and select specific information you want to receive by changing your subscription preferences on worldmate.com.</string>
+    <string name="sign_up_btn_txt_start">Start using CWT To Go</string>
+    <string name="no_upcoming_trips_add_contact">Add CWT To Go to address book</string>
+    <string name="hotel_confirmation_title">Thank you for booking with CWT To Go, in affiliation with Expedia.</string>
+    <string name="tnx_for_booking">Thank you for booking with CWT To Go</string>
+    <string name="text_travel_counselor_title">My Local CWT Office: </string>
+    <string name="travel_counselor_number_unavailable_text">Your Travel Counselor number is currently \n
+    unavailable. Please try again later</string>
+    <string name="simple_dialog_fragment_dismiss_text">OK</string>
+    <string name="service_user_interaction">Tell a colleague</string>
+    <string name="cwt_copyright_name">Copyright © 2013-2015 CWT</string>
+    <string name="data_protection_privacy_policy_text">Data Protection &amp; Privacy Policy</string>
+    <string name="cwt_start_page_1_title">Services</string>
+    <string name="cwt_start_page_2_title">General</string>
+    <string name="general_footer_text_title_head">Your trip is empty.</string>
+    <string name="empty_upcoming_trips_title">You have no upcoming trips.</string>
+    <string name="empty_upcoming_trips_title2">You have no upcoming trips</string>
+    <string name="progress_msg">Please wait&#8230;</string>
+    <string name="widget_screen_item3">Get flight status changes and updates</string>
+    <string name="service_flight_search_name">Flight Schedules</string>
+    <string name="service_flight_search_description"></string>
+    <string name="call_to_book_flight_schedule">Call To Book A Flight</string>
+
+    <string name="cwt_wellcome_screen_pager_header_page2">All Your Travel Plans in One Place</string>
+    <string name="cwt_wellcome_screen_pager_header_page3">When Timing is Critical…</string>
+    <string name="cwt_wellcome_screen_pager_header_page4">What You Need to Know</string>
+    <string name="cwt_wellcome_screen_pager_des_page4">Looking for a restaurant for a team dinner?  Should you pack a sweater or an umbrella?  Access a variety of tools to make traveling even easier.</string>
+    
+    <!-- NOT translated -->
+    <string name="facebook_token_expiration_error_message">In order to enjoy the full benefit of CWT To Go, all requested permissions are required.\n\nPlease sign up again.</string>
+    <string name="hotel_booking_retrieve_traveller_details_error_message">An error occurred. Please return to the previous screen and submit your request again.</string>
+    <string name="hotel_booking_unexpected_error_message">An unexpected error occurred. Please try again.</string>
+    <string name="hotel_booking_complete_reservation_personal_info_error_message">Traveler information is missing from your profile. Please add your personal details to your travel profile and try again.</string>
+
+    <!-- DrawerLayout Related -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="login_scr_email_page_btn_txt">Continue</string>
+    <string name="login_scr_email_page_et_hint">Email address</string>
+    <string name="login_scr_email_page_btm_txt"/>
+    <string name="login_scr_email_page_top_txt">To experience CWT To Go, enter your travel profile email address</string>
+    <string name="cwt_sign_in_cwtg_and_active_txt"><Data><![CDATA[Welcome to the new CWT To Go powered by WorldMate! We’ve redesigned and enhanced our award-winning app to better serve your on-the-go needs.<br><br> Plus, the password you use to access the CWT Portal website is now your CWT Account password, allowing you to access CWT To Go AND CWT Portal with the same password!<br><br>Note: Your previous CWT To Go password is no longer valid.]]></Data></string>
+    <string name="cwt_sign_in_no_cwtg_and_active_txt"><Data><![CDATA[Welcome to CWT To Go powered by WorldMate!<br><br> To get started, please enter your CWT Account password, which is the password you use to access your CWT Portal website.<br><br><b>Please enter your CWT Account password</b>]]></Data></string>
+    <string name="cwt_sign_in_uset_sign_in_again_txt"><Data><![CDATA[Welcome!<br><br><b>Please enter your CWT Account password</b>]]></Data></string>
+    <string name="cwt_sign_in_cwtg_and_inactive_txt"><Data><![CDATA[Welcome to the new CWT To Go powered by WorldMate! We’ve redesigned and enhanced our award-winning app to better serve your on-the-go needs.<br><br>To access CWT To Go, please register for a new CWT Account. It only takes a few minutes and once set-up is complete, you can use the same email address and password to access CWT To Go and your CWT Portal website!<br><br><br><b>Choose a password: </b>]]></Data></string>
+    <string name="cwt_sign_in_no_cwtg_and_inactive_txt"><Data><![CDATA[<b>Welcome to the new CWT To Go powered by WorldMate!</b><br><br>To get started, please register for a CWT Account.  It only takes a few minutes and once set-up is complete, you can use the same email address and password to access CWT To Go and your CWT Portal website!<br><br><br><b>Choose a password: </b>]]></Data></string>
+    <string name="cwt_sign_in_active_not_verified_txt"><Data><![CDATA[<b>Thank you for creating your CWT Account.</b><br><br>Please follow directions found in an email that has been sent to your registered address to verify your account.<br><br>If you don’t receive the email, please check your spam or junk mail filter or: <br><br><a href="">Click here to resend</a> ]]></Data></string>
+    <string name="cwt_sign_in_active_not_verified_bottom_txt"><Data><![CDATA[<br>Did you already verify your account? <a href="">Click here to sign in.</a> ]]></Data></string>
+    <string name="cwt_sign_in_active_not_verified_txt_part2"><Data><![CDATA[<br><br><b>Did you already verify your account? </b>]]></Data></string>
+    <string name="cwt_sign_in_error_page_txt"><Data><![CDATA[Dear Traveler,<br><br>Your current travel profile configuration does not enable use of CWT To Go. Additional information and instructions have been sent to your email address.<br><br>Be sure to check your spam or junk mail filter if you don’t find the email in your inbox.]]></Data></string>
+    <string name="cwt_sign_in_error_page_txt_unkonwn_user"><Data><![CDATA[ <b> We’re Sorry!</b><br><br> We were unable to find your email address. Please validate the email entered is correct and try again.<br><br>If the email entered is correct, your travel profile configuration does not enable use of CWT To Go. <br><br> Additional information and instructions have been sent to your email address.<br><br>Be sure to check your spam or junk mail filter if you do not find the email in your inbox.]]></Data></string>
+    <string name="cwt_sign_in_error_dialog_button_update">Update</string>
+    <string name="cwt_simple_sign_in_btn_txt">Sign in</string>
+    <string name="cwt_simple_sign_up_password_hint_txt">CWT Account Password</string>
+    <string name="cwt_simple_sign_up_bottom_txt_1"><Data><![CDATA[By signing in you agree to our <a href="">Terms of Use</a>]]></Data></string>
+    <string name="cwt_simple_sign_up_bottom_txt_2"><Data><![CDATA[<a href="">Forgot your password?</a>]]></Data></string>
+    <string name="cwt_simple_sign_up_terms_of_use">Terms of Use</string>
+    <string name="cwt_simple_sign_up_bottom_txt_4"><Data><![CDATA[<a href="">Data Protection &amp; Privacy Policy</a>]]></Data></string>
+    <string name="cwt_sign_up_password_confirm_txt">Confirm your password:</string>
+    <string name="cwt_sign_up_question_txt1">Security question 1:</string>
+    <string name="cwt_sign_up_question_txt2">Security question 2:</string>
+    <string name="cwt_sign_up_answer_txt">Answer:</string>
+    <string name="cwt_sign_up_answer_select_city_txt">Select  your home city</string>
+    <string name="chose_password_hint">More than 8 letters and numbers</string>
+    <string name="resend_mail_success_msg">An email has been sent to your email address</string>
+    <!-- not translated -->
+
+    <string name="update_search_hotels_english">Update search</string>
+    <string name="hotel_booking_book_now">Book now</string>
+    <string name="hotel_booking_view_room_types">View room types</string>
+    <string name="hotel_booking_guests">Guests</string>
+    <string name="hotel_booking_error_title">Error</string>
+    <string name="hotel_booking_error_button_ok">OK</string>
+    <string name="hotel_booking_error_checkin_after_checkout">Check-out date must be after check-in date</string>
+    <string name="hotel_booking_error_checkin_in_past">Check in date is in the past</string>
+    <string name="hotel_booking_error_no_city">Please select a city</string>
+    <string name="hotel_booking_error_beyond_acceptable_date">We cannot accept a reservation for longer than 28 days</string>
+    <string name="hotel_booking_schedule_cancel_button">Cancel</string>
+    <string name="hotel_booking_schedule_done_button">Done</string>
+    <string name="hotel_booking_schedule_check_in_button">Check in</string>
+    <string name="hotel_booking_schedule_check_out_button">Check out</string>
+    <string name="hotel_booking_schedule_title">Select dates</string>
+    <string name="read_more_view_read_more">Read more</string>
+    <string name="hotel_booking_read_more_view_read_more">Read more \u25bc</string>
+    <string name="read_more_view_minimize">Minimize</string>
+    <string name="non_refundable"><![CDATA[<b>Non-refundable</b>]]></string>
+    <string name="hotel_results_change_search_title">Change Search</string>
+    <string name="hotel_results_list_view_more">View More</string>
+    <string name="hotel_availability_check_price">Checking\navailability</string>
+    <string name="hotel_availability_price_sold_out">Sold out</string>
+    <string name="hotel_item_preferred">Preferred</string>
+    <string name="booking_title">Hotel Search</string>
+    <string name="hotel_marker_check_price">Check price</string>
+    <string name="hotel_marker_sold_out">Sold out</string>
+    <string name="room_select_title">Select Room</string>
+    <string name="room_select_room_details_title">Room Details</string>
+    <string name="reservation_remember_card">Remember card</string>
+    <string name="reservation_card_description_hint">Card description</string>
+    <string name="reservation_room_activity_title">Complete reservation</string>
+    <string name="reservation_room_type">Room type:</string>
+    <string name="reservation_room_guests">Guests:</string>
+    <string name="reservation_room_check_in">Check-in:</string>
+    <string name="reservation_room_check_out">Check-out:</string>
+    <string name="reservation_room_number_of_nights">Number of nights:</string>
+    <string name="reservation_room_room_rate">Room rate:</string>
+    <string name="reservation_room_taxes_and_fees">Taxes &amp; Fees:</string>
+    <string name="reservation_room_total_price">Total price:</string>
+    <string name="reservation_room_guest_info_title">Guest information</string>
+    <string name="reservation_room_guest_name">Name:</string>
+    <string name="reservation_room_guest_email">Email:</string>
+    <string name="reservation_room_card_info_title">Card information</string>
+    <string name="reservation_room_card_use_saved">Use saved card</string>
+    <string name="reservation_room_card_book_new_card">Book with a new card</string>
+    <string name="reservation_room_card_select_type_prompt">Select card type</string>
+    <string name="reservation_room_card_label">Card</string>
+    <string name="reservation_room_card_exp_date_label">Expiry date</string>
+    <string name="reservation_room_card_number_prompt">Card number</string>
+    <string name="reservation_room_card_exp_date_prompt">Exp. date</string>
+    <string name="reservation_room_finalize_booking">Finalize booking</string>
+    <string name="reservation_room_acknowledge_paragraph"><Data><![CDATA[By completing this reservation, I acknowledge that I have read and understood the <a href="">cancellation policy</a> for this rate.]]></Data></string>
+    <string name="reservation_room_cancellation_policy_dialog_text">I am aware that payment for this reservation is paid to the hotelier directly upon checkout and that if I do not arrive for my reservation and/or do not cancel this reservation outside of the cancellation policy terms I will be liable to pay any cancellation fee penalties due to the hotelier.</string>
+    <string name="reservation_room_cancellation_policy_dialog_title">Cancellation policy</string>
+    <string name="hotel_confirmation_activity_title">Confirmation</string>
+    <string name="hotel_confirmation_thank_you">Thank you for booking with CWT To Go</string>
+    <string name="hotel_confirmation_reservation_details_title">Reservation details</string>
+    <string name="hotel_confirmation_total_price">Total price:</string>
+    <string name="hotel_confirmation_confirmation_number">Confirmation #:</string>
+    <string name="hotel_confirmation_reservation_number">Reservation #:</string>
+    <string name="hotel_confirmation_hotel_name">Hotel:</string>
+    <string name="hotel_confirmation_address">Address:</string>
+    <string name="hotel_confirmation_hotel_phone_number">Hotel Phone #:</string>
+    <string name="hotel_confirmation_check_in_date">Check-in date:</string>
+    <string name="hotel_confirmation_check_out_date">Check-out date:</string>
+    <string name="hotel_confirmation_room_type">Room type:</string>
+    <string name="hotel_confirmation_go_to_my_trips_button">Go to My Trips</string>
+    <string name="hotel_confirmation_cc_ends_with">%1$s ends with %2$s</string>
+    <string name="credit_card_americanexpress">American Express</string>
+    <string name="credit_card_visa">Visa</string>
+    <string name="credit_card_mastercard">MasterCard / Eurocard</string>
+    <string name="credit_card_dinersclub">DinersClub</string>
+    <string name="credit_card_discover">Discover</string>
+    <string name="credit_card_jcbinternational">JCB International</string>
+    <string name="hotel_cancellation_activity_title">Reservation cancellation</string>
+    <string name="hotel_cancellation_your_reservation_canceled">Your reservation has been canceled.</string>
+    <string name="hotel_cancellation_your_cancellation_number_is">Your cancellation number is %1$s.\nPlease retain this cancellation number for future reference.</string>
+    <string name="hotel_cancellation_confirm_dialog_title">Hotel Cancellation</string>
+    <string name="hotel_cancellation_confirm_dialog_message">Please check the cancellation policy for this hotel as penalties may apply.\nDo you wish to proceed with the cancellation?</string>
+    <string name="hotel_cancellation_confirm_positive_button">Yes</string>
+    <string name="hotel_cancellation_confirm_negative_button">No</string>
+    <string name="hotel_cancellation_confirmation_hotel_dates">Dates: %1$s</string>
+    <string name="hotel_cancellation_as_you_requested">As you requested, we\'ve canceled your reservation. We appreciate your business and we hope you will stay with us on your next trip.</string>
+    <string name="hotel_map_distance_from_mile">%1$.2f m from %2$s</string>
+    <string name="hotel_map_distance_from_kilometer">%1$.2f k from %2$s</string>
+    <string name="hotel_map_city_center">city center</string>
+    <string name="hotel_map_current_location">current location</string>
+    <string name="hotel_cwt_preferred_name">CWT Program</string>
+    <string name="hotel_company_preferred_name">Company Preferred</string>
+    <string name="hotel_company_by_colleagues">Colleague favorite</string>
+    <string name="hotel_user_previous_stay">Previous stay</string>
+    <string name="hotel_recomended_hotel">Recommended hotels</string>
+    <string name="hotel_search_hotel_hint">Search for hotel by name</string>
+    <string name="hotel_search_loading">Loading...</string>
+    <string name="hotel_cancellation_button">Cancel this reservation</string>
+    <string name="hotel_view_cancellation_policy_text">View cancellation policy</string>
+    <string name="select_location_and_dates">Select location and dates</string>
+    <string name="hotel_view_gallery">View\ngallery</string>
+    <!-- CDR's-->
+    <string name="hotel_finalize_company_data_title">Your company data</string>
+    <string name="hotel_finalize_account_name_title">Account name:</string>
+    <string name="hotel_finalize_account_name_hint">Account name</string>
+    <string name="cdr_info_text_matrix">A#Alphabetic (a-z, A-Z) plus space::N#Numeric (0-9) plus space::E#Alphanumeric (a-z, A-Z, 0-9), space, ampersand (&amp;), asterisk (*), at sign (@), hyphen (-)</string>
+    <string name="cdr_info_text_wings">A#Alpha::D#Digit::N#Alpha, Digit::X#Alpha, Digit, ampersand (&amp;), asterisk (*), at sign (@), hypen (-), forward slash (/), period (.), underscore (_), equal (=), colon (:), open/closed brackets ( )::Y#Alpha, Digit, space, ampersand (&amp;), asterisk (*), at sign (@), hypen (-), forward slash (/), period (.), underscore (_), equal (=), colon (:), open/closed brackets ( )</string>
+    <string name="cdr_info_title">Please use the following characters:</string>
+    <string name="cdr_display_text">Format: %1$d to %2$d chars. </string>
+    <string name="cdr_cdr_validation_message">Follow the provided format</string>
+    <string name="cdr_final_validation_alert">Some of the values you entered did not match the required format.\n Please fill in the fields highlighted in red correctly</string>
+    <string name="limo_introduction_part_two">Reserve a limo and get 3 months Gold.</string>
+
+    <!-- Missing accommodations not translated yet -->
+    <string name="hotel_book_in">Book a hotel in</string>
+    <string name="sign_up_link_eula">By signing up, you confirm that you accept the <a href="">User Agreement</a></string>
+
+    <string name="cvv_error_message">Please enter security number</string>
+
+    <string name="taxes_disclaimer">Prices may include taxes. Proceed to complete reservation screen for price breakdown.</string>
+    <string name="includes_taxes">INCLUDES TAXES</string>
+    <string name="may_include_taxes">MAY INCLUDE TAXES</string>
+
+</resources>

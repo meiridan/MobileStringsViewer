@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="cwt_phone_number_title">Mi oficina CWT local</string>
+    <string name="cwt_phone_number_introduction">Introduzca el número de teléfono de su oficina CWT local con el siguiente formato: el signo "+" seguido del código de país, el código de ciudadárea y el número de teléfono.</string>
+    <string name="cwt_phone_number_et_hint">Introduzca el número</string>
+    <string name="cwt_phone_number_text_below">Ejemplo: +33122222222 o +15551234567\n</string>
+    <string name="cwt_phone_number_text_below2">Este número se autocompletará dentro de la aplicación para brindarle acceso a su asesor de viajes de CWT con solo un clic.\n\nPuede editar o eliminar el número cuando quiera desde esta pantalla en Configuración.</string>
+    <string name="tell_a_colleague_subject">Dale un vistazo a CWT To Go</string>
+    <string name="tell_a_colleague_mail_text_part1">¡Hola! \n\n Estoy usando la aplicación móvil CWT To Go GRATIS y pensé que podría gustarte. \n\n Los itinerarios reservados con CWT se envían a la aplicación automáticamente para que no sea necesario reenviarlos a una dirección de correo electrónico o introducirlos manualmente. Además, recibo notificaciones sobre vuelos retrasados, asignaciones o cambios de puerta y mucho más. \n\n ¡Compruébelo usted mismo! \n\n\n iPhone y iPad:\n http://www.cwttogo.com/mobile/appstores.php?platform=ios \n\n Android: \n http://www.cwttogo.com/mobile/appstores.php?platform=android \n\n Windows Phone: \n http://www.cwttogo.com/mobile/appstores.php?platform=windows_phone \n\n BlackBerry: \n http://www.cwttogo.com/mobile/appstores.php?platform=blackberry \n\n</string>
+	<string name="cwt_first_encounter_msg">Bienvenido a la nueva aplicación \nCWT To Go.\n\nSus viajes se están cargando en el sistema. Dependiendo de la cantidad de viajes que tenga, la sincronización inicial puede tardar hasta 30 minutos.\n\nAgradecemos su paciencia.</string>
+</resources>

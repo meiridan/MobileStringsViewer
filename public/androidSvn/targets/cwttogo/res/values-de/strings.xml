@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+
+    <string name="cwt_wellcome_screen_pager_header_page2">Alle Ihre Reisepläne an einem Ort</string>
+    <string name="cwt_wellcome_screen_pager_header_page3">Wenn jede Minute zählt…</string>
+    <string name="cwt_wellcome_screen_pager_header_page4">Was Sie wissen müssen</string>
+    <string name="cwt_wellcome_screen_pager_des_page2">Über CWT gebuchte Reisen werden automatisch angezeigt, während eine E-Mail an plans@cwttogo.com über andere Kanäle gemachte Reisen enthält.</string>
+    <string name="cwt_wellcome_screen_pager_des_page3">CWT To Go informiert Sie über verspätete oder annullierte Flüge, Gate-Zuweisungen und -Änderungen, sodass Sie aktiv auf dem Laufenden bleiben können.</string>
+    <string name="cwt_wellcome_screen_pager_des_page4">Suchen Sie ein Restaurant für ein Geschäftsessen?  Sollten Sie einen Pullover oder einen Regenschirm einpacken?  Nutzen Sie eine Vielzahl von Tools, die Ihre Reise noch einfacher gestalten.</string>
+    <string name="login_scr_email_page_btn_txt">Weiter</string>
+    <string name="login_scr_email_page_et_hint">E-Mail-Adresse</string>
+    <string name="login_scr_email_page_btm_txt" />
+    <string name="login_scr_email_page_top_txt">Um CWT To Go zu nutzen, geben Sie die E-Mail-Adresse Ihres Reiseprofils ein.</string>
+    <string name="cwt_sign_in_cwtg_and_active_txt"><Data><![CDATA[Willkommen beim neuen CWT To Go von WorldMate! Wir haben unsere preisgekrönte App überarbeitet und verbessert, um noch besser auf Ihre Bedürfnisse unterwegs eingehen zu können.<br><br> Das Kennwort, das Sie für den Zugang zur CWT Portal-Website verwenden, ist nun auch das Kennwort für Ihr CWT-Konto, sodass Sie auf CWT To Go UND CWT Portal mit demselben Kennwort zugreifen können!<br><br>Hinweis: Ihr bisheriges CWT To Go-Kennwort ist nicht mehr gültig.]]></Data></string>
+    <string name="cwt_sign_in_no_cwtg_and_active_txt"><Data><![CDATA[Willkommen bei CWT To Go von WorldMate!<br><br> Geben Sie das Kennwort für Ihr CWT-Konto ein. Es entspricht dem Kennwort, das Sie für den Zugang zur CWT Portal-Website verwenden.<br><br><b>Geben Sie das Kennwort für Ihr CWT-Konto ein</b>]]></Data></string>
+    <string name="cwt_sign_in_uset_sign_in_again_txt"><Data><![CDATA[Willkommen!<br><br><b>Geben Sie das Kennwort für Ihr CWT-Konto ein</b>]]></Data></string>
+    <string name="cwt_sign_in_cwtg_and_inactive_txt"><Data><![CDATA[Willkommen beim neuen CWT To Go von WorldMate! Wir haben unsere preisgekrönte App überarbeitet und verbessert, um noch besser auf Ihre Bedürfnisse unterwegs eingehen zu können.<br><br>Erstellen Sie ein neues CWT-Konto, um auf CWT To Go zugreifen zu können. Die Einrichtung dauert nur ein paar Minuten. Dann können Sie dieselbe Kombination aus E-Mail-Adresse und Kennwort verwenden, um sowohl auf CWT To Go als auch auf die Website von CWT Portal zugreifen zu können!<br><br><br><b>Wählen Sie ein Kennwort: </b>]]></Data></string>
+    <string name="cwt_sign_in_no_cwtg_and_inactive_txt"><Data><![CDATA[ Willkommen beim neuen CWT To Go von WorldMate!<br><br>Erstellen Sie ein neues CWT-Konto, um CWT To Go verwenden zu können.  Die Einrichtung dauert nur ein paar Minuten. Dann können Sie dieselbe Kombination aus E-Mail-Adresse und Kennwort verwenden, um sowohl auf CWT To Go als auch auf die Website von CWT Portal zugreifen zu können!<br><br><br><b>Wählen Sie ein Kennwort: </b>]]></Data></string>
+    <string name="cwt_sign_in_active_not_verified_txt"><Data><![CDATA[<b>Vielen Dank, dass Sie ein CWT-Konto erstellt haben.</b><br><br>Folgen Sie zur Verifizierung Ihres Kontos den Anweisungen in der E-Mail, die an die von Ihnen angegebene Adresse gesendet wurde.<br><br>Wenn Sie die E-Mail nicht erhalten haben, überprüfen Sie Ihren Spam- oder Junkmail-Filter, oder <br><br><a href="">klicken Sie hier, um die Nachricht erneut zu verschicken</a> ]]></Data></string>
+    <string name="cwt_sign_in_active_not_verified_bottom_txt"><Data><![CDATA[<br>Haben Sie Ihr Konto bereits überprüft? <a href="">Klicken Sie hier, um sich anzumelden.</a> ]]></Data></string>
+    <string name="cwt_sign_in_active_not_verified_txt_part2"><Data><![CDATA[<br><br><b>Haben Sie Ihr Konto bereits überprüft? </b>]]></Data></string>
+    <string name="cwt_sign_in_error_page_txt"><Data><![CDATA[Liebe(r) Reisende(r),<br><br>mit der derzeitigen Konfiguration Ihres Reiseprofils ist die Verwendung von CWT To Go nicht möglich. Weitere Informationen und Anweisungen wurden an Ihre E-Mail-Adresse geschickt.<br><br>Überprüfen Sie Ihren Spam- oder Junkmail-Filter, wenn sich die E-Mail nicht in Ihrem Posteingang befindet.]]></Data></string>
+    <string name="cwt_sign_in_error_page_txt_unkonwn_user"><Data><![CDATA[ <b></b><br><br>Wir können Ihre E-Mail-Adresse leider nicht finden. Vergewissern Sie sich, dass die eingegebene E-Mail-Adresse korrekt ist und versuchen Sie es erneut.<br><br>Wenn die eingegebene E-Mail-Adresse korrekt ist, unterstützt die Konfiguration Ihres Reiseprofils nicht die Verwendung von CWT To Go. <br><br> Weitere Informationen und Anweisungen wurden an Ihre E-Mail-Adresse geschickt.<br><br>Überprüfen Sie Ihren Spam- oder Junkmail-Filter, wenn sich die E-Mail nicht in Ihrem Posteingang befindet.]]></Data></string>
+    <string name="cwt_sign_in_error_dialog_button_update">Aktualisieren</string>
+    <string name="cwt_simple_sign_in_btn_txt">Anmelden</string>
+    <string name="cwt_simple_sign_up_password_hint_txt">Kennwort für CWT-Konto</string>
+    <string name="cwt_simple_sign_up_bottom_txt_1"><Data><![CDATA[Durch Ihre Anmeldung akzeptieren Sie unsere <a href="">Nutzungsbedingungen</a>]]></Data></string>
+    <string name="cwt_simple_sign_up_bottom_txt_2"><Data><![CDATA[<a href="">Kennwort vergessen?</a>]]></Data></string>
+    <string name="cwt_simple_sign_up_terms_of_use">Nutzungsbedingungen</string>
+    <string name="cwt_sign_up_password_confirm_txt">Kennwort bestätigen:</string>
+    <string name="cwt_sign_up_question_txt1">Sicherheitsfrage 1:</string>
+    <string name="cwt_sign_up_question_txt2">Sicherheitsfrage 2:</string>
+    <string name="cwt_sign_up_answer_txt">Antwort:</string>
+    <string name="cwt_sign_up_answer_select_city_txt">Wählen Sie Ihre Heimatstadt</string>
+    <string name="chose_password_hint">Mehr als 8 Buchstaben und Zahlen</string>
+    <string name="resend_mail_success_msg">Es wurde eine E-Mail an Ihre E-Mail-Adresse gesendet.</string>
+    <string name="my_trips_upcoming_ab_tablet">Bevorstehende Reisen</string>
+    <string name="my_trips_past_ab_tablet">Vergangenen Reisen</string>
+    <string name="failed_to_add_contact">Fehler beim Kontakt hinzufügen</string>
+    <string name="hotel_reservation_title">Reservierung abschließen</string>
+    <string name="call_to_book_flight_schedule">Flug telefonisch buchen</string>
+
+    <string name="app_name">CWT To Go</string>
+    <string name="text_signin">Wenn Sie bereits ein CWT To Go-Konto haben, melden Sie sich an:</string>
+    <string name="button_join">Bei CWT To Go anmelden</string>
+    <string name="settings_change_password_url">https://www.worldmatelive.com/trips/common/lostPassword.mhtml</string>
+    <string name="settings_manage_creditcards_url">https://www.worldmatelive.com/trips/profile/mobile/manageCreditCards.mhtml</string>
+    <string name="about_version_format">CWT To Go v.%s</string>
+    <string name="about_copyright">© 2014 WorldMate Inc.</string>
+    <string name="about_visit_link">www.worldmate.com</string>
+    <string name="about_credits_html"><a href="">Partner</a></string>
+    <string name="about_learnmore_html"><a href="">Weitere Informationen zu CWT To Go</a></string>
+    <string name="signin_forgot_password"><a href="">Kennwort vergessen?</a></string>
+    <string name="signin_forgot_password_text">Kennwort vergessen</string>
+    <!-- Morning assistant -->
+    <string name="morning_assistant_activity_name">CWT To Go Morning-Assistent</string>
+    <string name="morning_assistant_upcoming_trips_none_address">plans@cwttogo.com.</string>
+    <string name="email_title">WorldMate-Reisen</string>
+    <string name="billing_hotel_promo_text1">Kostenloses dreimonatiges Upgrade auf CWT To Go bei jeder Buchung</string>
+    <string name="feedback_email_title">Feedback für CWT To Go for Android, Version </string>
+    <string name="itinerary_change_notification_ticker_text">CWT To Go: Reiseplan aktualisiert</string>
+    <string name="notification_common_title_with_prefix_format">CWT To Go: %1$s</string>
+    <string name="flight_alert_notification_ticker">CWT To Go: Flugalarm</string>
+    <string name="flight_alert_notification_audio_prefix">ssie da bel yu ti too go:</string>
+    <string name="itinerary_change_notification_audio_prefix">ssie da bel yu ti too go:</string>
+    <string name="gold_notification_title">CWT To Go</string>
+    <string name="gold_subscription_activated_successful">Ihr CWT To Go-Abonnement wurde aktiviert</string>
+    <string name="gold_subscription_is_not_activated">Ihr CWT To Go-Abonnement wurde nicht aktiviert: %1$s</string>
+    <string name="gold_subscription_activation_error">Fehler bei CWT To Go-Abonnementaktivierung</string>
+    <string name="text_to_speech_missing_notification_ticker">CWT To Go: Audio-Flugalarm aktivieren</string>
+    <string name="empty_trip_line1">Sie können Flüge, Hotels, Mietwagen und mehr hinzufügen, indem Sie Ihre Bestätigungs-E-Mail an plans@cwttogo.com weiterleiten.</string>
+    <string name="empty_upcoming_trips_line1">Über CWT gebuchte Reisen werden nach max. 30 min. in CWT To Go angezeigt.</string>
+    <string name="empty_upcoming_trips_line2">Haben Sie eine Reservierung, die nicht über CWT vorgenommen wurde? Leiten Sie die Bestätigungs-E-Mail einfach an plans@cwttogo.com weiter.</string>
+    <string name="empty_upcoming_trips_line3"></string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_prefix">ssie da bel yu ti too go:</string>
+    <string name="invalid_credentials_notification_ticker">CWT To Go: Anmeldeinformationen geändert</string>
+    <string name="invalid_credentials_message_text">Ihre CWT To Go-Anmeldeinformationen wurden geändert.</string>
+    <string name="friends_worldmate_user">CWT To Go-Benutzer</string>
+    <string name="rate_us_dialog_message_format">Sind sind begeistert von CWT To Go? Dann bewerten Sie uns auf %1$s mit fünf Sternen.</string>
+    <string name="rate_us_dialog_button_rate">CWT To Go bewerten</string>
+    <string name="marketing_message_title">Willkommen bei CWT To Go</string>
+    <string name="marketing_message_text">Bitte stimmen Sie zu, dass Sie relevante Updates zu neuen Produkten und Funktionen, Tipps und Tricks, Hotelangebote und andere nützliche Informationen erhalten möchten. \n\nSie können auswählen, welche Informationen Ihnen zugesendet werden, indem Sie Ihre Abonnementeinstellungen auf worldmate.com. ändern.</string>
+    <string name="widget_description_long">Über CWT gebuchte Reisen werden automatisch in CWT To Go angezeigt.  Haben Sie eine nicht über CWT gebuchte Reservierung? Leiten Sie die Bestätigungs-E-Mail  an plans@cwttogo.com weiter.</string>
+    <string name="sign_up_btn_txt_start">Erste Schritte mit CWT To Go</string>
+    <string name="no_upcoming_trips_add_contact">CWT To Go zum Adressbuch hinzufügen</string>
+    <string name="flight_reminder_buttons_details">CWT To Go öffnen</string>
+    <string name="hotel_confirmation_title">Vielen Dank für Ihre Buchung über CWT To Go (in Zusammenarbeit mit Expedia).</string>
+    <string name="general_footer_text_email_link">plans@cwttogo.com.</string>
+    <string name="tnx_for_booking">Vielen Dank für Ihre Buchung über CWT To Go</string>
+    <string name="settings_edit_phone">Mein örtliches CWT-Büro</string>
+    <string name="text_travel_counselor_title">Mein örtliches CWT-Büro: </string>
+    <string name="service_user_interaction">Weiterempfehlen</string>
+    <string name="cwt_copyright_name">Copyright © 2013-2014 CWT</string>
+    <string name="about_legal_notice"><a href="">Nutzungsbedingungen</a></string>
+    <string name="cwt_start_page_1_title">Dienste</string>
+    <string name="cwt_start_page_2_title">Allgemein</string>
+    <string name="general_footer_text_title_head">Ihre Reise ist leer.</string>
+    <string name="empty_upcoming_trips_title">Sie haben keine bevorstehenden Reisen.</string>
+    <string name="progress_msg">Bitte warten...</string>
+    <string name="widget_screen_item3">Änderungen und Updates zum Flugstatus erhalten</string>
+    <string name="data_protection_privacy_policy_text">Datenschutz und Datenschutzrichtlinie</string>
+    <string name="service_flight_search_name">Flugpläne</string>
+    <string name="service_flight_search_description"></string>
+    <string name="settings_contact_cwt_agent_title">Kontakt CWT</string>
+
+    <!-- Hotel Booking-->
+    <string name="hotel_confirmation_reservation_details_title">Reservierungsdetails</string>
+    <string name="hotel_confirmation_hotel_phone_number">Telefon #:</string>
+    <string name="hotel_confirmation_address">Adresse:</string>
+    <string name="hotel_confirmation_go_to_my_trips_button">Meine Reisen öffnen</string>
+    <string name="hotel_confirmation_thank_you">Vielen Dank für Ihre Buchung über CWT To Go</string>
+    <string name="hotel_confirmation_hotel_name">Hotel:</string>
+    <string name="hotel_confirmation_activity_title">Bestätigungsnr.</string>
+    <string name="hotel_cancellation_confirm_dialog_title">Hotelstornierung</string>
+    <string name="hotel_cancellation_your_reservation_canceled">Ihre Reservierung wurde storniert.</string>
+    <string name="hotel_cancellation_your_cancellation_number_is">Ihre Stornierungsnummer lautet: %1$s.\nBewahren Sie diese Nummer für Referenzzwecke auf.</string>
+    <string name="hotel_cancellation_confirmation_hotel_dates">Datum: %1$s</string>
+    <string name="hotel_cancellation_as_you_requested">Gemäß Ihrer Anfrage haben wir Ihre Reservierung storniert. Wir danken für Ihr Interesse und hoffen, Sie bei Ihrer nächsten Reise bei uns begrüßen zu dürfen.</string>
+    <string name="hotel_confirmation_total_price">Gesamtpreis:</string>
+    <string name="hotel_confirmation_confirmation_number">Bestätigungsnr.:</string>
+    <string name="hotel_confirmation_reservation_number">Reservierungsnummer:</string>
+    <string name="reservation_room_cancellation_policy_dialog_text">Mir ist bekannt, das die Zahlung für diese Reservierung direkt beim Check-Out im Hotel erfolgt und das ich bei Nichtanreise bzw. bei Stornierung der Reservierung außerhalb der geltenden Stornierungsbedingungen eine Gebühr zu entrichten habe.</string>
+    <string name="hotel_marker_check_price">Preis überprüfen</string>
+    <string name="hotel_marker_sold_out">Ausgebucht</string>
+    <string name="hotel_availability_price_sold_out">Ausgebucht</string>
+    <string name="reservation_room_card_info_title">Karteninformationen</string>
+    <string name="reservation_room_check_in">Check-in</string>
+    <string name="reservation_room_check_out">Check-out</string>
+    <string name="hotel_booking_guests">Gäste</string>
+    <string name="reservation_room_guests">Gäste:</string>
+    <string name="hotel_booking_view_room_types">Zimmerkategorien anzeigen</string>
+    <string name="hotel_company_by_colleagues">Kollegen-Favorit</string>
+    <string name="hotel_user_previous_stay">Früherer Aufenthalt</string>
+    <string name="hotel_availability_check_price">Verfügbarkeit überprüfen</string>
+    <string name="hotel_cwt_preferred_name">CWT-Programm</string>
+    <string name="hotel_company_preferred_name">Unternehmen bevorzugt</string>
+    <string name="hotel_confirmation_cc_ends_with">%1$s endet mit %2$s</string>
+    <string name="hotel_booking_schedule_check_in_button">Check-in:</string>
+    <string name="hotel_booking_schedule_check_out_button">Check-out:</string>
+    <string name="reservation_room_cancellation_policy_dialog_title">Stornierungsbedingungen</string>
+    <string name="reservation_room_card_use_saved">Gespeicherte Karte verwenden</string>
+    <string name="reservation_room_card_label">Karte</string>
+    <string name="reservation_room_number_of_nights">Anzahl der Nächte:</string>
+    <string name="reservation_room_guest_info_title">Gästeinformationen</string>
+    <string name="reservation_room_card_number_prompt">Kartennummer</string>
+    <string name="reservation_room_activity_title">Reservierung abschließen</string>
+    <string name="reservation_room_card_select_type_prompt">Kartentyp auswählen</string>
+    <string name="reservation_room_taxes_and_fees">Steuern und Gebühren</string>
+    <string name="reservation_room_total_price">Gesamtpreis:</string>
+    <string name="reservation_room_card_exp_date_label">Ablaufdatum</string>
+    <string name="reservation_room_card_book_new_card">Mit neuer Karte buchen</string>
+    <string name="reservation_room_card_exp_date_prompt">Abl.datum</string>
+    <string name="reservation_room_finalize_booking">Buchung abschließen</string>
+    <string name="reservation_room_acknowledge_paragraph"><Data><![CDATA[Durch Abschluss dieser Reservierung bestätige ich, dass ich die <a href="">Stornierungsbedingungen</a> für diesen Preis gelesen und verstanden habe.]]></Data></string>
+    <string name="reservation_room_room_rate">Zimmerpreis:</string>
+    <string name="hotel_booking_retrieve_traveller_details_error_message">Ein Fehler ist aufgetreten.  Kehren Sie zur vorherigen Seite zurück und senden Sie Ihre Anfrage erneut.</string>
+    <string name="hotel_booking_complete_reservation_personal_info_error_message">In Ihrem Profil fehlen Informationen zum Reisenden.  Fügen Sie Ihre persönlichen Daten zu Ihrem Reiseprofil hinzu und versuchen Sie es erneut.</string>
+    <string name="hotel_booking_error_title">Fehler</string>
+    <string name="update_search_hotels_english">Suche aktualisieren</string>
+    <string name="hotel_recomended_hotel">Empfohlene Hotels</string>
+    <string name="hotel_results_change_search_title">Suche ändern</string>
+    <string name="room_select_title">Zimmer auswählen</string>
+    <string name="room_select_room_details_title">Zimmerdetails</string>
+    <string name="hotel_results_list_view_more">Mehr anzeigen</string>
+    <string name="hotel_booking_error_checkin_after_checkout">Eincheckdatum muss nach Auscheckdatum liegen</string>
+    <string name="read_more_view_read_more">Mehr lesen</string>
+    <string name="hotel_booking_read_more_view_read_more">Mehr lesen \u25bc</string>
+    <string name="non_refundable">Nicht erstattungsfähig</string>
+    <string name="hotel_search_hotel_hint">Hotel nach Namen suchen</string>
+    <string name="hotel_booking_schedule_title">Datum auswählen</string>
+    <string name="hotel_booking_schedule_done_button">Fertig</string>
+    <string name="hotel_search_loading">Lädt...</string>
+    <string name="hotel_cancellation_confirm_positive_button">Ja</string>
+    <string name="hotel_cancellation_confirm_negative_button">Nicht</string>
+    <string name="hotel_confirmation_check_in_date">Anreise:</string>
+    <string name="hotel_confirmation_check_out_date">Abreise:</string>
+    <string name="hotel_cancellation_button">Diese Reservierung stornieren</string>
+    <string name="hotel_cancellation_activity_title">Stornierung</string>
+    <string name="read_more_view_minimize">Verkleinern</string>
+    <string name="hotel_cancellation_confirm_dialog_message">Bitte überprüfen Sie die Stornierungsbedingungen für dieses Hotel da möglicherweise Stornierungsgebühren zu zahlen sind.\nMöchten Sie mit der Stornierung fortfahren?</string>
+    <string name="select_location_and_dates">Wählen Sie Standorte und Daten</string>
+    <string name="hotel_view_gallery">Galerie\nanzeigen</string>
+    <string name="booking_title">Hotelsuche</string>
+    <string name="hotel_book_in">Buchen Sie ein Hotel in</string>
+
+    <!-- CDR's-->
+    <string name="hotel_finalize_company_data_title">Unternehmensinformationen</string>
+    <string name="hotel_finalize_account_name_title">Kontoname:</string>
+    <string name="hotel_finalize_account_name_hint">Kontoname</string>
+    <string name="cdr_info_text_matrix">A#Alphabetisch (a-z, A-Z) plus Leerzeichen::N#Numerisch (0-9) plus Leerzeichen::E#Alphanumerisch (a-z, A-Z, 0-9), Leerzeichen, Und-Zeichen (&amp;), Sternchen (*), At-Zeichen (@), Bindestrich (-)</string>
+    <string name="cdr_info_text_wings">A#Alpha::D#Ziffer::N#Alpha, Ziffer::X#Alpha, Ziffer, Und-Zeichen (&amp;), Sternchen (*), At-Zeichen (@), Bindestrich (-), Vorwärtsschrägstrich (/), Punkt (.), Unterstrich (_), Gleichheitszeichen (=), Doppelpunkt (:), öffnende/schließende Klammer ( )::Y#Alpha, Ziffer, Leerzeichen, Und-Zeichen (&amp;), Sternchen (*), At-Zeichen (@), Bindestrich (-), Vorwärtsschrägstrich (/), Punkt (.), Unterstrich (_), Gleichheitszeichen (=), Doppelpunkt (:), öffnende/schließende Klammer ( )</string>
+    <string name="cdr_info_title">Verwenden Sie folgende Zeichen:</string>
+    <string name="cdr_display_text">Format: %1$d bis %2$d Zeichen</string>
+    <string name="cdr_cdr_validation_message">Folgen Sie dem angegebenen Format</string>
+    <string name="cdr_final_validation_alert">Einige der eingegeben Werte entsprechen nicht dem benötigten Format.\n Füllen Sie die rot markierten Felder korrekt aus</string>
+
+
+    <!-- CWT Location search strings -->
+    <string name="select_location">Ort auswählen</string>
+
+
+    <!-- CWT support & feedback topic strings -->
+    <string name="support_and_feedback">Support &amp; Feedback</string>
+    <string name="feedback_select_topic">Wählen Sie ein Thema aus</string>
+    <string-array name="feedback_topics_array">
+        <item>Allgemein</item>
+        <item>Ich habe eine Idee</item>
+        <item>Anmeldung und Registrierung</item>
+        <item>Gerät</item>
+        <item>Reisen</item>
+    </string-array>
+    <string name="send_us_your_feedback_btn">Senden Sie uns Fragen oder Feedback</string>
+    <string name="feedback_not_connectivity_text">Der Zugriff auf Support &amp; Feedback erfordert eine kabellose Verbindung. Stellen Sie eine Verbindung her und versuchen Sie es erneut.</string>
+    <string name="feedback_email">cwttogo.ww@contactcwt.com</string>
+    <string name="feedback_email_cc">feedback@cwttogo.com</string>
+    <string name="feedback_email_body">Bitte nicht löschen\\ndie untenstehenden Informationen werden verwendet, um Ihr Feedback besser zu verstehen.</string>
+    <string name="feedback_os_version">OS-Version</string>
+    <string name="feedback_app_version">App-Version</string>
+    <string name="feedback_device_description">Gerätebeschreibung</string>
+    <string name="feedback_user_guid">Benutzer-GUID</string>
+    <string name="feedback_user">Benutzer</string>
+    <string name="feedback_language">Sprache</string>
+
+    <string name="facebook_publish_wall_post_description_format"><![CDATA[%1$s ist eine kostenlose App für eine einfache Reiseorganisation. Verfügbar für Android, iPhone & iPad.]]></string>
+    <string name="facebook_publish_wall_post_action_name_format">Get %1$s</string>
+
+    <string name="hotel_view_cancellation_policy_text">Stornierungsbedingungen anzeigen</string>
+    <string name="cvv_error_message">Bitte geben Sie die Sicherheitsnummer ein</string>
+
+    <string name="taxes_disclaimer">Die Preise können Steuern enthalten. Bitte fahren Sie mit der Reservierung fort, um eine Preis-Aufschlüsselung anzuzeigen.</string>
+    <string name="includes_taxes">INKLUSIVE STEUERN</string>
+</resources>

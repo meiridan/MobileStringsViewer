@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="service_equipment_rental">レンタル通信機器の予約</string>
+    <string name="service_travel_insurance">海外旅行保険の予約</string>
+
+</resources>

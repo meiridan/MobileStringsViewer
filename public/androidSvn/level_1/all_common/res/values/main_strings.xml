@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="booking_reservation_please_select_state">Please select state</string>
+    <string name="general_not_available_abv">N/A</string>
+    <string name="car_booking_confirmation_general_currency_format_1f_2s">%1$.2f %2$s</string>
+    <string name="filters_price_format_low_1s_2f_hi_any">%1$s%2$.0f - Any</string>
+    <string name="filters_price_format_low_1s_2f_hi_3s_4f">%1$s%2$.0f - %3$s%4$.0f</string>
+    <string name="hotel_booking_reservation_format_rate_for_1s_date">Rate for %1$s</string>
+    <string name="hotel_results_format_1s_checkin_date_to_2s_checkout_date">%1$s - %2$s</string>
+    <string name="hotel_search_format_1f_miles_from_2s_landmark_name">%1$.2f miles from %2$s</string>
+    <string name="hotel_search_format_1f_km_from_2s_landmark_name">%1$.2f km from %2$s</string>
+    <string name="hotel_search_format_1f_miles">%1$.2f mi.</string>
+    <string name="hotel_search_format_1f_km">%1$.2f km.</string>
+    <string name="flight_card">Monitored</string>
+    <string name="ui_details_flight_is_monitored">Flight is monitored</string>
+    <string name="ui_details_flight_not_monitored">Flight not monitored</string>
+    <string name="ui_details_updated_marker">(Updated)</string>
+    <string name="ui_details_prev_time_format_1s_time_2s_ampm">(Was %1$s%2$s)</string>
+    <string name="daily_plan_trip_not_monitored">Trip not monitored</string>
+    <string name="general_flight_format_1s_origin_city_to_2s_destination_city">%1$s to %2$s</string>
+    <string name="general_format_1s_origin_location_code_to_2s_destination_location_code">@string/general_flight_format_1s_origin_city_to_2s_destination_city</string>
+    <string name="yelp_search_format_1d_index_2s_business_name_3s_stars">%1$d. %2$s (%3$s stars)</string>
+    <string name="billing_form_book_a_hotel_and_get_it_for_free">Book a hotel and get it for free</string>
+    <string name="billing_form_buy_it_now">Buy it now</string>
+    <string name="booking_promo_book_now">Book Now</string>
+    <string name="booking_reservation_total_cost">Total Cost:</string>
+    <string name="booking_reservation_edit">Edit</string>
+    <string name="booking_reservation_month_hint">mm</string>
+     <string name="booking_reservation_year_hint">yy</string>
+    <string name="booking_reservation_security_number">Security number</string>
+    <string name="booking_reservation_see_back_of_card">See back of card</string>
+    <string name="booking_reservation_credit_card_security_number_hint">Code</string>
+    <string name="booking_reservation_room_rate_title">Room Rate:</string>
+    <string name="details_button_strip_book_hotel">Book hotel</string>
+    <string name="flight_status_airline_title">Airline:</string>
+    <string name="general_flight_status_terminal_title_with_space">"Terminal: "</string>
+    <string name="general_flight_status_gate_title_with_space">"Gate: "</string>
+    <string name="general_flight_status_terminal_title">Terminal:</string>
+    <string name="general_flight_status_gate_title">Gate:</string>
+    <string name="hotel_filters_all">All</string>
+    <string name="services_my_itineraries">My Itineraries</string>
+    <string name="sign_in_sign_in">Sign in</string>
+    <string name="sign_in_underlined"><u>Sign in</u></string>
+    <string name="sign_up_sign_up">Sign up</string>
+    <string name="sign_up_complete_please_complete_your_setup_title">Please complete your setup:</string>
+    <string name="widget_no_items">No items</string>
+    <string name="widget_general_pickup_date_title">Pickup date:</string>
+    <string name="widget_general_dropoff_date_title">DropOff date:</string>
+
+</resources>

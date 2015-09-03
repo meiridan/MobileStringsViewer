@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="cwt_phone_number_title">My Local CWTSatoTravel Office</string>
+    <string name="cwt_phone_number_introduction">Enter the telephone number for your local CWTSatoTravel office using the following format: + followed by country code, city/area code, telephone number.</string>
+    <string name="cwt_phone_number_text_below2">This number will pre-populate within the app for one-click access to your CWTSatoTravel travel counselor.\n\nYou can always edit or delete the number in the future by accessing this screen from Settings.</string>
+    <string name="tell_a_colleague_subject">Check out CWTSato To Go</string>
+    <string name="tell_a_colleague_mail_text_part1">Greetings! \n\n
+        I’ve been using the FREE CWTSato To Go mobile app and thought you may like it. \n\n
+        
+        My CWTSatoTravel booked itineraries are sent automatically to the app so I don’t need to forward them to an email address or manually enter them. Plus, the app notiﬁes me of ﬂight delays, gate assignment/changes, and more. \n\n
+        
+        Check it out!  \n\n\n
+        
+        Android: \n
+		http://www.cwttogo.com/mobile/appstores.php?platform=android \n\n
+		
+		iPhone &amp; iPad:\n
+        http://www.cwttogo.com/mobile/appstores.php?platform=ios \n\n
+
+        BlackBerry: \n
+		http://www.cwttogo.com/mobile/appstores.php?platform=blackberry \n\n
+	</string>
+	<string name="cwt_first_encounter_msg">Welcome to the new\CWTSato To Go!\n\nYour trips are in the process of being uploaded to the system.  Depending on the number of trips you have, this initial sync may take up to 30 minutes.\n\nThank you for your patience.</string>
+
+</resources>

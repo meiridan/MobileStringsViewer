@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="text_switch_default_on">ON</string>
+    <string name="text_switch_default_off">OFF</string>
+    <string name="message_wait">Wait, parsing &#8230;</string>
+    <string name="text_join">New user?</string>
+    <string name="text_account_details">Account Details</string>
+    <string name="text_home_location">Home Location</string>
+    <string name="hint_email">E-Mail</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">First and Last Name</string>
+    <string name="hint_email_address">Enter email address</string>
+    <string name="hint_password_min6_chars">Password (6 characters or more)</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="button_signin">Sign In</string>
+    <string name="button_sync">Sync</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_logout">Log Out</string>
+    <string name="error_empty_field">This field cannot be empty</string>
+    <string name="error_not_same">This field cannot be empty</string>
+    <string name="title_departure">Departure</string>
+    <string name="title_arrival">Arrival</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_meeting_contact">Meeting Contact</string>
+    <string name="title_pickup">Pick Up</string>
+    <string name="title_dropoff">Drop Off</string>
+    <string name="train_title_departure">Departure</string>
+    <string name="text_baggage_claim">Baggage Claim:</string>
+    <string name="text_eticket">eTicket #:</string>
+    <string name="text_traveler_name">Traveler name:</string>
+    <string name="text_confirmation_code">Confirmation #:</string>
+    <string name="text_reservation_code">Reservation # (Record locator):</string>
+    <string name="text_operating">Operated by</string>
+    <string name="text_operating_airline_name">Airline Name:</string>
+    <string name="text_operating_number">Number:</string>
+    <string name="text_membership_program">Membership Program</string>
+    <string name="text_membership_program_name">Membership Name:</string>
+    <string name="text_membership_program_number">Membership Number:</string>
+    <string name="text_membership_points">Points:</string>
+    <string name="text_membership_milage">Milage:</string>
+    <string name="text_agent_information">Agent Information</string>
+    <string name="text_agent_information_name">Website name:</string>
+    <string name="text_agent_information_phone">Website Phone Number:</string>
+    <string name="text_agent_information_date">Booking date:</string>
+    <string name="text_agent_information_url">Website URL:</string>
+    <string name="text_agent_information_conf">Booking confirmation:</string>
+    <string name="text_agent_information_itin">Itinerary:</string>
+    <string name="text_flight_cancelled">Canceled</string>
+    <string name="text_flight_diverted">Diverted</string>
+    <string name="text_flight_baggage">Baggage</string>
+    <string name="text_flight_baggage_last_checkin">Last Check-In:</string>
+    <string name="text_flight_baggage_allowed_amount">Allowed Amount:</string>
+    <string name="text_flight_baggage_allowed_weight">Allowed Weight:</string>
+    <string name="text_flight_baggage_price">Price:</string>
+    <string name="text_cabin">Coach:</string>
+    <string name="text_phone_departure_station">Phone (Departure station):</string>
+    <string name="text_phone_arrival_station">Phone (Arrival station):</string>
+    <string name="text_car_days">Days:</string>
+    <string name="text_people">People:</string>
+    <string name="text_luggage">Luggage:</string>
+    <string name="text_phone_pichup">Phone (Pick-up):</string>
+    <string name="text_phone_dropoff">Phone (Drop-off):</string>
+    <string name="text_fax_pichup">Fax (Pick-up):</string>
+    <string name="text_fax_dropoff">Fax (Drop-off):</string>
+    <string name="text_hotel_fax">Hotel Fax:</string>
+    <string name="text_hotel_room_type">Room Type:</string>
+    <string name="text_hotel_breakfast">Breakfast:</string>
+    <string name="text_duration">Duration:</string>
+    <string name="text_class">Class:</string>
+    <string name="text_seat">Seat:</string>
+    <string name="text_meal">Meal:</string>
+    <string name="text_airline">Airline:</string>
+    <string name="text_airplane">Airplane:</string>
+    <string name="text_price">Price:</string>
+    <string name="text_start">Start</string>
+    <string name="text_end">End</string>
+    <string name="text_name">Name:</string>
+    <string name="text_phone">Phone:</string>
+    <string name="text_fax">Fax:</string>
+    <string name="text_email">Email:</string>
+    <string name="text_zip_code">Zip Code:</string>
+    <string name="text_rental_company">Rental Company:</string>
+    <string name="text_car_type">Car Type:</string>
+    <string name="text_daily_price">Daily Price:</string>
+    <string name="text_total_price">Total Price:</string>
+    <string name="text_check_in">Check In:</string>
+    <string name="text_check_out">Check Out:</string>
+    <string name="text_suplier_service">Suplier/Service:</string>
+    <string name="text_train_bus">Train/Bus number:</string>
+    <string name="text_platform">Platform: </string>
+    <string name="text_booked_from">Booked From:</string>
+    <string name="text_booked_date">Date:</string>
+    <string name="text_booked_url">Website URL:</string>
+    <string name="text_booked_phone">Phone:</string>
+    <string name="text_contact_details">Contact Details:</string>
+    <string name="btn_map">Map</string>
+    <string name="format_nights">%s nights</string>
+    <string name="format_flight_from_to_city">%1$s - %2$s</string>
+    <string name="format_flight_name">%1$s %2$d</string>
+    <string name="format_country">%1$s %2$s</string>
+    <string name="format_price">%1$s%2$s (%3$s%4$s per day)</string>
+    <string name="service_itinerary">My Trips</string>
+    <string name="service_weather">Weather Forecast</string>
+    <string name="service_hotel_booking">Hotel Booking</string>
+    <string name="service_limo_reservation">Limo Reservation</string>
+    <string name="service_currency_converter">Currency Converter</string>
+    <string name="service_car_booking">Car Rental</string>
+    <string name="car_rental_item_view">@string/service_car_booking</string>
+    <string name="booking_item_view">Booking</string>
+    <string name="service_travel_notifications">Travel Notifications</string>
+    <string name="service_flight_status">Flight Status</string>
+    <string name="service_flight_alerts">Flight Alerts</string>
+    <string name="service_flight_status_and_alerts">Flight Alerts &amp; Status</string>
+    <string name="service_flight_search">Flight Schedules</string>
+    <string name="service_widget">Widget</string>
+    <string name="service_settings">Settings</string>
+    <string name="service_about">About</string>
+    <string name="service_hotel_booking_desc">Best rates for over 90,000 hotels</string>
+    <string name="settings_section_notifications">Notifications</string>
+    <string name="settings_section_notifications_daily">Daily Notifications</string>
+    <string name="settings_section_notifications_daily_morning">Morning Notification</string>
+    <string name="settings_section_notifications_daily_evening">Evening Notification</string>
+    <string name="settings_notification_daily_open">Open notification</string>
+    <string name="settings_section_notifications_flight">Flight Notification</string>
+    <string name="settings_notification_flight_title">Notification display</string>
+    <string name="settings_notification_flight_summary" />
+    <string name="settings_notification_flight_time_title">Time before flight</string>
+    <string name="settings_notification_flight_time_summary" />
+    <string name="settings_notification_flight_sound_title">Notification sound</string>
+    <string name="settings_notification_flight_sound_summary" />
+    <string name="settings_section_notifications_flight_alert">Flight Alert Notification</string>
+    <string name="settings_notification_flight_alert_speaking_title">Audio flight alert</string>
+    <string name="settings_notification_flight_alert_speaking_summary">Turn on the audio flight alert. Note that this is an experimental feature, please click below to hear how the notification will sound</string>
+    <string name="settings_notification_flight_alert_play_test_title">Test audio flight alert</string>
+    <string name="settings_notification_flight_alert_play_test_summary">Click to hear a demo alert</string>
+    <string name="settings_reminder_flight_title">Notification display</string>
+    <string name="settings_reminder_flight_summary" />
+    <string name="settings_reminder_trip_title">Trip reminder</string>
+    <string name="settings_reminder_trip_summary">Trip reminder description here</string>
+    <string name="settings_morning_assistant_title">Notification display</string>
+    <string name="settings_morning_assistant_summary" />
+    <string name="settings_morning_assistant_time_title">Notification time</string>
+    <string name="settings_morning_assistant_time_summary" />
+    <string name="settings_morning_assistant_weather_narration_title">Weather narration</string>
+    <string name="settings_morning_assistant_weather_narration_summary" />
+    <string name="settings_evening_assistant_title">Notification display</string>
+    <string name="settings_evening_assistant_summary" />
+    <string name="settings_evening_assistant_time_title">Notification time</string>
+    <string name="settings_evening_assistant_time_summary" />
+    <string name="settings_evening_assistant_weather_narration_title">Weather Narration</string>
+    <string name="settings_evening_assistant_weather_narration_summary" />
+    <string name="settings_section_weather">Weather</string>
+    <string name="settings_weather_temperature_title">Temperature format</string>
+    <string name="settings_weather_temperature_summary" />
+    <string name="settings_weather_wind_title">Distances format</string>
+    <string name="settings_weather_wind_summary" />
+    <string name="settings_section_debug">Debug</string>
+    <string name="settings_disable_acra">Disable Crash Reports</string>
+    <string name="settings_acra_disabled">Crash Reports Disabled</string>
+    <string name="settings_acra_enabled">Crash Reports Enabled</string>
+    <string name="settings_section_misc">Misc</string>
+    <string name="settings_animations">Animations</string>
+    <string name="settings_animations_disabled">Animations Disabled</string>
+    <string name="settings_animations_enabled">Animations Enabled</string>
+    <string name="settings_signout_title">Sign out</string>
+    <string name="settings_signout_summary" />
+    <string name="settings_signout_confirm">Are you sure you want to sign out\u00A0?</string>
+    <string name="settings_change_password_title">Change password</string>
+    <string name="email_addresses">Email Addresses</string>
+    <string name="email_preferences">Email Preferences</string>
+    <string name="settings_change_password_summary" />
+    <string name="settings_calendar_sync_title">Calendar Sync</string>
+    <string name="settings_firstname_title">First name *</string>
+    <string name="settings_firstname_summary" />
+    <string name="settings_lastname_title">Last name *</string>
+    <string name="settings_lastname_summary" />
+    <string name="settings_email_title">Email</string>
+    <string name="settings_email_summary" />
+    <string name="settings_currency_title">Booking Currency</string>
+    <string name="settings_currency_summary" />
+    <string name="settings_ma_general_push_notification_title">Missing hotel notification</string>
+    <string name="itinirary_flight">Flight</string>
+    <string name="text_nights">Nights:</string>
+    <string name="text_get_directions">Get directions</string>
+    <string name="text_share_hotel">Share hotel</string>
+    <string name="text_share_car">Share car</string>
+    <string name="text_share_transportation">Share</string>
+    <string name="text_share_meeting">Share meeting</string>
+    <string name="text_view_flight_details">View flight details</string>
+    <string name="text_view_rental_details">View rental details</string>
+    <string name="text_view_hotel_details">View hotel details</string>
+    <string name="text_view_meeting_details">View meeting details</string>
+    <string name="text_view_transport_details">View transportation details</string>
+    <string name="text_view_booking_details">View booking details</string>
+    <string name="text_check_flight_status">Check flight status</string>
+    <string name="format_day_hour_minute">%1$s Day, %2$s Hour, %3$s Minute</string>
+    <string name="format_day_hour_minutes">%1$s Day, %2$s Hour, %3$s Minutes</string>
+    <string name="format_day_hours_minute">%1$s Day, %2$s Hours, %3$s Minute</string>
+    <string name="format_day_hours_minutes">%1$s Day, %2$s Hours, %3$s Minutes</string>
+    <string name="format_days_hour_minute">%1$s Days, %2$s Hour, %3$s Minute</string>
+    <string name="format_days_hour_minutes">%1$s Days, %2$s Hour, %3$s Minutes</string>
+    <string name="format_days_hours_minute">%1$s Days, %2$s Hours, %3$s Minute</string>
+    <string name="format_days_hours_minutes">%1$s Days, %2$s Hours, %3$s Minutes</string>
+    <string name="format_day_minute">%1$s Day, %2$s Minute</string>
+    <string name="format_day_minutes">%1$s Day, %2$s Minutes</string>
+    <string name="format_days_minute">%1$s Days, %2$s Minute</string>
+    <string name="format_days_minutes">%1$s Days, %2$s Minutes</string>
+    <string name="format_hour_minute">%1$s Hour, %2$s Minute</string>
+    <string name="format_hour_minutes">%1$s Hour, %2$s Minutes</string>
+    <string name="format_hours_minute">%1$s Hours, %2$s Minute</string>
+    <string name="format_hours_minutes">%1$s Hours, %2$s Minutes</string>
+    <string name="format_hour">%1$s Hour</string>
+    <string name="format_hours">%1$s Hours</string>
+    <string name="format_minute">%1$s Minute</string>
+    <string name="format_minutes">%1$s Minutes</string>
+    <string name="format_time_day">%1$s Day</string>
+    <string name="format_time_days">%1$s Days</string>
+    <string name="about_visit">Visit us at:</string>
+    <string name="personal_travel_assistant_humidity_format">		Humidity:
+<span color="#2387C0">%d%%</span></string>
+    <string name="personal_travel_assistant_wind_format">		Wind:
+<span color="#2387C0">%.0fkm/h</span></string>
+    <string name="personal_travel_assistant_wind_format_mph">		Wind:
+<span color="#2387C0">%.0fm/h</span></string>
+    <string name="format_percipitation">Precipitation probability: </string>
+    <string name="format_humidity">Humidity: </string>
+    <string name="wind_title">Wind: </string>
+    <string name="format_wind_km">%.0fkm/h</string>
+    <string name="format_wind_mph">%.0fm/h</string>
+    <string name="details_platform">Platform:  </string>
+    <string name="services_title">Your Personal Travel Assistant</string>
+    <string name="format_simple_price">%1$s (%2$s)</string>
+    <!-- Morning assistant -->
+    <string name="morning_assistant_upcoming_trips_none_title">You have no upcoming trips</string>
+    <string name="morning_assistant_upcoming_trips_none_text">Forward your travel confirmation emails
+</string>
+
+    <plurals name="morning_assistant_upcoming_trips_plurals_title">
+        <item quantity="one">Your upcoming trip</item>
+        <item quantity="other">You have %d upcoming trips, next trip:</item>
+    </plurals>
+
+    <string name="morning_assistant_in_trip_today_title">Today\'s trip summary</string>
+    <string name="morning_assistant_in_trip_tomorrow_title">Tomorrow\'s trip summary</string>
+    <!-- today/tomorrow is parameter 1, city is parameter 2, state is parameter 3, country is parameter 4 -->
+    <string name="morning_assistant_trip_title_by_city_format">Your trip to %2$s starts %1$s</string>
+    <string name="morning_assistant_trip_title_by_city_country_format" tools:ignore="StringFormatCount">Your trip to %2$s, %4$s starts %1$s</string>
+    <string name="morning_assistant_trip_title_by_city_state_country_format">Your trip to %2$s %3$s, %4$s starts %1$s</string>
+    <!-- today/tomorrow is parameter 1, name is parameter 2 -->
+    <string name="morning_assistant_trip_title_by_name_format">Your trip \'%2$s\' starts %1$s</string>
+    <string name="morning_assistant_today">today</string>
+    <string name="morning_assistant_tomorrow">tomorrow</string>
+    <!-- city is parameter 1, state is parameter 2, country is parameter 3 -->
+    <string name="morning_assistant_trip_name_by_city_format">Trip to %1$s</string>
+    <string name="morning_assistant_trip_name_by_city_country_format">Trip to %1$s, %3$s</string>
+    <string name="morning_assistant_trip_name_by_city_state_country_format">Trip to %1$s %2$s, %3$s</string>
+    <!-- Weather forecast title: today/tomorrow without location -->
+    <string name="morning_assistant_weather_today_title">Today\'s weather</string>
+    <string name="morning_assistant_weather_tomorrow_title">Tomorrow\'s weather</string>
+    <!-- Weather forecast title: today/tomorrow with location -->
+    <string name="morning_assistant_weather_today_title_with_location_format">Today\'s weather in %1$s</string>
+    <string name="morning_assistant_weather_tomorrow_title_with_location_format">Tomorrow\'s weather in %1$s</string>
+    <!-- Weather forecast title: without today/tomorrow, without location -->
+    <string name="morning_assistant_weather_title">Weather</string>
+    <!-- Weather forecast title: without today/tomorrow, with location -->
+    <string name="morning_assistant_weather_title_with_location_format">Weather in %1$s</string>
+    <string name="morning_assistant_weather_updating_title">Loading weather&#8230;</string>
+    <string name="error_invalid_email">This is not a valid email</string>
+    <string name="error_no_network">Network unavailable</string>
+    <string name="error_no_network_english">Network unavailable</string>
+    <string name="format_unassigned_items">You have %d unassigned items</string>
+    <string name="learn_more">Learn more</string>
+    <string name="dialog_progress_wait_title">Please wait&#8230;</string>
+    <string name="dialog_progress_facebook_status">Updating your Facebook status</string>
+    <string name="message_facebook_status_updated">Facebook status was updated</string>
+    <string name="message_no_meeting_scheduled">No meeting scheduled.</string>
+    <string name="title_meeting_tomorrow">Tomorrow\'s first meeting</string>
+    <string name="title_meeting_today">Today\'s first meeting</string>
+    <string name="title_general_settings">Settings</string>
+    <string name="message_booking_date_passed">Chosen date has passed</string>
+    <string name="no_future_trips">You have no future trips</string>
+    <string name="format_unassigned_item">You have %d unassigned item</string>
+    <string name="complete_sign_up_link_eula">By clicking the button below, you confirm that you accept the <a href="">User Agreement</a></string>
+    <string name="flight_not_available">Flight status is available only for upcoming flights within the next 48 hours, or for flights which landed in the past 24 hours</string>
+
+    <plurals name="widget_upcoming_trips">
+        <item quantity="one">You have %d upcoming trip</item>
+        <item quantity="other">You have %d upcoming trips</item>
+    </plurals>
+    <plurals name="widget_trip_starts_in">
+        <item quantity="one">Your trip to %1$s starts in %2$d day</item>
+        <item quantity="other">Your trip to %1$s starts in %2$d days</item>
+    </plurals>
+
+    <string name="flight_search_type_origin_airport">Type origin city or airport code</string>
+    <string name="flight_search_type_destination_airport">Type destination city or airport code</string>
+    <string name="flight_search_fill_fields">Please fill both \'From\' and \'To\' fields</string>
+    <string name="flight_search_nonstop_flights">Nonstop flights only</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="please_wait_english">Please wait&#8230;</string>
+    <string name="signing_up">Signing up</string>
+    <string name="checkout_befor_checkin">Check-out date must be after check-in date.</string>
+    <string name="billing_form_title">Road Warrior? Go Gold:</string>
+    <string name="billing_form_title_horizontal">Road Warrior? \nGo Gold:</string>
+    <string name="billing_form_title1">Get Real-Time Flight Alerts</string>
+    <string name="billing_form_title2">See flight updates in your itinerary</string>
+    <string name="billing_form_title3">Check any flight’s status</string>
+    <string name="billing_form_title4">Have peace of mind for your next trip</string>
+    <string name="billing_form_title5">Get Calendar Sync</string>
+    <string name="billing_form_text1">Get instantly updated on flight delays, cancellations or gate changes with pushed alerts directly to your Android.</string>
+    <string name="billing_form_text3">Get information about flight delays, flight cancellations and gate changes.</string>
+    <string name="billing_form_text4">With Flight Alerts, Status and Lookup; going Gold means you’ll always be one step ahead when something goes wrong.</string>
+    <string name="billing_form_text5">See your next trip details in your personal calendar.\nWith Calendar Sync all your travel plans and trip changes will automatically be updated in your online and mobile calendars.</string>
+    <string name="billing_form_text6">Book a hotel and get Gold</string>
+    <string name="billing_form_3month_free">3 months free for each booking</string>
+    <string name="billing_form_go_gold">or go Gold for $9.90 a year</string>
+    <string name="billing_hotel_promo_text2">It’s fast, easy and right on your Android phone</string>
+    <string name="billing_hotel_promo_text3">Lowest hotel rates guaranteed by Expedia</string>
+    <string name="billing_hotel_promo_text4">Continue to hotel booking</string>
+    <string name="billing_not_supported">Billing not supported</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_close">Close</string>
+    <string name="menu_recent_queries">Recent Queries</string>
+    <string name="menu_view_trip">View trip</string>
+    <string name="menu_book_hotel">Book hotel</string>
+    <string name="menu_view_map">View map</string>
+    <string name="menu_check_weather">Check weather</string>
+    <string name="menu_share_trip">Share trip</string>
+    <string name="menu_view_unassigned_items">View unassigned items</string>
+    <string name="menu_add_new_trip">Add New Trip</string>
+    <string name="menu_edit_flight_details">Edit flight details</string>
+    <string name="menu_edit_car_details">Edit car details</string>
+    <string name="menu_edit_hotel_details">Edit hotel details</string>
+    <string name="menu_edit_meeting_details">Edit meeting details</string>
+    <string name="menu_edit_transportation_details">Edit transportation details</string>
+    <string name="menu_edit_booking_details">Edit booking details</string>
+    <string name="menu_edit_trip">Edit trip</string>
+    <string name="menu_add_flight">Add flight</string>
+    <string name="menu_add_hotel">Add hotel</string>
+    <string name="menu_add_car">Add car</string>
+    <string name="menu_add_transportation">Add transportation</string>
+    <string name="menu_add_meeting">Add meeting</string>
+    <string name="menu_alternate_flights">Find alternative flights</string>
+    <string name="hotel_booking_select_landmarks">Select landmarks</string>
+    <string name="hotel_booking_city_landmarks">City landmarks:</string>
+    <string name="hotel_booking_city_center">City center</string>
+    <string name="text_getting_current_location">Getting current location</string>
+    <string name="text_getting_current_location_english">Getting current location</string>
+    <string name="menu_search_preferences">Search Preferences</string>
+    <string name="flight_status_no_flights_at_the_selected_day">There are no flights at the selected day</string>
+    <string name="flight_status_select_airline">Please select airline</string>
+    <string name="flight_status_enter_flight_number">Please enter flight number</string>
+    <string name="flight_status_enter_valid_flight_number">Please enter a valid flight number</string>
+
+    <!-- start strings billing not translated for tablets -->
+
+    <string name="billing_road_warrior_main_title">Road Warrior? Go Gold and get:</string>
+    <string name="billing_road_warrior_first_title">Real time flight status</string>
+    <string name="billing_road_warrior_second_title">Pushed flight alerts</string>
+    <string name="billing_road_warrior_fourth_title">Calendar Sync</string>
+    <string name="billing_road_warrior_fourth_text">Get all your travel plans and trip updates synced automatically with your calendar.</string>
+    <string name="go_gold_txt">Go Gold!</string>
+
+    <!-- default strings for worldmate billing -->
+    <string name="billing_upper_btn">Book with us and get Gold</string>
+    <string name="billing_upper_txt">Get 3 months free Gold for evry booking</string>
+    <string name="billing_lower_txt">or purchase Gold on Google Play</string>
+    <string name="billing_lower_btn">Buy it Now</string>
+    <!-- end strings billing not translated for tablets -->
+
+    <string-array name="flight_status_day_titles">
+        <item>Yesterday</item>
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Day after tomorrow</item>
+    </string-array>
+    <string-array name="flight_search_sort_titles">
+        <item>Departure Time</item>
+        <item>Arrival Time</item>
+        <item>Duration</item>
+    </string-array>
+    <string-array name="flight_search_filter_titles">
+        <item>Nonstop flights</item>
+        <item>All Flights</item>
+    </string-array>
+
+    <string name="flight_search_network_error">Error while retrieving flight search data</string>
+    <string name="flight_search_nonstop">Nonstop</string>
+    <string name="flight_search_search_title">Search for Flights</string>
+    <string name="dialog_title_select_date">Select Date</string>
+    <string name="flight_reminder_flight_departs">Your flight departs at </string>
+    <string name="flight_reminder_flight_departs_soon">Your flight departs soon</string>
+    <string name="flight_reminder_flight_is_cancelled">Your flight is canceled</string>
+    <string name="flight_reminder_flight_is_diverted">Your flight is diverted</string>
+    <string name="flight_reminder_flight_departs_in">Your flight departs in: </string>
+    <string name="flight_1airline_2num_3origin_ap_to_4destination_ap_space_format">%1$s %2$d, %3$s to %4$s\u0020</string>
+    <string name="weather_title">Weather</string>
+    <string name="weather_tab_current_city">Current City</string>
+    <string name="weather_tab_trips_cities">Trip Cities</string>
+    <string name="weather_tab_all_cities">Search</string>
+    <string name="weather_getting_current_location_weather">Getting current location weather&#8230;</string>
+    <string name="weather_error_enter_city_name">Enter city name</string>
+    <string name="widget_text_more">more</string>
+    <string name="widget_text_meetings">meetings</string>
+    <string name="widget_text_terminal">, Terminal: </string>
+    <string name="widget_text_gate">, Gate: </string>
+    <string name="widget_text_pick_up">Pick-up: </string>
+    <string name="widget_text_drop_off">Drop-off: </string>
+    <string name="widget_text_check_in">Check-in: </string>
+    <string name="widget_text_check_out">Check-out: </string>
+    <string name="widget_text_check_in_english">Check-in: </string>
+    <string name="widget_text_check_out_english">Check-out: </string>
+    <string name="daily_plan_destination_location_error">"Can't find destination location"</string>
+    <string name="signin_hint_enter_email_address">Enter email address</string>
+    <string name="signup_no_name_error_txt">Please enter your first name and then your last name, separated by a space.</string>
+    <string name="signup_no_city_error_txt">Please select your home city</string>
+    <string name="signin_error_empty_field">"Can't be empty"</string>
+    <string name="menu_travel_notification">Travel Notification</string>
+    <string name="itinerary_change_notification_title_default">Trip items updated</string>
+    <string name="itinerary_change_notification_title_format">%1$s, %2$s</string>
+    <string name="itinerary_change_notification_single_flight_text_format">Flight %1$s %2$s updated</string>
+
+    <plurals name="itinerary_change_notification_plurals_text">
+        <item quantity="one">1 trip item updated</item>
+        <item quantity="other">%d trip items updated</item>
+    </plurals>
+
+    <string name="text_updated">Updated</string>
+    <string name="flight_alert_notification_title_format">%1$s %2$s, %3$s to %4$s</string>
+    <string name="flight_alert_notification_default_text">Flight details updated</string>
+    <string name="flight_alert_notification_audio_message_format">flight %1$s %2$s: %3$s</string>
+    <string name="text_to_speech_missing_notification_title">Enable audio flight alert</string>
+    <string name="text_to_speech_missing_notification_text">Installation is required, click here to install</string>
+    <string name="text_to_speech_install_activity_title">Enable audio flight alert</string>
+    <string name="text_to_speech_install_activity_text">Install audio flight alert’s required files on your device</string>
+    <string name="text_to_speech_install_activity_btn_install">Install</string>
+    <string name="text_to_speech_install_activity_btn_disable">Disable audio flight alert</string>
+    <string name="empty_past_trips_title">No Past Trips.</string>
+    <string name="empty_past_trips_title2">No Past Trips</string>
+    <string name="empty_trip_title">Your trip is empty.</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="price">Price</string>
+    <string name="car_type">Car type</string>
+    <string name="company">Company</string>
+    <string name="card_note">When picking up the vehicle, you will be required to submit a valid card in the driver\'s name.</string>
+    <string name="rental_company">Rental company</string>
+    <string name="select_all">Select all</string>
+    <string name="dismiss_all">Dismiss all</string>
+    <string name="apply">Apply</string>
+    <string name="error_enter_email">Please enter your email address</string>
+    <string name="error_enter_first_name">Please enter your first name</string>
+    <string name="error_enter_last_name">Please enter your last name</string>
+    <string name="error_enter_your_address">Please enter your address</string>
+    <string name="error_enter_city">Please select city</string>
+    <string name="error_enter_state">Please select state</string>
+    <string name="error_enter_country">Please select country</string>
+    <string name="error_enter_zipcode">Please enter your zip code</string>
+    <string name="error_enter_phone">Please enter your phone number</string>
+    <string name="error_select_credit_card">Please select credit card type</string>
+    <string name="error_enter_credit_card_number">Please enter credit card number</string>
+    <string name="error_enter_valid_credit_card_number">Please enter a valid credit card number</string>
+    <string name="error_enter_credit_card_description">Please enter credit card description</string>
+    <string name="error_enter_security_code">Please enter security code</string>
+    <string name="car_confirmation_notice">The Estimated Rental Price includes the total of all known rates, taxes, fees, surcharges and applicable drop off charges that you must pay either by law or by local policy for the length of a particular car rental request. This price does not include optional services such as insurance waivers, special equipment, mileage charges, or gasoline etc. It also does not include extra day or hour charges that can result from a late return of the rental car. This price is provided so you can better estimate the total price you may pay to the rental car company for your car, but is not a guarantee of your total charges.</string>
+    <string name="please_wait_it_can_take">Please wait, this can take a minute or two.</string>
+    <string name="car_rental_reservation_details_where_sent">Car rental reservation details were sent, you should be receiving a confirmation email shortly.</string>
+    <string name="car_booking_acceptance">By completing this reservation I confirm that I have read, understood and agree with the: </string>
+    <string name="rules_and_restrictions">Rules and Restrictions</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+    <string name="dialog_button_continue">Continue</string>
+    <string name="menu_book_car">Rent a car</string>
+    <string name="error_car_please_select_location">Please select location</string>
+    <string name="check_out_mast_be_after_checkin">Drop-off date must be after pick-up date</string>
+    <string name="check_out_mast_be_after_checkin_time">Drop-off time must be after pick-up time</string>
+    <string name="one_upcoming_trip">1 upcoming trip</string>
+    <string name="no_upcoming_trips">No upcoming trips</string>
+    <string name="upcoming_trips">upcoming trips</string>
+    <string name="error_enter_expire_date">Please enter expiry date</string>
+    <string name="error_no_airports_are_listed">No airports from future trips are available</string>
+    <string name="widget_screen_title">View your travel plans and see trip updates directly from your homescreen</string>
+    <string name="widget_screen_text">Add the widget to your Android homescreen, and:</string>
+    <string name="widget_screen_item1">See an overview of your trip</string>
+    <string name="widget_screen_item2">Have 1 click access to your travel details</string>
+    <string name="booking_credit_card_remember_details">Remember my credit card details for future reservations</string>
+    <string name="settings_manage_credit_cards_title">Manage Credit Cards</string>
+    <string name="settings_manage_credit_cards_summary" />
+    <string name="booking_credit_card_use_saved_card"><u>Use saved card</u></string>
+    <string name="booking_credit_card_add_new_card"><u>Add new card</u></string>
+    <string name="booking_confirmation_thank_you">Thank you</string>
+    <string name="booking_confirmation_full_payment_ammount_title">Payment in full was made for the amount of:</string>
+    <string name="hotel_booking_cancellation_policy_prefix">and the</string>
+    <string name="hotel_booking_cancellation_policy">Cancellation Policy</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_0">Your flight is delayed</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_1">Your flight\'s gate has changed</string>
+    <string name="settings_notification_flight_alert_play_test_silent_notification_message">Device notifications sound is off. Please increase the notifications volume</string>
+    <string name="progress_loading_text">Loading&#8230;</string>
+
+    <plurals name="hotel_results_progress_found_text">
+        <item quantity="zero">Loading&#8230;</item>
+        <item quantity="one">Found 1 hotel</item>
+        <item quantity="other">Found %1$d hotels</item>
+    </plurals>
+
+    <string name="hotel_no_results_for_filter">There are no hotels that match your current filter criteria. Please adjust the filters and try again.</string>
+    <string name="hotel_results_no_results_found">There are no hotels that match the search criteria you have entered. Please adjust your search criteria and try again.</string>
+    <string name="hotel_results_could_not_get_all_results">An error occurred. Please try your search again.</string>
+    <string name="hotel_details_failed_to_get_results">failed to get results</string>
+    <string name="travel_assistant_notification_title">Travel assistant</string>
+    <string name="travel_assistant_evening_notification">Evening summary</string>
+    <string name="travel_assistant_morning_notification">Morning summary</string>
+    <string name="invalid_credentials_notification_title">Credentials changed</string>
+    <string name="invalid_credentials_notification_text">Click to login again</string>
+    <string name="invalid_credentials_message_title">Credentials changed</string>
+
+    <plurals name="booking_adults_ammount_format">
+        <item quantity="one">1 Adult</item>
+        <item quantity="other">%1$d Adults</item>
+    </plurals>
+    <plurals name="booking_nights_amount_format">
+        <item quantity="one">1 night</item>
+        <item quantity="other">%1$d nights</item>
+    </plurals>
+
+    <string name="friends_traveling_to_format">Traveling to: %1$s</string>
+    <string name="rate_us_dialog_title">Rate Us</string>
+    <string name="rate_us_dialog_button_later">Remind me later</string>
+    <string name="rate_us_dialog_button_no_thanks">No thanks</string>
+    <string name="marketing_message_text_title">Just before you continue</string>
+    <string name="marketing_message_button_enable">Enable offers and updates</string>
+    <string name="marketing_message_button_cancel">No</string>
+    <string name="marketing_messages_common_optin_check_box_text">Send me occasional product updates and offers</string>
+    <string name="sign_up_name">First &amp; Last name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="city_name">City name</string>
+    <string name="select_city">Select City</string>
+    <string name="select_city_english">Select City</string>
+    <string name="widget_description_short">Planning a new trip</string>
+    <string name="widget_btn_add">Add new trip</string>
+    <string name="widget_btn_book">Book a hotel</string>
+    <string name="widget_btn_search">Search Flights</string>
+    <string name="widget_trip_name">Trip name</string>
+    <string name="widget_trip_dates">Trip dates</string>
+    <string name="widget_no_itm">No items</string>
+    <string name="trip">Trip</string>
+    <string name="trip_btn_txt_dismiss">Dismiss</string>
+    <string name="sharing_post_btn_txt">Post</string>
+    <string name="sign_up_f_name">Your first name</string>
+    <string name="sign_up_city">Your home city</string>
+    <string name="sign_in_btn_fb">Log In with Facebook</string>
+    <string name="sign_in_btn_login">Log in</string>
+    <string name="sign_in_alt_header_txt">Or take the traditional route:</string>
+    <string name="sign_in_second_alt_header_txt">Already have an account?</string>
+    <string name="sign_in_btn_with_email">Sign up with email</string>
+    <string name="no_upcoming_trips_demo_trip">View a sample trip</string>
+    <string name="sample_trip_title">Sample trip</string>
+    <string name="need_assistance">Need Assistance?</string>
+    <string name="morning_assistant_title">Personal Travel Assistant</string>
+    <string name="morning_assistant_upcoming_trips_to">to: </string>
+    <string name="morning_assistant_meeting_caption">Tomorrow\'s first meeting</string>
+    <string name="morning_assistant_meeting_txt_humidity">Humidity</string>
+    <string name="morning_assistant_meeting_txt_wind">Wind</string>
+    <string name="linkdin_btn_update_status">Update Status</string>
+    <string name="linkdin_btn_select_city">Select City</string>
+    <string name="linkdin_edit_login">LinkedIn Login</string>
+    <string name="linkdin_btn_current_city">Current City</string>
+    <string name="linkdin_btn_cancel">Cancel</string>
+    <string name="linkdin_edit_password">LinkedIn Email</string>
+    <string name="limo_book">Book a Ride</string>
+    <string name="limo_introduction">Great rates for transportation to &amp; from 5000 airports worldwide.</string>
+    <string name="limo_call_now">Call now to book:</string>
+    <string name="limo_call_number"> +1 800-685-6196</string>
+    <string name="limo_call_charges">Toll charges apply when calling outside US &amp; Canada</string>
+    <string name="date">Date</string>
+    <string name="address">address</string>
+    <string name="address2">Address:</string>
+    <string name="hotel_rooms_title">Select Room</string>
+    <string name="hotel_room_item_deal">DEAL</string>
+    <string name="hotel_room_item_avg_night">avg/night</string>
+    <string name="hotel_results_view_deal">Deals only</string>
+    <string name="top_picks">Top Picks</string>
+    <string name="star_rating">Star Rating</string>
+    <string name="distance">Distance</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="name">Name</string>
+    <string name="position">Position</string>
+    <string name="price_range">Price Range</string>
+    <string name="stars_ranking">Star Ranking</string>
+    <string name="hotel_brands">Hotel Brands</string>
+    <string name="location">Location</string>
+    <string name="none">None</string>
+    <string name="clear_all">Clear all</string>
+    <string name="hotel_details_special_offer_text">Special Offer text goes here and saves XX% percent</string>
+    <string name="Special_Offer">Special Offer</string>
+    <string name="from">From</string>
+    <string name="map">Map</string>
+    <string name="driving_directions">Driving Directions</string>
+    <string name="hotel_policy">Hotel Policy</string>
+    <string name="book_now">Book Now</string>
+    <string name="hotel_confirmation_title_part_two">You will receive a confirmation email shortly.</string>
+    <string name="hotel_confirmation_reservation">Reservation details</string>
+    <string name="hotel_confirmation_taxes">Taxes:</string>
+    <string name="hotel_confirmation_confirmation">Confirmation #:</string>
+    <string name="hotel_confirmation_information">Hotel booking information</string>
+    <string name="hotel_confirmation_hotel">Hotel:</string>
+    <string name="hotel_confirmation_checkin">Check in date:</string>
+    <string name="hotel_confirmation_checkout">Check out date:</string>
+    <string name="hotel_confirmation_room">Room type:</string>
+    <string name="hotel_confirmation_guests">Guests:</string>
+    <string name="from2">From:</string>
+    <string name="hotel_confirmation_btn_goto">Go to My Trips</string>
+    <string name="footer_btn_text_title">Forward your travel confirmation emails to</string>
+    <string name="flight_status_txt_airline">Enter name or code</string>
+    <string name="flight_status_flight">Flight:</string>
+    <string name="flight_status_number">Enter flight number</string>
+    <string name="flight_status_when">When:</string>
+    <string name="check_status">Check Status</string>
+    <string name="terminal">Terminal:</string>
+    <string name="to">To:</string>
+    <string name="find_flights">Find Flights</string>
+    <string name="show">Show:</string>
+    <string name="flight_search_result_nondirect_warning">Only non-direct flights were found</string>
+    <string name="flight_search_result_empty">No scheduled flights were available from the airlines and systems we searched. Please try again with different search criteria.</string>
+    <string name="flight_reminder">Flight Reminder</string>
+    <string name="your_flight">Your Flight</string>
+    <string name="destination">Destination</string>
+    <string name="departure">Departure</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="flight_reminder_connection_flight">Connecting flight:</string>
+    <string name="flight_reminder_connection_flight_departs">Departs:</string>
+    <string name="flight_reminder_connection_flight_time_between">Time between flights:</string>
+    <string name="status">Status</string>
+    <string name="american_express">American Express</string>
+    <string name="first_line">First Line</string>
+    <string name="drop_off_date_title">Drop-off Date:</string>
+    <string name="drop_off_location_title">Drop-off Location:</string>
+    <string name="drop_off_airport">Drop-off airport</string>
+    <string name="car_info">Car Info:</string>
+    <string name="rate">Rate:</string>
+    <string name="extra_day_charges">Extra day charges:</string>
+    <string name="extra_hour_charges">Extra hour charges:</string>
+    <string name="estimated_rental_price">Estimated Rental Price:</string>
+    <string name="tnx_for_booking_part_two">Your car rental will be added shortly to your trip</string>
+    <string name="reservation_info">Reservation Information</string>
+    <string name="itinerary_title">Itinerary #:</string>
+    <string name="confirmation_title">Confirmation #:</string>
+    <string name="car_rental_information">Car Rental Information</string>
+    <string name="pickup_date_title">Pick-up Date:</string>
+    <string name="pickup_location_title">Pick-up Location:</string>
+    <string name="pick_up">Pick-up</string>
+    <string name="pick_up_airport">Pick-up Airport</string>
+    <string name="pick_off">Drop-off</string>
+    <string name="airports_autocomplete_all_airports">All airports</string>
+    <string name="search_cars">Search Cars</string>
+    <string name="rent_car_msg">Rent a car and get 3 months Gold</string>
+    <string name="buy_it">Buy it now</string>
+    <string name="no_fb_msg">No thanks, skip this step</string>
+    <string name="pre_fb_btn_msg">We know it\'s a pain maintaining too many accounts. So now you can login with Facebook:</string>
+    <string name="login_with_facebook">Sign in with Facebook</string>
+    <string name="tax_and_fee">Taxes &amp; Fees:</string>
+    <string name="your_info">Your Information:</string>
+    <string name="biling_info">Billing Information:</string>
+    <string name="city_title_txt">City:</string>
+    <string name="city_title_txt2">City</string>
+    <string name="city_title_txt_english">City</string>
+    <string name="postal_code">Postal Code:</string>
+    <string name="state_txt">State</string>
+    <string name="street_address">Street Address</string>
+    <string name="country">Country</string>
+    <string name="zip">Zip</string>
+    <string name="bed_type">Bed Type:</string>
+    <string name="smoking_title_txt">Smoking:</string>
+    <string name="booking_reservation_additional_info">Additional Information (optional)</string>
+    <string name="booking_reservation_renter_number">Frequent renter number</string>
+    <string name="booking_reservation_arrival_flight">Arrival Flight</string>
+    <string name="booking_reservation_flight_number">Flight Number</string>
+    <string name="booking_reservation_card_info">Card Information:</string>
+    <string name="booking_reservation_card_num">Card Number</string>
+    <string name="booking_reservation_finish_btn_txt">Finalize Reservation</string>
+    <string name="call_local_cwt_office">Contact your Travel Counselor</string>
+    <string name="search_hotels">Search hotels</string>
+    <string name="search_hotels_english">Search hotels</string>
+    <string name="car_booking_details_car_similar">Buick LaCross, Ford Crown Victor,Ford Crown Victor,Ford Crown Victor</string>
+    <string name="car_booking_details_air_conditioning">Air Conditioning</string>
+    <string name="car_booking_details_week_price">Weekly Price:</string>
+    <string name="car_booking_details_total_price">Total Price:</string>
+    <string name="car_booking_details_total_price_more_info">(Including estimated taxes and fees)</string>
+    <string name="car_booking_details_ppl">People</string>
+    <string name="car_booking_details_luggage">Luggage</string>
+    <string name="car_booking_details_continue_btn_txt">Continue to Reservation</string>
+    <string name="settings_edit_phone_summary" />
+    <string name="settings_edit_phone_def_title">Add phone number</string>
+    <string name="save">Save</string>
+    <string name="book_flight">Book Flight</string>
+    <string name="add_phone">Add number</string>
+    <string name="add_phone_error_msg"> Please enter a valid number</string>
+    <string name="flight_ckin">Flight check-in available</string>
+    <string name="flight_checking_title">Flight check-in: </string>
+    <string name="flight_checking_with_availability_html_format">&lt;b&gt;Flight check-in:&lt;/b&gt; %1$s &lt;a href=&quot;&quot;&gt;Open site&lt;/a&gt;</string>
+    <string name="flight_checking_no_availability_text"><b>Flight check-in:</b><a href="">Open site</a></string>
+    <string name="flight_open_site">Open site</string>
+    <string name="mobile_ckin_confimation_title1">This reservation\'s confirmation # is </string>
+    <string name="mobile_ckin_confimation_title2">. Just copy and paste it if needed.</string>
+    <string name="mobile_ckin_confimation_header">Online check-in</string>
+    <string name="web_view_error_retrieve_title">Web page loading</string>
+    <string name="web_view_error_retrieve_title_network_unavailable">Network unavailable</string>
+    <string name="web_view_error_retrieve_details_message">Sorry, we encountered an error while retrieving the data, please try again later.</string>
+    <string name="calendar_sync_title">Calendar Sync</string>
+    <string name="calendar_sync_activate">Sync trips to calendar</string>
+    <string name="calendar_sync_select_calendar_title">Select a calendar</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="weather_no_city">Weather is not available for the selected city</string>
+    <string name="currency_converter_last_update_format">Updated %1$s</string>
+    <string name="currency_converter_no_last_update">Updated N/A</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="hour">Hour</string>
+    <string name="price_per_day">Price Per Day</string>
+    <string name="about">About</string>
+    <string name="contact_counselor_activity_title">Assistance</string>
+    <string name="contact_counselor_capital">CONTACT A COUNSELOR</string>
+    <string name="biling_error1">Unable to complete transaction.\nCheck details and try again.</string>
+    <string name="biling_error2">Unable to complete transaction, please try again.</string>
+    <string name="biling_error3">Android Market is unavailable, please try again.</string>
+    <string name="biling_error4">Your purchase has been canceled.</string>
+    <string name="fb_login_error">Can\'t login</string>
+    <string name="fb_progrees_msgr">Retrieving Facebook data</string>
+    <string name="loging_in_msg">Logging in</string>
+    <string name="signing_in_msg">Signing in</string>
+    <string name="choose_currency">Choose Currency</string>
+    <string name="msg_no_empty">Message can\'t be empty</string>
+    <string name="departure_formated">Departure: %s</string>
+    <string name="arrival_formated">Arrival: %s</string>
+    <string name="flight_gate_txt">Gate:</string>
+    <string name="flight_gold_msg">Flight is monitored</string>
+    <string name="flight_not_gold_msg">Flight not monitored</string>
+    <string name="flight_search_aircraft_txt">Aircraft:</string>
+    <string name="flight_search_format_layover_time_1s">Layover time: %1$s</string>
+    <string name="show_txt">Show:</string>
+    <string name="stop_txt">Stop</string>
+    <string name="flight_layover_time">Layover time:</string>
+    <string name="friends_nearby">Friends Nearby</string>
+    <string name="no_location_error_msg">Can\'t detect your current location</string>
+    <string name="no_location_error_msg_english">Can\'t detect your current location</string>
+    <string name="per_day_txt">per day</string>
+    <string name="plz_wait_msg">Wait, please&#8230;</string>
+    <string name="status_updated">Status updated</string>
+    <string name="requesting_profile">Requesting Profile</string>
+    <string name="error_msg_header">Error</string>
+    <string name="loading_contacts">Loading contacts</string>
+    <string name="linkedin_connect_msg">You have signed in LinkedIn</string>
+    <string name="signup_complete_ask_for_cancel_txt">Do you want to continue without completing set-up ?</string>
+    <string name="contact_added_msg">Contact added</string>
+    <string name="yelp_progress_msg">Loading landmarks</string>
+    <string name="yelp_progress_title">Wait&#8230;</string>
+    <string name="yelp_search_progress_msg">Searching for local objects</string>
+
+    <string-array name="booking_credit_cards">
+        <item>Please select</item>
+        <item>American Express</item>
+        <item>Carte Blanche</item>
+        <item>Discover</item>
+        <item>Diners Club</item>
+        <item>MasterCard</item>
+        <item>Visa</item>
+    </string-array>
+
+    <string name="txt_expires_on">Expires on:</string>
+    <string name="credit_card_type_spiner_hint">Select Card Type</string>
+    <string name="credit_card_name_spiner_hint">Select Credit Card</string>
+    <string name="credit_card_ending_with">%1$s ending with %2$s</string>
+    <string name="txt_name_on_card">Name on card:</string>
+    <string name="milage_unlimited">Milage Unlimited</string>
+    <string name="milage_limited">Milage Limited</string>
+    <string name="car_reservation_title">Reserve your car</string>
+    <string name="flight_schecduel_one_stop_txt">1 Stop</string>
+    <string name="upcoming_trips_footer_sync_your_trips_to_your_calendar">Sync your trips to your calendar</string>
+    <string name="flight_reminder_gate_title">Gate:</string>
+    <string name="flight_reminder_arrival">Arrival</string>
+    <string name="flight_reminder_arrival_date">Arrival Date</string>
+    <string name="widget_planning_a_new_trip_qm">Planning a new trip?</string>
+    <string name="my_trips_upcoming_tab_name">UPCOMING</string>
+    <string name="my_trips_past_tab_name">PAST</string>
+    <string name="notify_settings_every_day">Every day</string>
+    <string name="notify_settings_only_while_traveling">Only while traveling</string>
+    <string name="notify_settings_never">Never</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="miles">Miles</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="home_tab_home">Home</string>
+    <string name="home_tab_mytrips">My Trips</string>
+    <string name="home_tab_booking">Booking</string>
+    <string name="home_tab_tools">Tools</string>
+    <string name="service_send_feedback">Send us Your Feedback</string>
+    <string name="payable_on_arrival">Payable on Arrival:</string>
+    <string name="drivers_age_and_nationality">Driver’s age and nationality</string>
+    <string name="nationality">Nationality</string>
+    <string name="age">Age</string>
+    <string name="payable_now">Payable now:</string>
+    <string name="rental_conditions">Rental Conditions</string>
+    <string name="booking_engine_terms_and_conditions">Terms and Conditions</string>
+    <string name="booking_engine_terms_and_conditions_format">and &lt;u&gt;%s&lt;/u&gt; provided</string>
+    <string name="no_driver_age_error">Please enter valid Driver’s Age</string>
+    <string name="no_driver_nationality_error">Please enter valid Driver’s Nationality</string>
+    <string name="please_enter_valid_airline_code_error">Please enter valid airline code</string>
+    <string name="please_enter_valid_airline_number">Please enter valid airline number</string>
+    <string name="included_in_price">Included in price:</string>
+    <string name="car_booking_card_note">Please be aware that car rental agents require a credit card in the primary driver’s name at time of pick-up.</string>
+    <string name="finalaze_reservation">Finalize Reservation</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="cwt_tutorial_travle">Travel Tools</string>
+    <string name="my_trips_upcoming_ab_tablet">Upcoming Trips</string>
+    <string name="my_trips_past_ab_tablet">Past Trips</string>
+    <string name="failed_to_add_contact">Failed to add contact</string>
+    <string name="hotel_reservation_title">Complete reservation</string>
+    <string name="weather_search_results_tite">SEARCH RESULTS</string>
+    <string name="about_legal_notice"><a href="">Terms of Use</a></string>
+    <string name="settings_push_notifications_title"><a href="">Push Notifications</a></string>
+    <string name="settings_missing_hotel_notifications"><a href="">Missing hotel notification</a></string>
+    <string name="delete_txt">Remove</string>
+    <string name="landmark_current_location">current location</string>
+    <string name="weather_no_current_city_title">Cannot get weather</string>
+    <string name="weather_no_current_city_sub">No connection available</string>
+    <string name="install_skype">In order to make phone calls, Skype should be installed on your device</string>
+    <string name="call_or_dial_missing_phone_default_message">Invalid phone number.</string>
+    <!-- NOT translated -->
+    <string name="prev_item">Previous</string>
+    <string name="next_item">Next</string>
+    <string name="car_booking_reservation_in_progress_message">We\'re processing your car rental reservation.\nThis may take up to 2 minutes.\nPlease wait.</string>
+    <string name="hotel_booking_reservation_in_progress_message">Please wait</string>
+    <string name="facebook_share_default_message_1to_city_2from_date_3to_date_4year_format">I am traveling to %1$s from %2$s to %3$s %4$s</string>
+    <string name="flight_departs_in_countdown">Countdown:</string>
+
+    <!-- Share Trip -->
+    <string name="activity_shareTrip_progressTitle">Please wait</string>
+    <string name="activity_shareTrip_progressMessage">sharing&#8230;</string>
+    <string name="activity_shareTrip_shareResult_shareButtonContactSelected">Share</string>
+    <string name="activity_shareTrip_shareResult_shareButtonContactNotSelected">Please select contact</string>
+    <string name="share_trip_email_format_message">Please enter contacts in the form: John@Smith.com</string>
+    <string name="share_trip_to_title">To:</string>
+    <string name="share_trip_popup_text_itinerary">Share your travel plans with colleagues and family</string>
+    <string name="share_trip_popup_text_flight_delay">Share this delay with colleagues and family</string>
+    <string name="share_trip_popup_text_flight_changed">Share this change with colleagues and family</string>
+    <string name="share_trip_popup_text_flight_be_late">Let your colleagues and family know that you\'ll be late</string>
+    <string name="share_trip_could_not_send">%1$s is not a valid email address</string>
+    <string name="share_trip_to_recipient_email">Recipient Email</string>
+    <string name="share_trip_summary_to_car_rental">%1$s\'s rental car details in %2$s</string>
+    <string name="share_trip_summary_to_train">%1$s\'s ground transportation details in %2$s</string>
+    <string name="share_trip_summary_to_flight">%1$s\'s flight to %2$s</string>
+    <string name="share_trip_summary_to_hotel">%1$s\'s hotel in %2$s</string>
+    <string name="share_trip_summary_to_meeting">%1$s\'s meeting details in %2$s</string>
+    <string name="share_trip_summary_to_trip">%1$s\'s trip to %2$s</string>
+    <string name="share_trip_summary_to_trip_no_destination">%1$s\'s trip</string>
+    <string name="share_trip_summary_to_booking">%1$s\'s booking</string>
+    <string name="share_trip_title">Share with Contact</string>
+    <string name="share_trip_shared_item_success">Item shared successfully</string>
+    <string name="share_trip_shared_trip_success">Trip shared successfully</string>
+    <string name="share_trip_could_not_share">Could not share at this moment. Please try again later.</string>
+    <string name="share_trip_could_not_send_all_recipients">An error occurred in sharing with the following recipients: </string>
+    <string name="share_trip_no_providers_enabled">Please enable either G+ or Facebook in order to post</string>
+    <string name="online_checkin_ssl_error_message">This airline\'s website is not certified with your device. Would you like to continue?</string>
+
+    <!-- NOT translated, should be translated (Hotel booking) -->
+
+    <string name="service_travel_notification_drawer">Travel Notifications</string>
+
+    <!-- NOT translated, weather related -->
+
+    <string name="weather_no_trip_cities_title">No upcoming trips</string>
+    <string name="weather_no_trip_cities_sub">When a trip will be added, weather\nforecast will be displayed</string>
+    <string name="check_in_text">Check In</string>
+    <string name="check_out_text">Check Out</string>
+    <string name="contact_details_text">Contact Details</string>
+
+    <!-- NOT translated, home screen cards related -->
+
+    <string name="trip_summary">Trip summary</string>
+    <string name="view_all_trips">View all trips</string>
+    <string name="flights">Flights</string>
+    <string name="hotels">Hotels</string>
+    <string name="cars">Cars</string>
+    <string name="trains">Trains</string>
+    <string name="share_title">Share</string>
+    <string name="share_btn_connected">Share</string>
+    <string name="share_btn_not_connected">Share on Facebook</string>
+    <string name="no_flights">No flights</string>
+    <string name="no_cars">No car rental</string>
+    <string name="missing_accommodation">Missing accommodation</string>
+    <string name="more_than">more than</string>
+    <string name="check_in_str" formatted="false">Flight %s %d: Check-in available</string>
+    <string name="reserve_rental_car">Reserve a rental car for your stay in %s</string>
+    <string name="car_time" formatted="false">%d days, %s - %s</string>
+    <string name="trip_map_card_title">Trip map</string>
+    <string name="arrives_in">Arrives in:</string>
+
+    <plurals name="more_flights_plurals">
+        <item quantity="one">\nand one more flight</item>
+        <item quantity="other">\nand %d more flights</item>
+    </plurals>
+    <plurals name="more_cars_plurals">
+        <item quantity="one">\u0020and one more rental car</item>
+        <item quantity="other">\u0020and %d more rental cars</item>
+    </plurals>
+    <plurals name="more_hotels_plurals">
+        <item quantity="one">\u0020and one more hotel</item>
+        <item quantity="other">\u0020and %d more hotels</item>
+    </plurals>
+    <plurals name="more_train_plurals">
+        <item quantity="one">\u0020and one more train ride</item>
+        <item quantity="other">\u0020and %d more train rides</item>
+    </plurals>
+
+    <string name="next_trips">Next trips</string>
+    <string name="your_past_trips">Your past trips</string>
+    <string name="whats_next">What\'s next?</string>
+    <string name="no_upcoming_trips_card_text" formatted="false">To add a new trip simply forward your travel confirmation emails to %s</string>
+    <string name="no_upcoming_trips_card_approval_dialog" formatted="false">Add \"%s\" to contacts?</string>
+    <string name="missing_accomodations_for_tonight">Need a hotel for tonight?</string>
+    <string name="missing_accomodations_no_result_text" formatted="false">No hotel found in %s\n between %s</string>
+
+    <plurals name="missing_accommodations_nights_plural">
+        <item quantity="one"> night</item>
+        <item quantity="other"> nights</item>
+    </plurals>
+
+    <string name="missing_accommodations_view_more">View more hotels</string>
+    <string name="missing_accommodations_book_now">Book now</string>
+    <string name="missing_accommodations_previous_stay">Previous stay</string>
+
+    <plurals name="past_destination_trips_plurals">
+        <item quantity="one">one trip</item>
+        <item quantity="other">%d trips</item>
+    </plurals>
+    <plurals name="past_destination_destination_plurals">
+        <item quantity="one">one destination</item>
+        <item quantity="other">%d destinations</item>
+    </plurals>
+
+    <string name="past_destination_this_year_format">You\'ve traveled %1$s to %2$s this year</string>
+    <string name="past_destination_last_year_format">You\'ve traveled %1$s to %2$s last year</string>
+    <string name="past_destination_not_travel">You haven\'t traveled yet with %s this year&#8230;</string>
+    <string name="get_directions_to_format">Get directions to %s</string>
+    <string name="card_no_connectivity_error">No Connectivity.\nPlease try again later.</string>
+    <string name="card_no_data_error">Failed to retrieve data.\nPlease try again later.</string>
+    <string name="service_send_us_feedback">Send us Your Feedback!</string>
+
+    <string name="please_selecct_drop_off_loc">Please select drop-off location</string>
+    <string name="please_select_pick_up_loc">Please select pick-up location</string>
+    <string name="portrait_profile">My Travel Profile</string>
+    <string name="portrait_no_connectivity_error">Initial profile access requires wireless connectivity. Please connect and try again.</string>
+    <string name="whats_new">What\'s new</string>
+
+
+    <!-- Header Authentivation -->
+    <string name="reset_password_url">https://www.worldmatelive.com/trips/common/lostPassword.mhtml?</string>
+
+    <!-- for off channel -->
+    <string name="off_channel_business_type_value">Business</string>
+    <string name="off_channel_leisure_type_value">Leisure</string>
+    <string name="off_channel_item">Item</string>
+    <string name="off_channel_item_change_alert_business_multiple">Note that there are X business items in this trip</string>
+    <string name="off_channel_item_change_alert_leisure_multiple">Note that there are X leisure items in this trip</string>
+    <string name="off_channel_item_change_alert_leisure_singular">Note that there is 1 leisure item in this trip</string>
+    <string name="off_channel_item_change_alert_business_singular">Note that there is 1 business item in this trip</string>
+    <string name="off_channel_dialog_message_to_leisure">By changing the trip type to ‘leisure’, all items in this trip will be changed to ‘leisure’. If you would like to change an item, click on the item you would like to change and indicate the trip type for that item</string>
+    <string name="off_channel_dialog_message_to_business">By changing the trip type to ‘business’, all items in this trip will be changed to ‘business’. If you would like to change an item, click on the item you would like to change and indicate the trip type for that item</string>
+    <string name="off_channel_trip_title">Trip Type</string>
+    <string name="off_channel_item_title">Item Type</string>
+    <string name="off_channel_general_description">Is this a leisure trip?  Tap here to change the type to leisure and exclude it from company reporting.</string>
+    <string name="not_available">Not available</string>
+    <string name="to_depatrure">to departure</string>
+    <string name="show_next_trip">Show next trip</string>
+    <string name="card_newcard_feat_text">Loyalty program numbers now at your fingertips! Access your travel profile now.</string>
+    <string name="hotel_item">Hotel</string>
+    <string name="meeting_item">Meeting</string>
+    <string name="transportation_item">Transportation</string>
+    <string name="flight_item" formatted="false">Flight %s %d</string>
+    <string name="flight_lower_title_pattern" formatted="false">%s (%s) - %s (%s)</string>
+
+    <string name="email_prefs_url_no_host">https:///SATOMobileWeb/NotificationService.php</string>
+    <string name="email_addresses_url_no_host">https:///SATOMobileWeb/ManageEmails.php</string>
+
+    <!-- Share trip card not translated -->
+    <string name="share_trip_card_dismiss_title">Remove share card?</string>
+    <string name="share_trip_card_dismiss_message">Sharing trip updates on Facebook and Google+ will be disabled on home tab.</string>
+
+    <!-- Clocks cards not translated -->
+    <string name="show_more">Show more</string>
+    <string name="show_less">Show less</string>
+
+    <!-- Notification for non active users - not translated (WM related only at the moment)-->
+    <string name="non_active_one_week_scheduled_message_type_a">Send us your confirmation emails and we’ll organize your trip, send flight alerts and help you save on your hotel bookings.</string>
+    <string name="non_active_one_day_scheduled_message_type_b">Check out the newly redesigned app.</string>
+    <string name="non_active_one_week_scheduled_title_type_b">Traveling Soon?</string>
+    <string name="non_active_one_month_scheduled_title_type_b">Have an upcoming trip?</string>
+
+
+    <!--  -->
+    <string name="international_date_line_dialog_title">International Time Line</string>
+    <string name="international_date_line_dialog_message">The International Date Line (IDL) is an imaginary line on the surface of the Earth that passes through the middle of the Pacific Ocean. Locations to the west of the IDL are one calendar day ahead of locations to the east of the line. To accommodate, A traveler crossing the IDL from east to west, as your travel plans dictates, subtracts one day.</string>
+
+    <string name="car_results_total_price">%s Total</string>
+
+    <string name="holders_name_remark">* Name should be in English and match the credit card holder\'s name</string>
+    <string name="holders_name_remark_dialog">Name should be in English and match the credit card holder\'s name</string>
+
+    <string name="share_trip_comment_hint">Add your personal message here.</string>
+    <string name="share_trip_send_yourself_email"><![CDATA[Your trip details will be shared with the contacts you selected. What will be shared? <b>Click here</b> to send yourself this email.]]></string>
+
+    <string name="daily_plan_earlier_in">Earlier in %1$s</string>
+
+    <!-- Booking Item -->
+    <string name="booking_item_name_title">Name:</string>
+    <string name="booking_item_description_title">Description:</string>
+    <string name="booking_item_status_title">Status:</string>
+    <string name="booking_item_status_description_title">Status Description:</string>
+    <string name="booking_item_barcode_title">Barcode:</string>
+    <string name="booking_item_barcode_type_title">Barcode Type:</string>
+    <string name="booking_item_class_title">Class:</string>
+    <string name="booking_item_section_title">Section:</string>
+    <string name="booking_item_cabin_title">Cabin:</string>
+    <string name="booking_item_seat_title">Seat:</string>
+    <string name="booking_item_validity_location_description_title">Valid In:</string>
+    <string name="booking_item_duration_description_title">Duration:</string>
+
+    <string name="booking_item_opening_hours_title">Opening hours:</string>
+    <string name="booking_item_phone_number_title">Phone:</string>
+    <string name="booking_item_fax_title">Fax:</string>
+
+    <string name="booking_item_support_category_title">Support</string>
+    <string name="booking_item_support_email_title">Support Email:</string>
+    <string name="booking_item_support_phone_title">Support Phone:</string>
+
+    <string name="booking_item_booking_details_category_title">Booking Details</string>
+    <string name="booking_item_total_price_title">Total Price:</string>
+    <string name="booking_item_quantity_title">Quantity:</string>
+    <string name="booking_item_average_daily_price_title">Average Daily Price:</string>
+    <string name="booking_item_total_tax_title">Total Tax:</string>
+    <string name="booking_item_booking_date_title">Booking Date:</string>
+    <string name="booking_item_booking_website_name_title">Booking Website Name:</string>
+    <string name="booking_item_booking_website_phone_number_title">Booking Website Phone:</string>
+    <string name="booking_item_booking_website_url_title">Booking Website URL:</string>
+    <string name="booking_item_booking_details_url_title">Booking Details URL:</string>
+    <string name="booking_item_booking_update_url_title">Booking Update URL:</string>
+    <string name="booking_item_refundable_title">Refundable:</string>
+    <string name="booking_item_last_cancellation_date_title">Last Cancellation Date:</string>
+    <string name="booking_item_booking_cancellation_url_title">Booking Cancellation URL:</string>
+    <string name="booking_item_booking_cancellation_policy_title">Booking Cancellation Policy:</string>
+    <string name="booking_item_invoice_number_title">Invoice Number:</string>
+    <string name="booking_item_shipping_location_title">Shipping Location:</string>
+
+
+    <string name="booking_item_vendor_category_title">Vendor</string>
+    <string name="booking_item_provider_title">Provider:</string>
+    <string name="booking_item_vendor_name_title">Vendor Name:</string>
+    <string name="booking_item_vendor_code_title">Vendor Code:</string>
+
+    <string name="booking_item_additional_content_category_title">Additional Info</string>
+
+    <string name="booking_item_quantity_and_unit_format">%1$s %2$s</string>
+    <string name="booking_item_price_and_currency_format">%1$.2f %2$s</string>
+    <!-- End of Booking Item -->
+
+    <string name="about_for_support_contact_us_at">For support contact us at:</string>
+
+    <!-- CWT Location search strings -->
+    <string name="select_location">Select location</string>
+
+    <!-- CWT support & feedback strings -->
+    <string name="support_and_feedback">Support &amp; Feedback</string>
+    <string name="feedback_select_topic">Select a topic</string>
+    <string-array name="feedback_topics_array">
+        <item>General</item>
+        <item>I have an idea</item>
+        <item>Login and registration</item>
+        <item>Device</item>
+        <item>Trips</item>
+    </string-array>
+    <string name="send_us_your_feedback_btn">Send us questions or feedback </string>
+    <string name="feedback_not_connectivity_text">Accessing Support &amp; Feedback requires wireless connectivity. Please connect and try again.</string>
+    <string name="feedback_email">cwttogo.ww@contactcwt.com</string>
+    <string name="feedback_email_cc">feedback@cwttogo.com</string>
+    <string name="feedback_email_body"><![CDATA[<b>PLEASE DO NOT DELETE</b><br>the below information will be used to better understand your feedback.]]></string>
+    <string name="feedback_os_version">OS version</string>
+    <string name="feedback_app_version">App version</string>
+    <string name="feedback_device_description">Device description</string>
+    <string name="feedback_user_guid">User GUID</string>
+    <string name="feedback_user">User</string>
+    <string name="feedback_language">Language</string>
+    <string name="missing_accommodations_notification_title">You\'re missing a hotel</string>
+
+    <string name="facebook_publish_wall_post_description_format"><![CDATA[%1$s is a free app that makes your travel organized and simpler. Available for Android, iPhone & iPad.]]></string>
+    <string name="facebook_publish_wall_post_action_name_format">Get %1$s</string>
+
+    <string name="common_text_link_wrapper_format"><![CDATA[<a href="">%1$s</a>]]></string>
+
+</resources>

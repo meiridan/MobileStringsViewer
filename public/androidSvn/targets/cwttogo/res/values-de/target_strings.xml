@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="cwt_phone_number_title">Mein örtliches CWT-Büro</string>
+    <string name="cwt_phone_number_introduction">Geben Sie die Telefonnummer Ihres örtlichen CWT-Büros in folgendem Format ein: + gefolgt von der Landesvorwahl, Ortsvorwahl und Telefonnummer.</string>
+    <string name="cwt_phone_number_et_hint">Nummer eingeben</string>
+    <string name="cwt_phone_number_text_below">Beispiel: +33122222222 oder +15551234567\n</string>
+    <string name="cwt_phone_number_text_below2">Diese Nummer wird in die App übernommen, sodass Sie mit einem Klick mit Ihrem CWT-Reiseberater in Kontakt stehen.\n\nSie können die Nummer jederzeit bearbeiten oder löschen, indem Sie diesen Bildschirm über die Einstellungen aufrufen.</string>
+    <string name="tell_a_colleague_subject">CWT To Go ausprobieren</string>
+    <string name="tell_a_colleague_mail_text_part1">Hallo! \n\n Ich verwende die kostenlose Mobile-App CWT To Go und denke, sie könnte auch Sie interessieren.
+        
+        Über CWT gebuchte Reisen werden automatisch an die App gesendet, sodass ich sie nicht an meine E-Mail-Adresse weiterleiten oder manuell eingeben brauche. Außerdem werde ich von der App über verspätete Flüge, Gate-Zuweisungen und -Änderungen und vieles mehr benachrichtigt. \n\n
+        
+        Probieren Sie sie selbst aus!  \n\n\n
+        
+        iPhone und iPad:\n http://www.cwttogo.com/mobile/appstores.php?platform=ios \n\n
+        
+        Android: \n http://www.cwttogo.com/mobile/appstores.php?platform=ios \n\n
+        
+        Windows Phone: \n http://www.cwttogo.com/mobile/appstores.php?platform=windows_phone \n\n
+        
+		BlackBerry: \n http://www.cwttogo.com/mobile/appstores.php?platform=blackberry \n\n
+</string>
+	<string name="cwt_first_encounter_msg">Willkommen bei der neuen\nCWT To Go!\n\nIhre Reisen werden derzeit in das System hochgeladen.  Je nach Anzahl Ihrer Reisen kann diese erste Synchronisierung bis zu 30 Minuten dauern.\n\nVielen Dank für Ihre Geduld.</string>
+</resources>

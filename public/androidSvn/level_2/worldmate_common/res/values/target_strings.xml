@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="hotel_results_format_hotels_in_1s_city">Hotels in %1$s</string>
+    
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="booking_guest_count">
+        <item>1 Guest</item>
+        <item>2 Guests</item>
+        <item>3 Guests</item>
+        <item>4 Guests</item>
+    </string-array>
+    <string-array name="daily_assistant">
+        <item>@string/notify_settings_every_day</item>
+        <item>@string/notify_settings_only_while_traveling</item>
+        <item>@string/notify_settings_never</item>
+    </string-array>
+    <string-array name="daily_assistant_keys">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="evening_assistant_time_24h">
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>0:00</item>
+        <item>1:00</item>
+        <item>2:00</item>
+    </string-array>
+    <string-array name="evening_assistant_time_12h">
+        <item>4:00 PM</item>
+        <item>5:00 PM</item>
+        <item>6:00 PM</item>
+        <item>7:00 PM</item>
+        <item>8:00 PM</item>
+        <item>9:00 PM</item>
+        <item>10:00 PM</item>
+        <item>11:00 PM</item>
+        <item>12:00 AM</item>
+        <item>1:00 AM</item>
+        <item>2:00 AM</item>
+    </string-array>
+    <string-array name="evening_assistant_time_keys">
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+        <item>0:00</item>
+        <item>1:00</item>
+        <item>2:00</item>
+    </string-array>
+    <string-array name="weather_temperature">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+    <string-array name="weather_temperature_keys">
+        <item>F</item>
+        <item>C</item>
+    </string-array>
+    <string-array name="weather_wind">
+        <item>@string/miles</item>
+        <item>@string/kilometers</item>
+    </string-array>
+    <string-array name="weather_wind_keys">
+        <item>MI</item>
+        <item>KM</item>
+    </string-array>
+    <string-array name="on_off_list">
+        <item>@string/on</item>
+        <item>@string/off</item>
+    </string-array>
+    <string-array name="on_off_list_keys">
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="flight_notification">
+        <item>@string/enabled</item>
+        <item>@string/disabled</item>
+    </string-array>
+    <string-array name="flight_notification_time">
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+    </string-array>
+    <string-array name="flight_notification_time_keys">
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+    </string-array>
+    <string-array name="facebook_permissions">
+        <item>email</item>
+        <item>user_birthday</item>
+        <item>user_checkins</item>
+        <item>user_hometown</item>
+        <item>user_location</item>
+        <item>publish_stream</item>
+        <item>publish_checkins</item>
+        <item>friends_location</item>
+        <item>friends_hometown</item>
+        <item>friends_work_history</item>
+        <item>friends_education_history</item>
+    </string-array>
+    <string-array name="marketing_messages_opt_out_countries">
+        <item>AD</item>
+        <item>AL</item>
+        <item>AT</item>
+        <item>AX</item>
+        <item>BA</item>
+        <item>BE</item>
+        <item>BG</item>
+        <item>BY</item>
+        <item>CH</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>EE</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GI</item>
+        <item>GR</item>
+        <item>HR</item>
+        <item>HU</item>
+        <item>IE</item>
+        <item>IM</item>
+        <item>IT</item>
+        <item>LI</item>
+        <item>LT</item>
+        <item>LU</item>
+        <item>LV</item>
+        <item>MC</item>
+        <item>MD</item>
+        <item>ME</item>
+        <item>MK</item>
+        <item>MT</item>
+        <item>NL</item>
+        <item>NO</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>RS</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SI</item>
+        <item>SK</item>
+        <item>SM</item>
+        <item>TR</item>
+        <item>UA</item>
+    </string-array>
+    <string-array name="booking_currency">
+        <item>U.S. Dollar (USD)</item>
+        <item>Euro (EUR)</item>
+        <item>Australian Dollar (AUD)</item>
+        <item>British Pound (GBP)</item>
+        <item>Canadian Dollar (CAD)</item>
+        <item>Hong Kong Dollar (HKD)</item>
+        <item>Israel New Sheqel (ILS)</item>
+        <item>Japanese Yen (JPY)</item>
+        <item>New Zealand Dollar (NZD)</item>
+        <item>Swiss Francs (CHF)</item>
+    </string-array>
+    <string-array name="booking_currency_keys">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>HKD</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>NZD</item>
+        <item>CHF</item>
+    </string-array>
+
+</resources>

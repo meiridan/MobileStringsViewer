@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+    
+    <string name="cwt_phone_number_et_hint">Enter number</string>
+    <string name="cwt_phone_number_text_below">Example: +33122222222 or +15551234567\n</string>
+    
+	<!-- need to be translated -->
+	<string name="hotel_results_format_hotels_in_1s_city">%1$s</string>
+	
+    <!-- not translated -->
+    <string name="filters_price_format_low_1d_percent_hi_2d_percent">%1$s - %2$s</string>
+    <string name="hotel_menu_map_view">Map</string>
+    <string name="hotel_menu_list_view">List</string>
+    <string name="hotel_menu_edit_search">Edit Search</string>
+		
+</resources>

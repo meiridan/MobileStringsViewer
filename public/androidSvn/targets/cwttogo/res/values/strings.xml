@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CWT To Go</string>
+    <string name="about_version_format">CWT To Go v.%s</string>
+    <string name="flight_alert_notification_ticker">CWT To Go: Flight alert</string>
+    <string name="itinerary_change_notification_ticker_text">CWT To Go: Itinerary updated</string>
+    <string name="notification_common_title_with_prefix_format">CWT To Go: %1$s</string>
+    <string name="morning_assistant_upcoming_trips_none_address">plans@cwttogo.com.</string>
+    <string name="general_footer_text_email_link">plans@cwttogo.com.</string>
+    <string name="empty_trip_line1">You can add flights, hotels, rental cars and more by forwarding your confirmation emails to: plans@cwttogo.com.</string>
+    <string name="empty_upcoming_trips_line1">Your CWT trips automatically display within CWT To Go. Please allow up to 30 minutes.</string>
+    <string name="empty_upcoming_trips_line2">Have a reservation that wasn\'t made with CWT? Simply forward the confirmation email to plans@cwttogo.com</string>
+    <string name="rate_us_dialog_message_format">Love CWT To Go ? Give us 5\u00A0star rating on %1$s</string>
+    <string name="rate_us_dialog_button_rate">Rate CWT To Go</string>
+    <string name="widget_description_long">Your CWT trips automatically display within CWT To Go.  Have a reservation that wasn\'t made with CWT? Simply forward the confirmation email to plans@cwttogo.com</string>
+    <string name="settings_edit_phone">My Local CWT Office</string>
+    <string name="settings_contact_cwt_agent_title">Contact CWT</string>
+    <string name="cwt_wellcome_screen_pager_des_page2">Trips booked through CWT are automatically displayed while a simple email to plans@cwttogo.com will integrate trips you have made through other channels.</string>
+    <string name="cwt_wellcome_screen_pager_des_page3">CWT To Go keeps you  informed of delays, cancellations, gate assignments and changes so that you can proactively stay on track.</string>
+    <string name="flight_reminder_buttons_details">Open CWT To Go</string>
+    <string name="forward_email_address">plans@cwttogo.com</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_prefix">CWT To Go:</string>
+    <string name="enter_cwt_office_number_to_book">Enter CWT Office Number To Book</string>
+    <string name="signin_forgot_password"><a href="">Forgot password?</a></string>
+    <!-- for cwttogo use of terms link, see other languages in cwttogo project -->
+    <string name="terms_of_use_link">http://www.cwttogo.com/mobile/terms_of_use.php?lang=en</string>
+</resources>

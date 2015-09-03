@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">B-schedule</string>
+
+    <string name="equipment_rental_link">http://biz.telecomsquare.co.jp/b_schedule/</string>
+    <string name="travel_insurance_link">https://tabiho.jp/tb/?BranchCode=HE&amp;ProducerCode=385&amp;KashoCode=0013&amp;EntranceType=00</string>
+
+    <string name="text_signin">If you already have a B-schedule account, Sign In:</string>
+    <string name="button_join">Join B-schedule</string>
+    <string name="settings_change_password_url" translatable="false">https://www.worldmatelive.com/trips/common/lostPassword.mhtml</string>
+    <string name="settings_manage_creditcards_url">https://www.worldmatelive.com/trips/profile/mobile/manageCreditCards.mhtml</string>
+    <string name="about_version_format">B-schedule v.%s</string>
+    <string name="about_visit_link">www.bschedule.com</string>
+    <string name="about_credits_html"><a href="http://worldmate.com/">Credits</a></string>
+    <string name="signin_forgot_password"><a href="https://www.worldmatelive.com/trips/common/lostPassword.mhtml?/">Forgot password?</a></string>
+    <!-- Morning assistant -->
+    <string name="morning_assistant_activity_name">B-schedule Morning Assistant</string>
+    <string name="morning_assistant_upcoming_trips_none_address">trips@bschedule.com</string>
+    <string name="email_title">B-schedule trips</string>
+    <string name="billing_hotel_promo_text1">Free 3 month upgrade to B-schedule Gold for every booking</string>
+    <string name="feedback_email_title">Feedback for B-schedule for Android, ver </string>
+    <string name="itinerary_change_notification_ticker_text">B-schedule: Itinerary updated</string>
+    <string name="notification_common_title_with_prefix_format">B-schedule: %1$s</string>
+    <string name="flight_alert_notification_ticker">B-schedule: Flight alert</string>
+    <string name="flight_alert_notification_audio_prefix">B-schedule:</string>
+    <string name="itinerary_change_notification_audio_prefix">B-schedule:</string>
+    <string name="gold_notification_title">B-schedule Gold</string>
+    <string name="gold_subscription_activated_successful">Your B-schedule Gold subscription has been activated</string>
+    <string name="gold_subscription_is_not_activated">Your B-schedule Gold subscription is not activated: %1$s</string>
+    <string name="gold_subscription_activation_error">B-schedule Gold Subscription activation error</string>
+    <string name="text_to_speech_missing_notification_ticker">B-schedule: Enable audio flight alert</string>
+    <string name="empty_trip_line1">You can add flights, hotels, rental cars and more by forwarding your confirmation emails to: trips@bschedule.com</string>
+    <string name="empty_upcoming_trips_line1">To add a new trip, just forward your travel confirmation emails (flight, hotel, car, etc.) to: trips@bschedule.com</string>
+    <string name="empty_upcoming_trips_line2">B-schedule will build your itinerary automatically, no matter where you booked.</string>
+    <string name="empty_upcoming_trips_line3">You may also access and manage your itineraries at www.worldmate.com on your computer.</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_prefix">B-schedule:</string>
+    <string name="invalid_credentials_notification_ticker">B-schedule: Credentials changed</string>
+    <string name="invalid_credentials_message_text">Your B-schedule credentials have changed</string>
+    <string name="friends_worldmate_user">B-schedule User</string>
+    <string name="rate_us_dialog_message_format">Love B-schedule ? Give us ★★★★★ rating on %1$s</string>
+    <string name="rate_us_dialog_button_rate">Rate B-schedule</string>
+    <string name="marketing_message_title">Welcome to B-schedule</string>
+    <string name="marketing_message_text">Please approve opting in to marketing communications from us, so we will be able to occasionally send you relevant updates covering product releases, new features, tips and tricks, hotels deals and other useful information.
+\n\nYou can fine tune and select specific information you want to receive by changing your subscription preferences on worldmate.com.</string>
+    <string name="widget_description_long">Already Booked? Forward your confirmation emails to: <b>trips@bschedule.com</b></string>
+    <string name="sign_up_btn_txt_start">Start using B-schedule</string>
+    <string name="no_upcoming_trips_add_contact">Add B-schedule to address book</string>
+    <string name="flight_reminder_buttons_details">Open B-schedule</string>
+    <string name="hotel_confirmation_title">Thank you for booking with B-schedule, in affiliation with Expedia.</string>
+    <string name="general_footer_text_email_link">trips@bschedule.com</string>
+    <string name="tnx_for_booking">Thank you for booking with B-schedule</string>
+    <string name="flight_reminder_open_worldmate">Open B-schedule</string>
+    <string name="forward_email_address">trips@bschedule.com</string>
+
+    <!-- NOT translated -->
+    <string name="facebook_token_expiration_error_message">In order to enjoy the full benefit of B-schedule, all requested permissions are required.\n\nPlease sign up again.</string>
+
+    <string name="billing_road_warrior_second_text">If your flight is delayed, canceled or diverted, B-schedule will push an alert directly to your Android.</string>
+
+    <string name="signup_complete_title_txt">Welcome to B-schedule</string>
+
+    <string name="worldmate_sub_title1">Simply forward all your confirmation emails to trips@bschedule.com and receive your itinerary in an organized, easy-to-read view.</string>
+    <string name="worldmate_sub_title4">Get notified when check-in is available, check-in to your flight directly from B-schedule, have all you travel plans synced to your calendar - and much more.</string>
+
+    <string name="jtb_sign_in_active_not_verified_txt"><Data><![CDATA[<b>Thank you for creating your B-schedule Account.</b><br><br>Please follow directions found in an email that has been sent to your registered address to verify your account.<br><br>If you don’t receive the email, please check your spam or junk mail filter or: <br><br><a href="">Click here to resend</a> ]]></Data></string>
+    <string name="jtb_sign_in_active_not_verified_bottom_txt"><Data><![CDATA[<br>Did you already verify your account? <a href="">Click here to sign in.</a> ]]></Data></string>
+
+    <string name="non_active_one_day_scheduled_title_type_a">New to B-schedule?</string>
+    <string name="non_active_one_day_scheduled_message_type_a">Forward your travel confirmation emails to trips@bschedule.com and we’ll take care of the rest.</string>
+    <string name="non_active_one_week_scheduled_title_type_a">Give B-schedule a try!</string>
+    <string name="non_active_one_month_scheduled_title_type_a">Give B-schedule a try!</string>
+    <string name="non_active_one_month_scheduled_message_type_a">Managing your trips has never been easier – simply forward your travel confirmation emails to trips@bschedule.com and we’ll take care of the rest.</string>
+    <string name="non_active_one_day_scheduled_title_type_b">B-schedule Wants You Back!</string>
+    <string name="non_active_one_week_scheduled_message_type_b">The all new B-schedule helps you plan, book, and manage your trips better than ever.</string>
+    <string name="non_active_one_month_scheduled_message_type_b">Simply forward your confirmation emails to trips@bschedule.com.</string>
+
+    <string name="support_email_address_link">support@bschedule.com</string>
+</resources>

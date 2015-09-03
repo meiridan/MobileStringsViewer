@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string-array name="booking_guest_count">
+		<item>1名</item>
+		<item>2名</item>
+		<item>3名</item>
+		<item>4名</item>
+	</string-array>
+
+	<string-array name="evening_assistant_time_24h">
+		<item>16:00</item>
+		<item>17:00</item>
+		<item>18:00</item>
+		<item>19:00</item>
+		<item>20:00</item>
+		<item>21:00</item>
+		<item>22:00</item>
+		<item>23:00</item>
+		<item>0:00</item>
+		<item>1:00</item>
+		<item>2:00</item>
+	</string-array>
+	
+	<string-array name="evening_assistant_time_12h">
+		<item>4:00 PM</item>
+		<item>5:00 PM</item>
+		<item>6:00 PM</item>
+		<item>7:00 PM</item>
+		<item>8:00 PM</item>
+		<item>9:00 PM</item>
+		<item>10:00 PM</item>
+		<item>11:00 PM</item>
+		<item>12:00 AM</item>
+		<item>1:00 AM</item>
+		<item>2:00 AM</item>
+	</string-array>
+
+	<string-array name="weather_temperature">
+		<item>°F（華氏）</item>
+		<item>°C（摂氏）</item>
+	</string-array>
+
+	<string-array name="booking_currency">
+	    <item>USドル(USD))</item>
+	    <item>ユーロ(EUR)</item>
+		<item>オーストラリアドル(AUD)</item>
+		<item>英ポンド(GBP)</item>
+        <item>カナダドル(CAD)</item>
+        <item>香港ドル(HKD)</item>
+        <item>イスラエルシェケル(ILS)</item>
+        <item>日本円(JPY)</item>
+        <item>ニュージーランドドル(NZD)</item>
+        <item>スイスフラン(CHF)</item>
+    </string-array>
+
+	<string-array name="booking_currency_keys">
+		<item>USD</item>
+		<item>EUR</item>
+		<item>AUD</item>
+		<item>GBP</item>
+		<item>CAD</item>
+		<item>HKD</item>
+		<item>ILS</item>
+		<item>JPY</item>
+		<item>NZD</item>
+		<item>CHF</item>
+	</string-array>
+			
+</resources>

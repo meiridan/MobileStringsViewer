@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="message_wait">読み込み中です。しばらくお待ちください。</string>
+    <string name="text_join">新規ユーザーですか?</string>
+    <string name="text_account_details">アカウントの詳細</string>
+    <string name="text_home_location">ホームシティ</string>
+    <string name="hint_email">メール</string>
+    <string name="hint_password">パスワード</string>
+    <string name="hint_name">名前と名字</string>
+    <string name="hint_email_address">メールアドレスを入力する</string>
+    <string name="hint_password_min6_chars">パスワード （6文字以上）</string>
+    <string name="hint_confirm_password">パスワードを確認</string>
+    <string name="button_signin">サインイン</string>
+    <string name="button_sync">同期</string>
+    <string name="button_signup">新規登録</string>
+    <string name="button_logout">ログアウト</string>
+    <string name="error_empty_field">この項目は入力が必須です</string>
+    <string name="error_not_same">この項目は入力が必須です</string>
+    <string name="title_departure">出発</string>
+    <string name="title_arrival">到着</string>
+    <string name="title_notes">備考</string>
+    <string name="title_meeting_contact">ミーティングの連絡先</string>
+    <string name="title_pickup">借出</string>
+    <string name="title_dropoff">返却</string>
+    <string name="train_title_departure">出発</string>
+    <string name="text_baggage_claim">手荷物受取所:</string>
+    <string name="text_eticket">eチケット#:</string>
+    <string name="text_confirmation_code">確認番号</string>
+    <string name="text_reservation_code">予約番号（記録ローケーター）</string>
+    <string name="text_operating">運航</string>
+    <string name="text_operating_airline_name">航空会社名</string>
+    <string name="text_operating_number">数:</string>
+    <string name="text_membership_program">メンバーシッププログラム</string>
+    <string name="text_membership_program_name">メンバーシップ名：</string>
+    <string name="text_membership_program_number">メンバーシップ番号：</string>
+    <string name="text_membership_points">ポイント:</string>
+    <string name="text_membership_milage">マイレージ:</string>
+    <string name="text_agent_information">予約先情報</string>
+    <string name="text_agent_information_name">以下から予約済み:</string>
+    <string name="text_agent_information_phone">電話</string>
+    <string name="text_agent_information_date">契約日:</string>
+    <string name="text_agent_information_url">URL：</string>
+    <string name="text_agent_information_conf">予約確認：</string>
+    <string name="text_agent_information_itin">旅程：</string>
+    <string name="text_flight_cancelled">キャンセル済</string>
+    <string name="text_flight_diverted">到着地変更</string>
+    <string name="text_flight_baggage">手荷物</string>
+    <string name="text_flight_baggage_last_checkin">直近のチェックイン:</string>
+    <string name="text_flight_baggage_allowed_amount">許容数量:</string>
+    <string name="text_flight_baggage_allowed_weight">許容重量:</string>
+    <string name="text_flight_baggage_price">料金:</string>
+    <string name="text_cabin">コーチ</string>
+    <string name="text_phone_departure_station">電話 （出発駅）:</string>
+    <string name="text_phone_arrival_station">電話 （到着駅）:</string>
+    <string name="text_car_days">日数:</string>
+    <string name="text_people">人々：</string>
+    <string name="text_luggage">手荷物：</string>
+    <string name="text_phone_pichup">電話（借出時）</string>
+    <string name="text_phone_dropoff">電話（返却時）</string>
+    <string name="text_fax_pichup">ファックス（返却時）</string>
+    <string name="text_fax_dropoff">ファックス（借出時）</string>
+    <string name="text_hotel_fax">ホテルファックス番号:</string>
+    <string name="text_hotel_room_type">ルームタイプ</string>
+    <string name="text_hotel_breakfast">朝食:</string>
+    <string name="text_duration">所要時間：</string>
+    <string name="text_class">クラス:</string>
+    <string name="text_seat">座席</string>
+    <string name="text_meal">食事:</string>
+    <string name="text_airline">航空会社:</string>
+    <string name="text_airplane">機材</string>
+    <string name="text_price">料金:</string>
+    <string name="text_start">開始</string>
+    <string name="text_end">終了</string>
+    <string name="text_name">名前：</string>
+    <string name="text_phone">電話:</string>
+    <string name="text_fax">ファックス:</string>
+    <string name="text_email">メール:</string>
+    <string name="text_zip_code">郵便番号:</string>
+    <string name="text_rental_company">レンタル会社：</string>
+    <string name="text_car_type">車種:</string>
+    <string name="text_daily_price">1日あたりの料金</string>
+    <string name="text_total_price">合計料金：</string>
+    <string name="text_check_in">チェックイン:</string>
+    <string name="text_check_out">チェックアウト:</string>
+    <string name="text_suplier_service">サプライヤー/サービス：</string>
+    <string name="text_train_bus">列車/バスの番号：</string>
+    <string name="text_platform">ホーム:</string>
+    <string name="text_booked_from">以下から予約済み:</string>
+    <string name="text_booked_date">日付:</string>
+    <string name="text_booked_url">ウェブサイトのURL：</string>
+    <string name="text_booked_phone">電話:</string>
+    <string name="text_contact_details">連絡先情報:</string>
+    <string name="btn_map">地図</string>
+    <string name="format_nights">%s 泊</string>
+    <string name="format_flight_from_to_city">%1$s - %2$s</string>
+    <string name="format_flight_name">%1$s %2$d</string>
+    <string name="format_country">%1$s %2$s</string>
+    <string name="format_price">%1$s%2$s (%3$s%4$s/1日)</string>
+    <string name="service_itinerary">旅程</string>
+    <string name="service_weather">天気予報</string>
+    <string name="service_hotel_booking">ホテルの予約</string>
+    <string name="service_limo_reservation">リムジンの予約</string>
+    <string name="service_currency_converter">通貨換算</string>
+    <string name="service_car_booking">レンタカーの予約</string>
+    <string name="car_rental_item_view">レンタカー</string>
+    <string name="booking_item_view">予約項目</string>
+    <string name="service_travel_notifications">アラーム通知の設定</string>
+    <string name="service_flight_status">ステータス確認</string>
+    <string name="service_flight_alerts">フライトアラート</string>
+    <string name="service_flight_status_and_alerts">ステータス確認</string>
+    <string name="service_flight_search">フライトスケジュール</string>
+    <string name="service_widget">ウィジェット</string>
+    <string name="service_settings">設定</string>
+    <string name="service_about">に関する</string>
+    <string name="service_hotel_booking_desc">90,000軒以上のホテルのベストレート</string>
+    <string name="settings_section_notifications">通知</string>
+    <string name="settings_section_notifications_daily">毎日の通知</string>
+    <string name="settings_section_notifications_daily_morning">朝の通知</string>
+    <string name="settings_section_notifications_daily_evening">夜の通知</string>
+    <string name="settings_notification_daily_open">通知を開く</string>
+    <string name="settings_section_notifications_flight">フライトの通知</string>
+    <string name="settings_notification_flight_title">通知の表示</string>
+    <string name="settings_notification_flight_summary" />
+    <string name="settings_notification_flight_time_title">フライトまでの時間</string>
+    <string name="settings_notification_flight_time_summary" />
+    <string name="settings_notification_flight_sound_title">通知サウンド</string>
+    <string name="settings_notification_flight_sound_summary" />
+    <string name="settings_section_notifications_flight_alert">フライトアラートの通知</string>
+    <string name="settings_notification_flight_alert_speaking_title">オーディオフライトアラート</string>
+    <string name="settings_notification_flight_alert_speaking_summary">オーディオフライトアラートをオンにします。この機能は実験的なものです。以下をクリックすれば通知音を聞くことができます</string>
+    <string name="settings_notification_flight_alert_play_test_title">オーディオフライトアラートをテスト</string>
+    <string name="settings_notification_flight_alert_play_test_summary">クリックをしてアラートのデモを試聴</string>
+    <string name="settings_reminder_flight_title">通知の表示</string>
+    <string name="settings_reminder_flight_summary" />
+    <string name="settings_reminder_trip_title">旅行リマインダー</string>
+    <string name="settings_reminder_trip_summary">旅行リマインダーの説明はここ</string>
+    <string name="settings_morning_assistant_title">通知の表示</string>
+    <string name="settings_morning_assistant_summary" />
+    <string name="settings_morning_assistant_time_title">通知時間</string>
+    <string name="settings_morning_assistant_time_summary" />
+    <string name="settings_morning_assistant_weather_narration_title">天気のナレーション</string>
+    <string name="settings_morning_assistant_weather_narration_summary" />
+    <string name="settings_evening_assistant_title">通知の表示</string>
+    <string name="settings_evening_assistant_summary" />
+    <string name="settings_evening_assistant_time_title">通知時間</string>
+    <string name="settings_evening_assistant_time_summary" />
+    <string name="settings_evening_assistant_weather_narration_title">天気のナレーション</string>
+    <string name="settings_evening_assistant_weather_narration_summary" />
+    <string name="settings_section_weather">天気</string>
+    <string name="settings_weather_temperature_title">気温の表示単位</string>
+    <string name="settings_weather_temperature_summary" />
+    <string name="settings_weather_wind_title">距離の表示単位</string>
+    <string name="settings_weather_wind_summary" />
+    <string name="settings_section_debug">デバッグ</string>
+    <string name="settings_disable_acra">クラッシュレポートを無効にする</string>
+    <string name="settings_acra_disabled">クラッシュレポートが無効です</string>
+    <string name="settings_acra_enabled">クラッシュレポートが有効です</string>
+    <string name="settings_section_misc">その他</string>
+    <string name="settings_animations">アニメーション</string>
+    <string name="settings_animations_disabled">アニメーションが無効です</string>
+    <string name="settings_animations_enabled">アニメーションが有効です</string>
+    <string name="settings_signout_title">サインアウト</string>
+    <string name="settings_signout_summary" />
+    <string name="settings_signout_confirm">本当にサインアウトしますか\u00A0?</string>
+    <string name="settings_change_password_title">パスワードの変更</string>
+    <string name="email_addresses">メールアドレス</string>
+    <string name="email_preferences">メール設定</string>
+    <string name="settings_change_password_summary" />
+    <string name="settings_calendar_sync_title">カレンダー同期</string>
+    <string name="settings_firstname_title">氏名*</string>
+    <string name="settings_firstname_summary" />
+    <string name="settings_lastname_title">名字*</string>
+    <string name="settings_lastname_summary" />
+    <string name="settings_email_title">メール</string>
+    <string name="settings_email_summary" />
+    <string name="settings_currency_title">予約通貨</string>
+    <string name="settings_currency_summary" />
+    <string name="itinirary_flight">フライト</string>
+    <string name="text_nights">泊:</string>
+    <string name="text_get_directions">ルート検索</string>
+    <string name="text_share_hotel">ホテルをシェア</string>
+    <string name="text_share_car">車をシェア</string>
+    <string name="text_share_transportation">シェア</string>
+    <string name="text_share_meeting">ミーティングをシェア</string>
+    <string name="text_view_flight_details">フライトの詳細を閲覧</string>
+    <string name="text_view_rental_details">レンタルの詳細を閲覧</string>
+    <string name="text_view_hotel_details">ホテルの詳細を閲覧</string>
+    <string name="text_view_meeting_details">ミーティングの詳細を閲覧</string>
+    <string name="text_view_transport_details">交通機関の詳細を閲覧</string>
+    <string name="text_check_flight_status">フライトステータスを確認</string>
+    <string name="format_day_hour_minute">%1$s日%2$s時間%3$s分</string>
+    <string name="format_day_hour_minutes">%1$s日%2$s時間%3$s分</string>
+    <string name="format_day_hours_minute">%1$s日%2$s時間%3$s分</string>
+    <string name="format_day_hours_minutes">%1$s日%2$s時間%3$s分</string>
+    <string name="format_days_hour_minute">%1$s日 %2$s時間%3$s分</string>
+    <string name="format_days_hour_minutes">%1$s日%2$s時間%3$s分</string>
+    <string name="format_days_hours_minute">%1$s日%2$s時間%3$s分</string>
+    <string name="format_days_hours_minutes">%1$s日%2$s時間%3$s分</string>
+    <string name="format_day_minute">%1$s日%2$s分</string>
+    <string name="format_day_minutes">%1$s日%2$s分</string>
+    <string name="format_days_minute">%1$s日%2$s分</string>
+    <string name="format_days_minutes">%1$s日%2$s 分</string>
+    <string name="format_hour_minute">%1$s時間%2$s分</string>
+    <string name="format_hour_minutes">%1$s時間%2$s分</string>
+    <string name="format_hours_minute">%1$s時間%2$s分</string>
+    <string name="format_hours_minutes">%1$s時間%2$s分</string>
+    <string name="format_hour">%1$s 時間</string>
+    <string name="format_hours">%1$s 時間</string>
+    <string name="format_minute">%1$s分</string>
+    <string name="format_minutes">%1$s分</string>
+    <string name="format_time_day">%1$s 日</string>
+    <string name="format_time_days">%1$s 日</string>
+    <string name="about_visit">ホームページ</string>
+    <string name="personal_travel_assistant_humidity_format">		湿度:
+ <span color="#2387C0">%d%%</span></string>
+    <string name="personal_travel_assistant_wind_format">		風速 :
+ <span color="#2387C0">%.0fkm/h</span></string>
+    <string name="personal_travel_assistant_wind_format_mph">		風速 :
+ <span color="#2387C0">%.0fm/h</span></string>
+    <string name="format_percipitation">降水確率：</string>
+    <string name="format_humidity">湿度：</string>
+    <string name="wind_title">風：</string>
+    <string name="details_platform">ホーム:</string>
+    <string name="services_title">専任のトラベルアシスタント</string>
+    <string name="format_simple_price">%1$s (%2$s)</string>
+    <!-- Morning assistant -->
+    <string name="morning_assistant_upcoming_trips_none_title">旅行の予定はありません</string>
+    <string name="morning_assistant_upcoming_trips_none_text">トラベル確認メールを転送</string>
+
+    <plurals name="morning_assistant_upcoming_trips_plurals_title">
+        <item quantity="one">近日予定の旅行</item>
+        <item quantity="other">近日予定の旅行が %dあります。次回の旅行：</item>
+    </plurals>
+
+    <string name="morning_assistant_in_trip_today_title">今日の旅行の概要</string>
+    <string name="morning_assistant_in_trip_tomorrow_title">明日の旅行の概要</string>
+    <!-- today/tomorrow is parameter 1, city is parameter 2, state is parameter 3, country is parameter 4 -->
+    <string name="morning_assistant_trip_title_by_city_format">%2$sへの旅行は%1$sに開始します</string>
+    <string name="morning_assistant_trip_title_by_city_country_format" tools:ignore="StringFormatCount">%2$s、%4$s への旅行は%1$sに開始します</string>
+    <string name="morning_assistant_trip_title_by_city_state_country_format">%2$s %3$s、%4$sへの旅行は%1$sに開始します</string>
+    <!-- today/tomorrow is parameter 1, name is parameter 2 -->
+    <string name="morning_assistant_trip_title_by_name_format">\'%2$s\'への旅行は%1$sに開始します</string>
+    <string name="morning_assistant_today">今日</string>
+    <string name="morning_assistant_tomorrow">明日</string>
+    <!-- city is parameter 1, state is parameter 2, country is parameter 3 -->
+    <string name="morning_assistant_trip_name_by_city_format">%1$sへの旅行</string>
+    <string name="morning_assistant_trip_name_by_city_country_format">%1$s, %3$sへの旅行</string>
+    <string name="morning_assistant_trip_name_by_city_state_country_format">%1$s %2$s, %3$sへの旅行</string>
+    <!-- Weather forecast title: today/tomorrow without location -->
+    <string name="morning_assistant_weather_today_title">今日の天気</string>
+    <string name="morning_assistant_weather_tomorrow_title">明日の天気</string>
+    <!-- Weather forecast title: today/tomorrow with location -->
+    <string name="morning_assistant_weather_today_title_with_location_format">%1$sの今日の天気</string>
+    <string name="morning_assistant_weather_tomorrow_title_with_location_format">%1$sの明日の天気</string>
+    <!-- Weather forecast title: without today/tomorrow, without location -->
+    <string name="morning_assistant_weather_title">天気</string>
+    <!-- Weather forecast title: without today/tomorrow, with location -->
+    <string name="morning_assistant_weather_title_with_location_format">%1$sの天気</string>
+    <string name="morning_assistant_weather_updating_title">天気の読み込み中&#8230;</string>
+    <string name="error_invalid_email">このメールは有効でありません</string>
+    <string name="error_no_network">ネットワークが利用できません</string>
+    <string name="error_no_network_english">ネットワークが利用できません</string>
+    <string name="format_unassigned_items">未割当てのアイテムが%dあります</string>
+    <string name="learn_more">詳細を確認</string>
+    <string name="dialog_progress_wait_title">お待ちください&#8230;</string>
+    <string name="dialog_progress_facebook_status">Facebookステータスのアップデート中</string>
+    <string name="message_facebook_status_updated">Facebookステータスがアップデートされました</string>
+    <string name="message_no_meeting_scheduled">ミーティングのスケジュールはありません。</string>
+    <string name="title_meeting_tomorrow">明日の第一ミーティング</string>
+    <string name="title_meeting_today">今日の第一ミーティング</string>
+    <string name="title_general_settings">設定</string>
+    <string name="message_booking_date_passed">選択した日付は過ぎています</string>
+    <string name="no_future_trips">将来の旅行はありません</string>
+    <string name="format_unassigned_item">未割当てのアイテムが%d個あります</string>
+    <string name="sign_up_link_eula">サインアップをすると、次に同意することになります：<a href="">ユーザー同意書</a></string>
+    <string name="complete_sign_up_link_eula">以下のボタンをクリックすることにより、～を承認します<a href="">ユーザー同意書</a></string>
+    <string name="flight_not_available">フライトステータスはこれから48時間以内に出発予定のフライト、もしくは過去24時間以内に到着したフライトに対してのみ提供されます。</string>
+
+    <plurals name="widget_upcoming_trips">
+        <item quantity="one">近日予定の旅行が %dあります。</item>
+        <item quantity="other">近日予定の旅行が %dあります。</item>
+    </plurals>
+    <plurals name="widget_trip_starts_in">
+        <item quantity="one">%1$sへの旅行があと%2$dで開始します</item>
+        <item quantity="other">%1$sへの旅行があと%2$dで開始します</item>
+    </plurals>
+
+    <string name="flight_search_type_origin_airport">都市または空港コードを選択する</string>
+    <string name="flight_search_type_destination_airport">都市または空港コードを選択する</string>
+    <string name="flight_search_fill_fields">\'出発\' および\'到着\' の欄の両方に記入してください</string>
+    <string name="flight_search_nonstop_flights">直行便のみ</string>
+    <string name="please_wait">お待ちください&#8230;</string>
+    <string name="please_wait_english">お待ちください&#8230;</string>
+    <string name="signing_up">サインアップを行っています</string>
+    <string name="checkout_befor_checkin">チェックアウトの日付はチェックインの日付よりも遅い必要があります。</string>
+    <string name="billing_form_title">各地を飛び回るビジネスマンですか? Goldでゴー：</string>
+    <string name="billing_form_title_horizontal">各地を飛び回るビジネスマンですか? \nGoldでゴー：</string>
+    <string name="billing_form_title1">リアルタイムのフライトアラートをゲット</string>
+    <string name="billing_form_title2">フライトのアップデートを旅程で閲覧</string>
+    <string name="billing_form_title3">どのフライトのステータスでも確認可能</string>
+    <string name="billing_form_title4">次回の旅の心配がなくなります</string>
+    <string name="billing_form_title5">カレンダーと同期</string>
+    <string name="billing_form_text1">プッシュアラートでフライトの遅れやキャンセル、ゲート変更などがAndroidデバイスにすぐに直接送信されるので最新情報をゲット可能。</string>
+    <string name="billing_form_text3">フライトの遅延やキャンセル、ゲート変更などの情報をリアルタイムで受信できます。</string>
+    <string name="billing_form_text4">フライトアラート、ステータス、検索つき。Goldでなら、困った時にいつでも一足先に情報入手が可能です。</string>
+    <string name="billing_form_text5">自分専用のカレンダーで次回の旅行の詳細を閲覧。\nカレンダー同期で全てのトラベルプランや旅行内容の変更が自動的にアップデートされます。</string>
+    <string name="billing_form_text6">ホテルを予約してGoldをゲット</string>
+    <string name="billing_form_3month_free">各予約で3ヶ月間無料</string>
+    <string name="billing_form_go_gold">または、Goldにゴーして年間$9.90</string>
+    <string name="billing_hotel_promo_text2">最適なホテルを簡単・スピーディに予約できます</string>
+    <string name="billing_hotel_promo_text3">ホテル料金の最低価格補償を実施しています（エクスペディアによる補償サービス）</string>
+    <string name="billing_hotel_promo_text4">ホテル予約へ続く</string>
+    <string name="billing_not_supported">請求はサポートされていません</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_home">ホーム</string>
+    <string name="menu_refresh">更新</string>
+    <string name="menu_paste">貼り付け</string>
+    <string name="menu_close">閉じる</string>
+    <string name="menu_recent_queries">最近のクエリ</string>
+    <string name="menu_view_trip">旅行を閲覧</string>
+    <string name="menu_book_hotel">ホテルを予約</string>
+    <string name="menu_view_map">地図を閲覧</string>
+    <string name="menu_check_weather">天気を確認</string>
+    <string name="menu_share_trip">旅行をシェア</string>
+    <string name="menu_view_unassigned_items">未割当てのアイテムを閲覧</string>
+    <string name="menu_add_new_trip">新規の旅行を追加</string>
+    <string name="menu_edit_flight_details">フライトの詳細を編集</string>
+    <string name="menu_edit_car_details">レンタカーの詳細を編集</string>
+    <string name="menu_edit_hotel_details">ホテルの詳細を編集</string>
+    <string name="menu_edit_meeting_details">ミーティングの詳細を編集</string>
+    <string name="menu_edit_transportation_details">その他交通の詳細を編集</string>
+    <string name="menu_edit_trip">旅行の編集</string>
+    <string name="menu_add_flight">フライトの追加</string>
+    <string name="menu_add_hotel">ホテルの追加</string>
+    <string name="menu_add_car">レンタカーの追加</string>
+    <string name="menu_add_transportation">その他交通の追加</string>
+    <string name="menu_add_meeting">ミーティングの追加</string>
+    <string name="menu_alternate_flights">代替フライトを探す</string>
+    <string name="hotel_booking_select_landmarks">ランドマークの選択</string>
+    <string name="hotel_booking_city_landmarks">都市のランドマーク:</string>
+    <string name="hotel_booking_city_center">街の中心部</string>
+    <string name="text_getting_current_location">現在地を入手中</string>
+    <string name="text_getting_current_location_english">現在地を入手中</string>
+    <string name="menu_search_preferences">ユーザー設定を検索</string>
+    <string name="flight_status_no_flights_at_the_selected_day">選択した日のフライトはありません</string>
+    <string name="flight_status_select_airline">航空会社を選択してください</string>
+    <string name="flight_status_enter_flight_number">フライト番号を入力してください</string>
+    <string name="flight_status_enter_valid_flight_number">有効な便名を入力してください</string>
+
+    <!-- start strings billing not translated for tablets -->
+
+    <string name="billing_road_warrior_main_title">ご利用の多い方はGOLD版を！</string>
+    <string name="billing_road_warrior_first_title">リアルタイムな情報提供</string>
+    <string name="billing_road_warrior_second_title">プッシュ通知</string>
+    <string name="billing_road_warrior_fourth_title">カレンダー同期</string>
+    <string name="billing_road_warrior_fourth_text">カレンダーで旅行プランや更新情報を全て自動的に同期できます。</string>
+    <string name="go_gold_txt">Go GOLD</string>
+
+    <!-- default strings for worldmate billing -->
+    <string name="billing_upper_btn">ホテルの予約</string>
+    <string name="billing_upper_txt">各予約で3ヶ月間Goldが無料</string>
+    <string name="billing_lower_txt">または、GooglePlayでGoldを購入</string>
+    <string name="billing_lower_btn">今すぐご購入下さい</string>
+    <!-- end strings billing not translated for tablets -->
+
+    <string-array name="flight_status_day_titles">
+        <item>昨日</item>
+        <item>今日</item>
+        <item>明日</item>
+        <item>明後日</item>
+    </string-array>
+    <string-array name="flight_search_sort_titles">
+        <item>出発時間</item>
+        <item>到着時間</item>
+        <item>所要時間</item>
+    </string-array>
+    <string-array name="flight_search_filter_titles">
+        <item>直行便</item>
+        <item>全てのフライト</item>
+    </string-array>
+
+    <string name="flight_search_network_error">フライト検索データの取得時にエラー発生</string>
+    <string name="flight_search_nonstop">ノンストップ</string>
+    <string name="flight_search_search_title">フライトを検索</string>
+    <string name="dialog_title_select_date">日付を選択</string>
+    <string name="flight_reminder_flight_departs">フライトの出発地：</string>
+    <string name="flight_reminder_flight_departs_soon">フライトはまもなく出発します</string>
+    <string name="flight_reminder_flight_is_cancelled">フライトはキャンセルされました</string>
+    <string name="flight_reminder_flight_is_diverted">フライトの到着地が変更されました</string>
+    <string name="flight_reminder_flight_departs_in">フライトの出発までの時間：</string>
+    <string name="flight_1airline_2num_3origin_ap_to_4destination_ap_space_format">%1$s %2$d, %3$sから%4$s\u0020</string>
+    <string name="weather_title">天気</string>
+    <string name="weather_tab_current_city">現在地</string>
+    <string name="weather_tab_trips_cities">旅行先</string>
+    <string name="weather_tab_all_cities">検索</string>
+    <string name="weather_getting_current_location_weather">現在地の天気を入手中&#8230;</string>
+    <string name="weather_error_enter_city_name">メールアドレスを入力する</string>
+    <string name="widget_text_more">その他</string>
+    <string name="widget_text_meetings">ミーティング</string>
+    <string name="widget_text_terminal">ターミナル:</string>
+    <string name="widget_text_gate">, ゲート:</string>
+    <string name="widget_text_pick_up">ピックアップ：</string>
+    <string name="widget_text_drop_off">下車:</string>
+    <string name="widget_text_check_in">チェックイン:</string>
+    <string name="widget_text_check_out">チェックアウト:</string>
+    <string name="widget_text_check_in_english">チェックイン:</string>
+    <string name="widget_text_check_out_english">チェックアウト:</string>
+    <string name="daily_plan_destination_location_error">到着場所が見つかりません</string>
+    <string name="signin_hint_enter_email_address">メールアドレスを入力する</string>
+    <string name="signup_no_city_error_txt">所在都市を選択してください</string>
+    <string name="signin_error_empty_field">空欄にはできません</string>
+    <string name="menu_travel_notification">トラベル通知</string>
+    <string name="itinerary_change_notification_title_default">旅行アイテムがアップデートされました</string>
+    <string name="itinerary_change_notification_title_format">%1$s, %2$s</string>
+    <string name="itinerary_change_notification_single_flight_text_format">フライト%1$s %2$sがアップデートされました</string>
+
+    <plurals name="itinerary_change_notification_plurals_text">
+        <item quantity="one">旅行アイテムが1個アップデートされました</item>
+        <item quantity="other">旅行アイテムが%d個アップデートされました</item>
+    </plurals>
+
+    <string name="text_updated">更新済み</string>
+    <string name="flight_alert_notification_title_format">%1$s %2$s, %3$sから%4$s</string>
+    <string name="flight_alert_notification_default_text">フライトの詳細がアップデートされました</string>
+    <string name="flight_alert_notification_audio_message_format">フライト %1$s %2$s: %3$s</string>
+    <string name="text_to_speech_missing_notification_title">インストールが必要です。ここをクリックしてインストール</string>
+    <string name="text_to_speech_missing_notification_text">オーディオフライトアラートを有効にする</string>
+    <string name="text_to_speech_install_activity_title">デバイス上にオーディオフライトアラートに必要なファイルをインストール</string>
+    <string name="text_to_speech_install_activity_text">インストール</string>
+    <string name="text_to_speech_install_activity_btn_install">オーディオフライトアラートを無効にする</string>
+    <string name="text_to_speech_install_activity_btn_disable"></string>
+    <string name="empty_past_trips_title">過去の旅行はありません</string>
+    <string name="empty_past_trips_title2">過去の旅行はありません</string>
+    <string name="empty_trip_title">予約済みの旅行はありません。</string>
+    <string name="sort_by">並べ替え条件：</string>
+    <string name="price">料金</string>
+    <string name="car_type">車種</string>
+    <string name="company">レンタル会社</string>
+    <string name="card_note">車をピックアップする際、運転者の名前が記載されている有効なカードを提出する必要があります。</string>
+    <string name="rental_company">レンタル会社</string>
+    <string name="select_all">全てを選択</string>
+    <string name="dismiss_all">全てを破棄</string>
+    <string name="apply">適用する</string>
+    <string name="error_enter_email">メールアドレスを入力してください</string>
+    <string name="error_enter_first_name">名前を入力してください</string>
+    <string name="error_enter_last_name">名字を入力してください</string>
+    <string name="error_enter_your_address">住所を入力してください</string>
+    <string name="error_enter_city">都市を選択してください</string>
+    <string name="error_enter_state">州を選択してください</string>
+    <string name="error_enter_country">国名を選択してください</string>
+    <string name="error_enter_zipcode">郵便番号を入力してください</string>
+    <string name="error_enter_phone">電話番号を入力してください</string>
+    <string name="error_select_credit_card">クレジットカードの種類を選択してください</string>
+    <string name="error_enter_credit_card_number">クレジットカード番号を入力してください</string>
+    <string name="error_enter_security_code">セキュリティコードを入力してください</string>
+    <string name="car_confirmation_notice">推定小売価格には、国の法律または地方自治法に基づいて車のレンタルリクエストの期間中に支払いを行わなくてはならない既知のレート、税、手数料、追加料金、ドロップオフ料金の全てが含まれています。この価格には保険免除、特別装置、マイレージ料金、ガソリンなどの任意サービスは含まれていません。また、レンタカーの返却の遅れに課される追加日料金または追加時間料金も含まれてはいません。ユーザーがレンタカー会社に払う合計額の概算見積もりのためにこの価格は提示されますので、合計支払額を保証するものではありません。</string>
+    <string name="please_wait_it_can_take">お待ちください。1～2分ほどかかります。</string>
+    <string name="car_rental_reservation_details_where_sent">車のレンタル予約の詳細が送信されました。まもなく確認メールが届きます。</string>
+    <string name="car_booking_acceptance">この予約を完了させることで、下記の内容を理解し、同意したものとみなします：</string>
+    <string name="rules_and_restrictions">規則と規制</string>
+    <string name="dialog_button_ok">Ok</string>
+    <string name="dialog_button_cancel">キャンセル</string>
+    <string name="dialog_button_yes">はい</string>
+    <string name="dialog_button_no">いいえ</string>
+    <string name="dialog_button_continue">続ける</string>
+    <string name="menu_book_car">車をレンタルする</string>
+    <string name="error_car_please_select_location">場所を選択してください</string>
+    <string name="check_out_mast_be_after_checkin">ドロップオフの日付はピックアップ日の後である必要があります</string>
+    <string name="check_out_mast_be_after_checkin_time">ドロップオフの時間はピックアップ時間の後である必要があります</string>
+    <string name="one_upcoming_trip">1件の近日予定の旅行</string>
+    <string name="no_upcoming_trips">今後の旅行プランはありません</string>
+    <string name="upcoming_trips">近日予定の旅行</string>
+    <string name="error_enter_expire_date">有効期限日を入力してください</string>
+    <string name="error_no_airports_are_listed">将来の旅行の空港はありません</string>
+    <string name="widget_screen_title">ホーム画面から直接旅行プランを閲覧したり、アップデートされた情報を入手できます。</string>
+    <string name="widget_screen_text">ホーム画面にウィジェットを追加</string>
+    <string name="widget_screen_item1">旅行の概要を閲覧</string>
+    <string name="widget_screen_item2">旅行の詳細へワンクリックアクセス</string>
+    <string name="booking_credit_card_remember_details">今後の予約のためクレジットカード情報を保存</string>
+    <string name="settings_manage_credit_cards_title">クレジットカード管理</string>
+    <string name="settings_manage_credit_cards_summary" />
+    <string name="booking_credit_card_use_saved_card"><u>保存済みのカードを利用する</u></string>
+    <string name="booking_credit_card_add_new_card"><u>新しいカードを追加</u></string>
+    <string name="booking_confirmation_thank_you">ありがとうございます</string>
+    <string name="booking_confirmation_full_payment_ammount_title">全額支払済み</string>
+    <string name="hotel_booking_cancellation_policy_prefix">および</string>
+    <string name="hotel_booking_cancellation_policy">キャンセルポリシー</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_0">フライトが遅れています</string>
+    <string name="settings_notification_flight_alert_play_test_flight_alert_message_1">フライトのゲートが変更されました</string>
+    <string name="settings_notification_flight_alert_play_test_silent_notification_message">デバイスの通知サウンドがオフです。通知音量を大きくしてください</string>
+    <string name="progress_loading_text">読み込み中&#8230;</string>
+
+    <plurals name="hotel_results_progress_found_text">
+        <item quantity="zero">読み込み中&#8230;</item>
+        <item quantity="one">ホテルを1軒見つけました</item>
+        <item quantity="other">ホテルを%1$d軒見つけました</item>
+    </plurals>
+
+    <string name="hotel_no_results_for_filter">現在のフィルタの条件に合うホテルはありません。フィルタを変更して再度お試しください。</string>
+    <string name="hotel_results_no_results_found">ユーザーが入力した検索条件に会うホテルはありません。検索条件を変更して再度お試しください。</string>
+    <string name="hotel_results_could_not_get_all_results">エラー発生。再度検索をお試しください。</string>
+    <string name="hotel_details_failed_to_get_results">結果を得ることができませんでした</string>
+    <string name="travel_assistant_notification_title">トラベルアシスタント</string>
+    <string name="travel_assistant_evening_notification">晩の概要</string>
+    <string name="travel_assistant_morning_notification">朝の概要</string>
+    <string name="invalid_credentials_notification_title">資格情報が変更されました</string>
+    <string name="invalid_credentials_notification_text">クリックして再度ログイン</string>
+    <string name="invalid_credentials_message_title">ユーザー情報が更新されました</string>
+
+    <plurals name="booking_adults_ammount_format">
+        <item quantity="one">1 成人</item>
+        <item quantity="other">大人%1$d</item>
+    </plurals>
+    <plurals name="booking_nights_amount_format">
+        <item quantity="one">1 泊</item>
+        <item quantity="other">%1$d 泊</item>
+    </plurals>
+
+    <string name="friends_traveling_to_format">旅行先：%1$s</string>
+    <string name="rate_us_dialog_title">弊社を評価</string>
+    <string name="rate_us_dialog_button_later">後で表示</string>
+    <string name="rate_us_dialog_button_no_thanks">いいえ、結構です</string>
+    <string name="marketing_message_text_title">次に進む前に</string>
+    <string name="marketing_message_button_enable">承認する</string>
+    <string name="marketing_message_button_cancel">いいえ</string>
+    <string name="marketing_messages_common_optin_check_box_text">製品のアップデートやスペシャルオファーの案内メールを希望する</string>
+    <string name="sign_up_name">フルネーム(例:Taro Yamada)</string>
+    <string name="sign_up">新規登録</string>
+    <string name="city_name">都市名</string>
+    <string name="select_city">都市の選択</string>
+    <string name="select_city_english">都市の選択</string>
+    <string name="widget_description_short">新規の旅行を計画中</string>
+    <string name="widget_btn_add">新規の旅行を追加</string>
+    <string name="widget_btn_book">ホテルの予約</string>
+    <string name="widget_btn_search">フライトを検索</string>
+    <string name="widget_trip_name">旅行名</string>
+    <string name="widget_trip_dates">旅行日</string>
+    <string name="widget_no_itm">アイテムなし</string>
+    <string name="trip">旅行</string>
+    <string name="trip_btn_txt_dismiss">破棄</string>
+    <string name="sharing_post_btn_txt">投稿</string>
+    <string name="sign_up_f_name">名</string>
+    <string name="sign_up_city">所在都市</string>
+    <string name="sign_in_btn_fb">Facebookでログイン</string>
+    <string name="sign_in_btn_login">ログイン</string>
+    <string name="sign_in_alt_header_txt">または、従来のルートを通る:</string>
+    <string name="sign_in_second_alt_header_txt">すでにアカウントをお持ちですか。</string>
+    <string name="sign_in_btn_with_email">新規アカウント作成</string>
+    <string name="no_upcoming_trips_demo_trip">サンプルの旅行を見る</string>
+    <string name="sample_trip_title">旅行のサンプル</string>
+    <string name="morning_assistant_title">専任のトラベルアシスタント</string>
+    <string name="morning_assistant_upcoming_trips_to">到着地</string>
+    <string name="morning_assistant_meeting_caption">明日の第一ミーティング</string>
+    <string name="morning_assistant_meeting_txt_humidity">湿度</string>
+    <string name="morning_assistant_meeting_txt_wind">風</string>
+    <string name="linkdin_btn_update_status">アップデートのステータス</string>
+    <string name="linkdin_btn_select_city">都市の選択</string>
+    <string name="linkdin_edit_login">LinkedInのログイン</string>
+    <string name="linkdin_btn_current_city">現在の都市</string>
+    <string name="linkdin_btn_cancel">キャンセル</string>
+    <string name="linkdin_edit_password">LinkedInのメール</string>
+    <string name="limo_book">乗車を予約</string>
+    <string name="limo_introduction">世界5,000の空港で利用できるハイヤーをご予約できます。</string>
+    <string name="limo_introduction_part_two"/>
+    <string name="limo_call_now">今すぐ電話予約（英語のみ）</string>
+    <string name="limo_call_charges">アメリカとカナダ以外への通話には料金が発生します</string>
+    <string name="date">日付</string>
+    <string name="address">住所</string>
+    <string name="address2">住所:</string>
+    <string name="hotel_rooms_title">部屋を選択</string>
+    <string name="hotel_room_item_deal">割引</string>
+    <string name="hotel_room_item_avg_night">平均/1泊</string>
+    <string name="hotel_results_view_deal">割引のみ表示</string>
+    <string name="top_picks">おすすめ</string>
+    <string name="star_rating">ホテルランク</string>
+    <string name="distance">中心からの距離</string>
+    <string name="filter">絞り込み</string>
+    <string name="sort">並べ替え</string>
+    <string name="name">ホテル名</string>
+    <string name="position">ポジション</string>
+    <string name="price_range">予算</string>
+    <string name="stars_ranking">ホテルランク</string>
+    <string name="hotel_brands">ホテルのブランド</string>
+    <string name="location">場所</string>
+    <string name="none">なし</string>
+    <string name="clear_all">全てをクリア</string>
+    <string name="hotel_details_special_offer_text">特別キャンペーンのテキストはここ、XX% パーセントお安くなります</string>
+    <string name="Special_Offer">スペシャルオファー</string>
+    <string name="from">から</string>
+    <string name="map">地図</string>
+    <string name="driving_directions">車での道順</string>
+    <string name="hotel_policy">ホテル利用規約</string>
+    <string name="book_now">今すぐ予約する</string>
+    <string name="hotel_confirmation_title_part_two">まもなく、完了確認メールが届きます。</string>
+    <string name="hotel_confirmation_reservation">予約詳細情報</string>
+    <string name="hotel_confirmation_taxes">税：</string>
+    <string name="hotel_confirmation_confirmation">確認番号</string>
+    <string name="hotel_confirmation_information">ホテル予約情報</string>
+    <string name="hotel_confirmation_hotel">ホテル:</string>
+    <string name="hotel_confirmation_checkin">チェックイン日:</string>
+    <string name="hotel_confirmation_checkout">チェックアウト日:</string>
+    <string name="hotel_confirmation_room">ルームタイプ</string>
+    <string name="hotel_confirmation_guests">ゲスト:</string>
+    <string name="from2">出発地:</string>
+    <string name="hotel_confirmation_btn_goto">旅程へ移動</string>
+    <string name="footer_btn_text_title">予約確認メールを転送</string>
+    <string name="flight_status_txt_airline">名前またはコードを入力</string>
+    <string name="flight_status_flight">フライト:</string>
+    <string name="flight_status_number">フライト番号を入力する</string>
+    <string name="flight_status_when">日付</string>
+    <string name="check_status">ステータスをチェック</string>
+    <string name="terminal">ターミナル:</string>
+    <string name="to">到着地</string>
+    <string name="find_flights">検索</string>
+    <string name="show">表示</string>
+    <string name="flight_search_result_nondirect_warning">直行便でないフライトのみが見つかりました</string>
+    <string name="flight_search_result_empty">検索した航空会社とシステムには定期便がありませんでした。その他の検索条件で再度お試しください。</string>
+    <string name="flight_reminder">フライトのアラーム</string>
+    <string name="your_flight">フライト</string>
+    <string name="destination">目的地</string>
+    <string name="departure">出発</string>
+    <string name="departure_date">出発日</string>
+    <string name="flight_reminder_connection_flight">乗り継ぎ便：</string>
+    <string name="flight_reminder_connection_flight_departs">出発：</string>
+    <string name="flight_reminder_connection_flight_time_between">次のフライトまでの待ち時間</string>
+    <string name="status">ステータス</string>
+    <string name="american_express">アメリカン・エキスプレス</string>
+    <string name="first_line">最初の行</string>
+    <string name="drop_off_date_title">ドロップオフの日付：</string>
+    <string name="drop_off_location_title">ドロップオフの場所：</string>
+    <string name="drop_off_airport">ドロップオフの空港</string>
+    <string name="car_info">車の情報：</string>
+    <string name="rate">料金:</string>
+    <string name="extra_day_charges">追加日料金：</string>
+    <string name="extra_hour_charges">追加時間料金：</string>
+    <string name="estimated_rental_price">推定レンタル料金：</string>
+    <string name="tnx_for_booking_part_two">車のレンタルがまもなく旅行に追加されます</string>
+    <string name="reservation_info">予約情報</string>
+    <string name="itinerary_title">旅程番号：</string>
+    <string name="confirmation_title">確認番号</string>
+    <string name="car_rental_information">車のレンタル情報</string>
+    <string name="pickup_date_title">ピックアップ日：</string>
+    <string name="pickup_location_title">ピックアップ場所：</string>
+    <string name="pick_up">借出</string>
+    <string name="pick_up_airport">ピックアップ空港：</string>
+    <string name="pick_off">返却</string>
+    <string name="airports_autocomplete_all_airports">全ての空港</string>
+    <string name="search_cars">車を検索</string>
+    <string name="rent_car_msg">レンタカーを予約すると、3ヶ月間無料でGOLD版を利用できます</string>
+    <string name="buy_it">GOLD版の購入</string>
+    <string name="no_fb_msg">いいえ、結構です</string>
+    <string name="pre_fb_btn_msg">数多くのアカウントの管理は大変だということは承知なので、Facebookでログインできるようにしました：</string>
+    <string name="login_with_facebook">Facebookでログイン</string>
+    <string name="tax_and_fee">税金と手数料</string>
+    <string name="your_info">ユーザーの情報</string>
+    <string name="biling_info">請求情報:</string>
+    <string name="city_title_txt">市:</string>
+    <string name="city_title_txt2">市</string>
+    <string name="city_title_txt_english">市</string>
+    <string name="postal_code">郵便番号:</string>
+    <string name="state_txt">州</string>
+    <string name="street_address">通り</string>
+    <string name="country">国</string>
+    <string name="zip">郵便番号</string>
+    <string name="bed_type">ベッドタイプ</string>
+    <string name="smoking_title_txt">喫煙有無</string>
+    <string name="booking_reservation_additional_info">追加情報（任意）</string>
+    <string name="booking_reservation_renter_number">Frequent renter番号</string>
+    <string name="booking_reservation_arrival_flight">到着フライト</string>
+    <string name="booking_reservation_flight_number">フライト番号</string>
+    <string name="booking_reservation_card_info">カード情報</string>
+    <string name="booking_reservation_card_num">カード番号</string>
+    <string name="booking_reservation_finish_btn_txt">予約を最終決定</string>
+    <string name="search_hotels">ホテルを検索</string>
+    <string name="search_hotels_english">ホテルを検索</string>
+    <string name="car_booking_details_car_similar">ビュイック・ラクロス、フォード・クラウンビクトリア、フォード・クラウンビクター、フォード・クラウンビクター</string>
+    <string name="car_booking_details_air_conditioning">エアコン</string>
+    <string name="car_booking_details_week_price">1週間の料金：</string>
+    <string name="car_booking_details_total_price">合計料金：</string>
+    <string name="car_booking_details_total_price_more_info">（推定の税および手数料の料金を含む）</string>
+    <string name="car_booking_details_ppl">人々</string>
+    <string name="car_booking_details_luggage">手荷物</string>
+    <string name="car_booking_details_continue_btn_txt">予約へ続く</string>
+    <string name="settings_edit_phone_summary" />
+    <string name="settings_edit_phone_def_title">電話番号の追加</string>
+    <string name="save">保存</string>
+    <string name="book_flight">フライトの予約</string>
+    <string name="enter_cwt_office_number_to_book">予約するためにCWTのオフィス番号を入力する</string>
+    <string name="add_phone">数字の追加</string>
+    <string name="add_phone_error_msg">有効な番号を入力してください</string>
+    <string name="flight_ckin">フライトチェックイン可能</string>
+    <string name="flight_checking_title">フライトチェックイン</string>
+    <string name="flight_checking_with_availability_html_format">&lt;b&gt;フライトのチェックイン：&lt;/b&gt; %1$s &lt;a href=&quot;&quot;&gt;開始サイト&lt;/a&gt;</string>
+    <string name="flight_checking_no_availability_text"><b>フライトチェックイン:</b><a href="">サイトを開く</a></string>
+    <string name="flight_open_site">サイトを開く</string>
+    <string name="mobile_ckin_confimation_title1">この予約確認番号はです。</string>
+    <string name="mobile_ckin_confimation_title2">。必要であれば、コピー・貼り付けをしてください。</string>
+    <string name="mobile_ckin_confimation_header">オンラインチェックイン</string>
+    <string name="web_view_error_retrieve_title">ウェブページの読み込み中</string>
+    <string name="web_view_error_retrieve_title_network_unavailable">ネットワークが利用できません</string>
+    <string name="web_view_error_retrieve_details_message">残念ながら、データの取得中にエラーが発生しました。後ほど再度お試しください。</string>
+    <string name="calendar_sync_title">カレンダー同期</string>
+    <string name="calendar_sync_activate">旅行プランをカレンダーと同期</string>
+    <string name="calendar_sync_select_calendar_title">カレンダーの選択</string>
+    <string name="on">オン</string>
+    <string name="off">オフ</string>
+    <string name="weather_no_city">選択した都市の天気はありません</string>
+    <string name="currency_converter_last_update_format">最終更新日 %1$s</string>
+    <string name="currency_converter_no_last_update">更新なし</string>
+    <string name="day">日</string>
+    <string name="week">週</string>
+    <string name="month">月</string>
+    <string name="hour">時間</string>
+    <string name="price_per_day">1泊あたりの料金</string>
+    <string name="about">に関する</string>
+    <string name="biling_error1">処理を完了できませんでした。\n詳細を確認して再度お試しください。</string>
+    <string name="biling_error2">処理を完了できませんでしたので、詳細を確認して再度お試しください。</string>
+    <string name="biling_error3">Androidマーケットを利用できません。再度お試しください。</string>
+    <string name="biling_error4">購入はキャンセルされました。</string>
+    <string name="fb_login_error">ログインできません</string>
+    <string name="fb_progrees_msgr">Facebookのデータを取得中</string>
+    <string name="loging_in_msg">ログイン中</string>
+    <string name="signing_in_msg">サインイン中</string>
+    <string name="choose_currency">通貨を選択</string>
+    <string name="msg_no_empty">メッセージテキストは空にすることはできません</string>
+    <string name="departure_formated">出発: %s</string>
+    <string name="arrival_formated">到着: %s</string>
+    <string name="flight_gate_txt">ゲート:</string>
+    <string name="flight_gold_msg">モニター中</string>
+    <string name="flight_not_gold_msg">モニターされていません</string>
+    <string name="flight_search_aircraft_txt">航空機：</string>
+    <string name="flight_search_format_layover_time_1s">次の便までの時間：%1$s</string>
+    <string name="show_txt">フライトタイプ表示：</string>
+    <string name="stop_txt">乗り継ぎ</string>
+    <string name="flight_layover_time">次の便までの時間：</string>
+    <string name="friends_nearby">付近の友達</string>
+    <string name="no_location_error_msg">現在地を検出できません</string>
+    <string name="no_location_error_msg_english">現在地を検出できません</string>
+    <string name="per_day_txt">1日当たり</string>
+    <string name="plz_wait_msg">お待ちください&#8230;</string>
+    <string name="status_updated">ステータスがアップデートされました</string>
+    <string name="requesting_profile">プロフィールのリクエスト中</string>
+    <string name="error_msg_header">エラー</string>
+    <string name="loading_contacts">連絡先の読み込み中</string>
+    <string name="linkedin_connect_msg">LinkedInにサインインしました</string>
+    <string name="signup_complete_ask_for_cancel_txt">セットアップを完了せずに継続しますか?</string>
+    <string name="contact_added_msg">連絡先が追加されました</string>
+    <string name="yelp_progress_msg">ランドマークをローディング中</string>
+    <string name="yelp_progress_title">ランドマークを読み込み中</string>
+    <string name="yelp_search_progress_msg">現地のものを検索中</string>
+
+    <string-array name="booking_credit_cards">
+        <item>選択してください</item>
+        <item>アメリカンエキスプレス</item>
+        <item>カルテ・ブランシュ</item>
+        <item>ディスカバー</item>
+        <item>ダイナースクラブ</item>
+        <item>マスターカード</item>
+        <item>ビザ</item>
+    </string-array>
+
+    <string name="txt_expires_on">有効期限日：</string>
+    <string name="credit_card_type_spiner_hint">カードの種類を選択する</string>
+    <string name="credit_card_name_spiner_hint">クレジットカードを選択</string>
+    <string name="txt_name_on_card">カード名義</string>
+    <string name="milage_unlimited">制限なしのマイレージ</string>
+    <string name="milage_limited">制限ありのマイレージ</string>
+    <string name="car_reservation_title">車を予約</string>
+    <string name="flight_schecduel_one_stop_txt">1回乗り継ぎ</string>
+    <string name="upcoming_trips_footer_sync_your_trips_to_your_calendar">旅程をカレンダーと同期</string>
+    <string name="flight_reminder_gate_title">ゲート:</string>
+    <string name="flight_reminder_arrival">到着</string>
+    <string name="flight_reminder_arrival_date">到着の日付</string>
+    <string name="widget_planning_a_new_trip_qm">新規の旅行を計画していますか?</string>
+    <string name="my_trips_upcoming_tab_name">次の</string>
+    <string name="my_trips_past_tab_name">過去</string>
+    <string name="notify_settings_every_day">毎日</string>
+    <string name="notify_settings_only_while_traveling">旅行中のみ</string>
+    <string name="notify_settings_never">全然なし</string>
+    <string name="enabled">有効</string>
+    <string name="disabled">無効</string>
+    <string name="miles">マイル</string>
+    <string name="kilometers">キロメートル</string>
+    <string name="fahrenheit">°F</string>
+    <string name="celsius">°C</string>
+    <string name="home_tab_home">ホーム</string>
+    <string name="home_tab_mytrips">旅行プラン</string>
+    <string name="home_tab_booking">予約</string>
+    <string name="home_tab_tools">ツール</string>
+    <string name="service_send_feedback">フィードバックをお願いします</string>
+    <string name="payable_on_arrival">到着時に支払い：</string>
+    <string name="drivers_age_and_nationality">運転者の年齢および国籍</string>
+    <string name="nationality">国籍</string>
+    <string name="age">年齢</string>
+    <string name="payable_now">今すぐ支払い：</string>
+    <string name="rental_conditions">レンタルの条件</string>
+    <string name="booking_engine_terms_and_conditions">利用規約</string>
+    <string name="booking_engine_terms_and_conditions_format">および&lt;u&gt;%s&lt;/u&gt;を提供</string>
+    <string name="no_driver_age_error">有効な運転者の年齢を入力してください</string>
+    <string name="no_driver_nationality_error">有効な運転者の国籍を入力してください</string>
+    <string name="please_enter_valid_airline_code_error">有効な航空会社コードを入力してください</string>
+    <string name="please_enter_valid_airline_number">有効な航空会社番号を入力してください</string>
+    <string name="included_in_price">料金に含まれるもの：</string>
+    <string name="car_booking_card_note">ピックアップ時にレンタカー業者に第一運転者の名前が記載されているクレジットカードが必要なことをご了承ください。</string>
+    <string name="finalaze_reservation">予約を最終決定</string>
+    <string name="confirm_booking">予約を確認</string>
+    <string name="cwt_tutorial_travle">旅行ツール</string>
+    <string name="my_trips_upcoming_ab_tablet">今後</string>
+    <string name="my_trips_past_ab_tablet">過去</string>
+    <string name="failed_to_add_contact">連絡先の追加に失敗しました</string>
+    <string name="hotel_reservation_title">予約を完了</string>
+    <string name="weather_search_results_tite">検索結果</string>
+    <string name="about_legal_notice"><a href="">利用規定</a></string>
+    <string name="delete_txt">削除</string>
+    <string name="landmark_current_location">現在地</string>
+    <string name="weather_no_current_city_title">天気を入手できません</string>
+    <string name="weather_no_current_city_sub">接続がありません</string>
+    <string name="install_skype">通話をするには、デバイスにSkypeがインストールされている必要があります</string>
+    <!-- NOT translated -->
+    <string name="prev_item">前</string>
+    <string name="next_item">次</string>
+    <string name="car_booking_reservation_in_progress_message">車のレンタル予約の手続きを行っています。\n2分ほどかかるかもしれません。\nお待ちください。</string>
+    <string name="hotel_booking_reservation_in_progress_message">お待ちください</string>
+    <string name="facebook_share_default_message_1to_city_2from_date_3to_date_4year_format">%1$sから%2$sまで名古屋へ旅行します</string>
+
+    <string name="flight_departs_in_countdown">カウントダウン：</string>
+
+    <!-- Share Trip -->
+    <string name="activity_shareTrip_progressTitle">お待ちください</string>
+    <string name="activity_shareTrip_progressMessage">シェア中&#8230;</string>
+    <string name="activity_shareTrip_shareResult_shareButtonContactSelected">シェア</string>
+    <string name="activity_shareTrip_shareResult_shareButtonContactNotSelected">連絡先を選択してください</string>
+    <string name="share_trip_email_format_message">フォームに連絡先を入力してください：John@Smith.com</string>
+    <string name="share_trip_to_title">宛先</string>
+    <string name="share_trip_popup_text_itinerary">旅行の計画を同僚や家族とシェアする</string>
+    <string name="share_trip_popup_text_flight_delay">この遅延情報を同僚や家族とシェアする</string>
+    <string name="share_trip_popup_text_flight_changed">この変更内容を同僚や家族とシェアする</string>
+    <string name="share_trip_popup_text_flight_be_late">あなたが遅れることを、同僚と家族に知らせてください</string>
+    <string name="share_trip_could_not_send">%1$sは有効なメールアドレスではありません</string>
+    <string name="share_trip_to_recipient_email">宛先</string>
+    <string name="share_trip_summary_to_car_rental">%2$sでの%1$sのレンタカーの詳細</string>
+    <string name="share_trip_summary_to_train">%2$sでの%1$sの地上交通機関の詳細</string>
+    <string name="share_trip_summary_to_flight">%2$sへの%1$sのフライト</string>
+    <string name="share_trip_summary_to_hotel">%2$sでの%1$sのホテル</string>
+    <string name="share_trip_summary_to_meeting">%2$sでの%1$sのミーティングの詳細</string>
+    <string name="share_trip_summary_to_trip">%2$sへの%1$sの旅行</string>
+    <string name="share_trip_summary_to_trip_no_destination">%1$sの旅行</string>
+    <string name="share_trip_summary_to_booking">%1$s様の予約</string>
+    <string name="share_trip_title">連絡先とシェア</string>
+    <string name="share_trip_send_yourself_email"><![CDATA[シェアする内容を確認しますか？このメールを自分宛てに送信するには<b>こちらをクリック</b>]]></string>
+    <string name="share_trip_shared_item_success">シェアされました</string>
+    <string name="share_trip_shared_trip_success">旅行がシェアされました</string>
+    <string name="share_trip_could_not_share"> この時点でシェアすることができませんでした。再度お試しください。</string>
+    <string name="share_trip_could_not_send_all_recipients">次の受信者とのシェアの際にエラーが発生しました：</string>
+    <string name="online_checkin_ssl_error_message">この航空会社のウェブサイトはお使いのデバイスに認定されていません。続行しますか?</string>
+
+    <!-- NOT translated, should be translated (Hotel booking) -->
+
+    <string name="service_travel_notification_drawer">お知らせ</string>
+
+    <!-- NOT translated, weather related -->
+
+    <string name="weather_no_trip_cities_title">近日予定の旅行なし</string>
+    <string name="weather_no_trip_cities_sub">旅行が追加される際、天気\n予報が表示されます</string>
+    <string name="check_in_text">チェックイン</string>
+    <string name="check_out_text">チェックアウト</string>
+    <string name="contact_details_text">連絡先情報</string>
+
+    <!-- NOT translated, home screen cards related -->
+
+    <string name="trip_summary">旅行の概要</string>
+    <string name="view_all_trips">全ての旅行を閲覧</string>
+    <string name="flights">フライト</string>
+    <string name="hotels">ホテル</string>
+    <string name="cars">レンタカー</string>
+    <string name="trains">列車</string>
+    <string name="share_title">シェア</string>
+    <string name="share_btn_connected">シェア</string>
+    <string name="share_btn_not_connected">Facebookでシェア</string>
+    <string name="no_flights">フライトなし</string>
+    <string name="no_cars">レンタカーなし</string>
+    <string name="missing_accommodation">宿泊先不明</string>
+    <string name="more_than">以上</string>
+    <string name="check_in_str" formatted="false">フライト%s %d：オンラインチェックイン可能</string>
+    <string name="reserve_rental_car">%sの滞在時用にレンタカーを予約</string>
+    <string name="car_time" formatted="false">%d日、%s - %s</string>
+    <string name="trip_map_card_title">旅行地図</string>
+    <string name="arrives_in">到着：</string>
+
+    <plurals name="more_flights_plurals">
+        <item quantity="one">\nおよびさらに1フライト</item>
+        <item quantity="other">\nおよびさらに%dフライト</item>
+    </plurals>
+    <plurals name="more_cars_plurals">
+        <item quantity="one">\u0020およびさらに1レンタカー</item>
+        <item quantity="other">\u0020およびさらに%dレンタカー</item>
+    </plurals>
+    <plurals name="more_hotels_plurals">
+        <item quantity="one">\u0020およびさらに1ホテル</item>
+        <item quantity="other">\u0020およびさらに%dホテル</item>
+    </plurals>
+    <plurals name="more_train_plurals">
+        <item quantity="one">\u0020およびさらに1回列車に乗車</item>
+        <item quantity="other">\u0020およびさらに%d回列車に乗車</item>
+    </plurals>
+
+    <string name="next_trips">次の旅行プラン</string>
+    <string name="whats_next">次の旅行プラン</string>
+    <string name="no_upcoming_trips_card_text">旅程を追加する場合は、予約確認メールをこちらに転送して下さい。 %s</string>
+    <string name="no_upcoming_trips_card_approval_dialog" formatted="false">\"%s\"を連絡先に追加しますか?</string>
+    <string name="missing_accomodations_for_tonight">今晩ホテルが必要ですか?</string>
+    <string name="missing_accomodations_no_result_text" formatted="false">%sホテルは見つかりませんでした\n%sの間</string>
+
+    <plurals name="missing_accommodations_nights_plural">
+        <item quantity="one"> 泊</item>
+        <item quantity="other"> 泊</item>
+    </plurals>
+
+    <string name="missing_accommodations_view_more">その他のホテルを閲覧</string>
+    <string name="missing_accommodations_book_now">今すぐご予約下さい</string>
+    <string name="missing_accommodations_previous_stay">過去に利用した宿・ホテル</string>
+
+    <!-- worldmate wellcome screen -->
+
+    <string name="worldmate_main_title1">旅行プランを一元管理</string>
+    <string name="worldmate_main_title2">リアルタイムな情報提供</string>
+    <string name="worldmate_sub_title2">フライトの遅延、ゲート変更、キャンセルなどのアラートをリアルタイムに受信します。\n代わりのフライトを簡単に検索できます。\n（GOLD版のみ）</string>
+    <string name="worldmate_main_title3">時間の節約、お金の節約</string>
+    <string name="worldmate_sub_title3">10万軒以上ある世界中のホテルから1番お得な料金で予約。旅行プランにあったおすすめホテルを検索できます。</string>
+    <string name="worldmate_main_title4">ご旅行に最適なツール</string>
+
+    <plurals name="past_destination_trips_plurals">
+        <item quantity="one">1</item>
+        <item quantity="other">%d</item>
+    </plurals>
+    <plurals name="past_destination_destination_plurals">
+        <item quantity="one">1</item>
+        <item quantity="other">%d</item>
+    </plurals>
+
+    <string name="past_destination_this_year_format">今年は%1$s回旅行し、%2$sヵ所に行きました</string>
+    <string name="past_destination_last_year_format">去年は%1$s回旅行し、%2$sヵ所に行きました</string>
+    <string name="past_destination_not_travel">過去の旅行はありません</string>
+    <string name="get_directions_to_format">%sへのルート検索</string>
+    <string name="card_no_connectivity_error">接続がありません。\n後で再度お試しください。</string>
+    <string name="card_no_data_error">データの取得に失敗しました。\n後で再度お試しください。</string>
+    <string name="service_send_us_feedback">フィードバックをお願いします!</string>
+
+    <string name="please_selecct_drop_off_loc">ドロップオフの場所を選択してください</string>
+    <string name="please_select_pick_up_loc">ピックアップの場所を選択してください</string>
+    <string name="portrait_profile">個人プロファイル</string>
+    <string name="portrait_no_connectivity_error">初回のプロフィールのアクセスには、無線インターネットへの接続が必要です。接続後、再度お試しください</string>
+    <string name="whats_new">最新情報</string>
+
+    <!-- for cwttogo use of terms link, see other languages in cwttogo project -->
+    <string name="terms_of_use_link">http://www.cwttogo.com/mobile/terms_of_use.php?lang=en</string>
+
+    <!-- for off channel -->
+    <string name="off_channel_business_type_value">ビジネス</string>
+    <string name="off_channel_leisure_type_value">レジャー</string>
+    <string name="off_channel_item">アイテム</string>
+    <string name="off_channel_item_change_alert_business_multiple">この旅行にはビジネスのアイテムがXつあります</string>
+    <string name="off_channel_item_change_alert_leisure_multiple">この旅行にはレジャーのアイテムがXつあります</string>
+    <string name="off_channel_item_change_alert_leisure_singular">この旅行にはレジャーのアイテムが１つあります</string>
+    <string name="off_channel_item_change_alert_business_singular">この旅行にはビジネスのアイテムが１つあります</string>
+    <string name="off_channel_dialog_message">旅行の種類を「レジャー」に変更することにより、この旅行の全ての項目が「レジャー」に変更されます。項目を変更したい場合は、変更したいと思う項目をクリックし、その項目の旅行の種類を選択してください。</string>
+    <string name="off_channel_trip_title">旅行の種類</string>
+    <string name="off_channel_item_title">アイテムの種類</string>
+    <string name="off_channel_general_description">この旅行はレジャーですか？ここをタップし旅行タイプをレジャーに変更し、企業のレポーティングから除外して下さい。</string>
+    <string name="not_available">ありません</string>
+    <string name="to_depatrure">出発まで残り</string>
+    <string name="show_next_trip">次回の旅行を表示</string>
+    <string name="card_newcard_feat_text">ロイヤルティプログラム番号がすぐにご利用できます! 今すぐトラベルプロフィールにアクセスを!</string>
+    <string name="hotel_item">ホテル</string>
+    <string name="meeting_item">ミーティング</string>
+    <string name="transportation_item">その他交通</string>
+    <string name="flight_item" formatted="false">フライト %s %d</string>
+    <string name="flight_lower_title_pattern" formatted="false">%s (%s) - %s (%s)</string>
+
+    <string name="credit_card_ending_with">%1$s下四桁%2$s</string>
+
+    <string name="your_past_trips">過去の旅行</string>
+    <string name="car_results_total_price">%s 合計</string>
+
+    <string name="share_trip_comment_hint">個人メッセージをこちらに追加します。</string>
+
+    <string name="show_more">表示する</string>
+    <string name="show_less">表示を隠す</string>
+
+    <string name="non_active_one_week_scheduled_message_type_a">予約確認メールをこちらにお送りくださると、こちらであなたの旅程を管理しやすい形式に整理します。更にフライト運航状況や変更をライブでお知らせし、格安ホテル情報をご紹介します。</string>
+    <string name="non_active_one_day_scheduled_message_type_b">最近リニューアルした新アプリを使ってみませんか？</string>
+    <string name="non_active_one_week_scheduled_title_type_b">近々旅行をご予定ですか？</string>
+    <string name="non_active_one_month_scheduled_title_type_b">近日予定の旅行がありますか？</string>
+
+
+    <string name="international_date_line_dialog_title">国際日付変更線</string>
+    <string name="international_date_line_dialog_message">国際日付変更線(IDL)とは、地球の海上に設けられた太平洋を通る理論上の線のこと。国際日付変更線の西側の地域は、東側にある地域よりもカレンダー上1日先に進んでいることになる。そのため、旅行で国際日付変更線を東から西にまたぐ場合は、日付を1日戻し調節する。</string>
+
+    <string name="com_facebook_loading">読み込み中&#8230;</string>
+
+    <string name="about_learnmore_html"><a href="http://www.worldmate.com/">ユーザー同意書</a></string>
+
+    <string name="holders_name_remark">*カード名義を英文字半角でご記入ください。</string>
+    <string name="holders_name_remark_dialog">カード名義を英文字半角でご記入ください。</string>
+
+    <string name="signup_no_name_error_txt">名前と名字の間にスペースを空けて、\n名前、名字の順に入力して下さい。</string>
+
+    <string name="daily_plan_earlier_in">%1$s</string>
+
+    <!-- Booking Item -->
+    <string name="booking_item_name_title">予約項目:</string>
+    <string name="booking_item_description_title">種類:</string>
+    <string name="booking_item_status_title">ステータス:</string>
+    <string name="booking_item_status_description_title">ステータス詳細:</string>
+    <string name="booking_item_barcode_title">バーコード:</string>
+    <string name="booking_item_barcode_type_title">バーコードタイプ:</string>
+    <string name="booking_item_class_title">クラス:</string>
+    <string name="booking_item_section_title">セクション:</string>
+    <string name="booking_item_cabin_title">車両:</string>
+    <string name="booking_item_seat_title">座席:</string>
+    <string name="booking_item_validity_location_description_title">旅行先:</string>
+    <string name="booking_item_duration_description_title">:期間</string>
+
+    <string name="booking_item_opening_hours_title">営業時間:</string>
+    <string name="booking_item_phone_number_title">電話番号:</string>
+    <string name="booking_item_fax_title">FAX:</string>
+
+    <string name="booking_item_support_category_title">カスタマーサポート</string>
+    <string name="booking_item_support_email_title">カスタマーサポートEメール:</string>
+    <string name="booking_item_support_phone_title">カスタマーサポート電話番号:</string>
+
+    <string name="booking_item_booking_details_category_title">予約内容</string>
+    <string name="booking_item_total_price_title">合計料金:</string>
+    <string name="booking_item_quantity_title">予約内容:</string>
+    <string name="booking_item_average_daily_price_title">平均料金・1日:</string>
+    <string name="booking_item_total_tax_title">税金:</string>
+    <string name="booking_item_booking_date_title">契約日:</string>
+    <string name="booking_item_booking_website_name_title">予約したWebサイト名:</string>
+    <string name="booking_item_booking_website_phone_number_title">予約したWebサイトの電話番号:</string>
+    <string name="booking_item_booking_website_url_title">予約したWebサイトURLリンク:</string>
+    <string name="booking_item_booking_details_url_title">予約内容記載の URL:</string>
+    <string name="booking_item_booking_update_url_title">予約変更アップデートのURL:</string>
+    <string name="booking_item_refundable_title">払い戻し可能:</string>
+    <string name="booking_item_last_cancellation_date_title">最終キャンセル日:</string>
+    <string name="booking_item_booking_cancellation_url_title">予約キャンセル用のURL:</string>
+    <string name="booking_item_booking_cancellation_policy_title">キャンセルポリシー:</string>
+    <string name="booking_item_invoice_number_title">請求書番号:</string>
+    <string name="booking_item_shipping_location_title">宅配先住所:</string>
+
+
+    <string name="booking_item_vendor_category_title">提供</string>
+    <string name="booking_item_provider_title">予約先:</string>
+    <string name="booking_item_vendor_name_title">会社名:</string>
+    <string name="booking_item_vendor_code_title">予約コード:</string>
+
+    <string name="booking_item_additional_content_category_title">その他の情報</string>
+    <string name="booking_item_quantity_and_unit_format">%1$s %2$s</string>
+    <string name="booking_item_price_and_currency_format">%1$.2f %2$s</string>
+
+    <string name="about_for_support_contact_us_at">カスタマーサポートへのお問い合わせはこちら。</string>
+	<string name="missing_accommodations_notification_title">ホテルが予約されていません</string>
+
+</resources>

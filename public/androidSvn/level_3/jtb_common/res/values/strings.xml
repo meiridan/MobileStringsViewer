@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_copyright">Copyright 2014 JTB Business Travel Solutions, Inc.</string>
+
+    <string name="limo_introduction_part_two"/>
+
+    <string name="about_learnmore_html"><a href="http://www.worldmate.com/">User Agreement</a></string>
+
+    <string name="sign_up_link_eula">By signing up, you confirm that you accept the <a href="">User Agreement</a></string>
+
+
+</resources>

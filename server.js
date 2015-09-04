@@ -163,8 +163,8 @@ function SVNUdpateAndroidSFiles(cb){
 
 function executeSVNUpdate(cmd,cb){
 
-  cb() ;
-  /*
+
+
   var child = exec(cmd , function (error, stdout, stderr) {
     console.log(stdout);
      if (error !== null) {
@@ -174,7 +174,6 @@ function executeSVNUpdate(cmd,cb){
         cb();
       }
   });
-*/
 
 }
 

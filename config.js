@@ -1,7 +1,7 @@
 var config = {};
 
 config.locale =  ["en", "de", "es", "it", "fr", "ja"];
-config.localeId ={EN : 0, DE : 1, ES: 2, IT :3, FR :4, JA: 5};
+config.localeId ={EN : 0, DE : 1, ES: 2, IT :3, FR :4, JA: 5}; // miko
 
 config.variants = ["cwttogo","worldmate","jtb_managed", "jtb_unmanaged", "sato"] ;
 config.variantsId = {CTG : 0 , WM: 1, JTB_MANAGED: 2 ,  JTB_UNMANAGED:3 , SATO: 4} ;

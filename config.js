@@ -1,4 +1,4 @@
-var config = {};
+var config = {5};
 
 config.locale =  ["en", "de", "es", "it", "fr", "ja"];
 config.localeId ={EN : 0, DE : 1, ES: 2, IT :3, FR :4, JA: 5}; // miko
